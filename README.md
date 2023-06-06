@@ -1435,86 +1435,20 @@ http://meuplay.shop:80/828474929852/34882748924/550
  ############## CANAIS  ESPORTES ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  ESPORTES" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqbhc3wqAoWPzxWVS18gbJ5WiWTRhuTPgCj_lSudBrdMTf0cf9aZtYfIuqHNoCAnxHX0&usqp=CAU" group-title="CANAIS | ESPORTES",TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 WEW Brasil"tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS | ESPORTES",TNT Sports 5 WEW Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_icsbqY9JDUiP6uSUMESL9nJutw-58_L5Rw5ASb5zriXE56zLDRooWmtlFShabHnIXo&usqp=CAU" group-title="CANAIS | ESPORTES", SPACE
-http://51.159.54.153:14408/space
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTE EXTVLCOPT"tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg" group-title="CANAIS | ESPORTES",ESPORTE EXTVLCOPT
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3UHD"tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="CANAIS | ESPORTES", SPORTV 3UHD
-http://51.159.54.153:14417
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3UHD"tvg-logo="https://p16-va.topbuzzcdn.com/img/tos-maliva-v-0cbf1b-us/8f201cec964a47b9a6e1f655c4ada397~tplv-shrink:720:0.gif" group-title="CANAIS | ESPORTES",SPORTV2
-http://23.237.10.66:16180/sportv2
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
-http://meuplay.shop:80/Adminn8/6646885468/768
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS H265" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS H265
-http://meuplay.shop:80/Adminn8/6646885468/215
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-http://meuplay.shop:80/Adminn8/6646885468/5
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD " tvg-logo="https://imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD 
-http://meuplay.shop:80/Adminn8/6646885468/452
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT 02 HD¹" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | ESPORTES",UFC FIGHT 02 HD¹
-http://7go.xyz:8080/03xp0h/bk0kvq/300040
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD²" tvg-logo="http://i.imgur.com/rrEKbyr.png" group-title="CANAIS | ESPORTES",UFC FIGHT PASS HD²
-http://7go.xyz:8080/03xp0h/bk0kvq/293070
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate 4K" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate 4K
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate 4K" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate 4K
 http://srv.cldplay.net:80/live/820584rohs/67864336899/151035.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate FHD
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate FHD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83821.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate FHD [Alt]
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate FHD [Alt]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/147471.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [H265]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate FHD [H265]
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [H265]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate FHD [H265]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83376.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate HD
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate HD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83194.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate HD [Alt]
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD [Alt]" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate HD [Alt]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/147472.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate SD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="CANAIS | ESPORTES",Combate SD
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate SD" tvg-logo="https://i.imgur.com/NJGqF9C.png" group-title="Canais | Esportes",Combate SD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83538.m3u8
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | ESPORTES",COMBATE FHD
-http://meuplay.shop:80/Adminn8/6646885468/784
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE H265" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | ESPORTES",COMBATE H265
-http://meuplay.shop:80/Adminn8/6646885468/222
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://ccdnblck.xyz:80/images/b7bd64e2ba0016809276c61cbebdb20d.png" group-title="CANAIS | ESPORTES",COMBATE HD
-http://meuplay.shop:80/Adminn8/6646885468/10
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="https://imgur.com/mYkXWsu.png" group-title="CANAIS | ESPORTES",COMBATE SD
-http://meuplay.shop:80/Adminn8/6646885468/461
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV2"tvg-logo="https://memoriadatv.com.br/hf-conteudo/uploads/posts/2022/02/12579_combate-jpg.jpg" group-title="CANAIS | ESPORTES",COMBATE
-http://209.222.97.92:16493/
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD²" tvg-logo="http://i.imgur.com/WPmcn2I.png" group-title="CANAIS | ESPORTES",COMBATE FHD²
-http://7go.xyz:8080/03xp0h/bk0kvq/22656
-#EXTINF:-1 tvg-id="" tvg-name="Alpha Channel"tvg-logo="https://yt3.googleusercontent.com/zS6DTgBHEbToNDH5ef-HaxZ_bDDurbfI1O3pVEVn1T8LOsL1oL2wPizNU6U6juhsDSY98eD7jBI=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ESPORTES",Alpha Channel 
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="All Sports"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_yIdh6qaJJ1Azob_BJ56H-2LWgtuzvOHH6ucsmLl8FLAf5mMXKiuFu66W-MDUKrfd-A&usqp=CAU" group-title="CANAIS | ESPORTES",All Sports 
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="All Sports"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_yIdh6qaJJ1Azob_BJ56H-2LWgtuzvOHH6ucsmLl8FLAf5mMXKiuFu66W-MDUKrfd-A&usqp=CAU" group-title="CANAIS | ESPORTES",All Sports 
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV"tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="CANAIS | ESPORTES", SPORTV
-http://51.159.54.153:14411/
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3UHD"tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="CANAIS | ESPORTES", SPORTV 3UHD
-http://51.159.54.153:14417
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 UHD"tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="CANAIS | ESPORTES",SPORTV 2 UHD
-http://23.237.10.66:16180/
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2"tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="CANAIS | ESPORTES",SPORTV 2
-http://23.237.10.66:16180/
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 UHD"tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="CANAIS | ESPORTES",SPORTV 2 UHD
-http://51.159.54.153:14417/SporTV2
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3"tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="CANAIS | ESPORTES",SPORTV 3
-http://51.159.54.153:14417/
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM"tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" group-title="CANAIS | ESPORTES",FOX SPORTS PREMIUM
-http://ac.ntvlatino.com:8080/moises21/moises22/1126417
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS"tvg-logo="https://dplnews.com/wp-content/uploads/2022/06/dplnews_claro-sport_dn200622-696x381.png" group-title="CANAIS | ESPORTES",CLARO SPORTS
-http://ac.ntvlatino.com:8080/moises21/moises22/12011
-#EXTINF:-1 tvg-id="" tvg-name="ESPN"tvg-logo="https://cdn.dribbble.com/users/68746/screenshots/3708060/_main4.gif" group-title="CANAIS | ESPORTES",ESPN 
-http://89.38.96.234:14525/
-#EXTINF:-1 tvg-id="" tvg-name="FOX  SPORTS"tvg-logo="https://www.gifs-animados.net/original/foxsports.gif" group-title="CANAIS | ESPORTES",FOX  SPORTS
-http://ac.ntvlatino.com:8080/moises21/moises22/3267
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT2"tvg-logo="http://25.media.tumblr.com/ee28425809248296129f16e0c03cbe1d/tumblr_mrzcbyozOb1sdqx19o1_400.gif" group-title="CANAIS | ESPORTES",FOX SPORT2
-http://15.235.10.31:14326
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVLXXa5yyUAmWENJ00CCH7VaFYFTIC0fXR24UQbfa7zc7RhV6XR7TIP2WOmvPR6oYHX4&usqp=CAU" group-title="CANAIS | ESPORTES",FOX SPORT2
-http://15.235.10.31:14326
 
 #EXTM3U url-tvg=" http://grade-de-Canais  Esportes PPV.xml "
  ############## Canais  Esportes PPV ############## ### 
@@ -1687,35 +1621,33 @@ http://meuplay.shop:80/67598237854pw/9875352849pw/484
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Libertadores/Sul-Americana" group-title="
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL Paramount+ 1 FHD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/156746
+http://srv.cldplay.net:80/live/820584rohs/67864336899/156746.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL Paramount+ 1 HD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83866
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83866.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL Paramount+ 1 SD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 1 SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/122541
+http://srv.cldplay.net:80/live/820584rohs/67864336899/122541.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL Paramount+ 2 FHD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83706
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83706.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL Paramount+ 2 HD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83869
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83869.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL Paramount+ 2 SD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 2 SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83705
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83705.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL Paramount+ 3 FHD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83712
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83712.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL Paramount+ 3 HD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/86706
+http://srv.cldplay.net:80/live/820584rohs/67864336899/86706.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL Paramount+ 3 SD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 3 SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83711
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83711.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL Paramount+ 4 FHD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83715
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83715.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL Paramount+ 4 HD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/165437
+http://srv.cldplay.net:80/live/820584rohs/67864336899/165437.m3u8
 #EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL Paramount+ 4 SD" tvg-logo="https://i.imgur.com/ajM77OW.png" group-title="Canais | Libertadores/Sul-Americana",CONMEBOL Paramount+ 4 SD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83714
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83714.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Canais  Premiere FC.xml "
  ############## Canais  Premiere FC ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Premiere FC" group-title="
-
-
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 1 Clubes 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151037
@@ -1935,6 +1867,20 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83625
  ############## CANAIS | ESPORTES ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | ESPORTES" group-title="
 
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/139108
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [Alt]" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147625
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [H265]" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83404
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83243
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD [Alt]" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147626
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83596
+#EXTINF:-1 tvg-id="" tvg-name="OneFootball 1" tvg-logo="https://i.imgur.com/u1MD3Fl.png" group-title="CANAIS | ESPORTES",OneFootball 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/139472
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV FHD
 http://meuplay.shop:80/828474929852/34882748924/776
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV H265" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV H265
