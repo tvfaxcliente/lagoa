@@ -7810,7 +7810,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138772266.mp4
 ############## SÉRIES | DIVERSAS  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | DIVERSAS" group-title="
 
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/74955.avi
 #EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/4ejs8ls4WqD3Gn373LpZrStGLyQ.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73951.mp4
 #EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/1xrn9z7NpbQjsRQRhPRZedOuscY.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E02
