@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #EXTINF:-1 tvg-id="" tvg-name="TV FAX 11 941386627"tvg-logo="https://i.picasion.com/pic92/e7a120ef007b8c3f4778f662e6425e0e.gif" group-title="TV FAX",TV FAX 11 941386627
 https://ia902601.us.archive.org/14/items/new-creative-video-2/New%20creative%20video%20%282%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TV FAX 11 941386627"tvg-logo="https://i.picasion.com/pic92/e7a120ef007b8c3f4778f662e6425e0e.gif" group-title="TV FAX",TV FAX 11 941386627
@@ -58,8 +57,552 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1658903474.m3u8
 https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w216375565.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV GAZETA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiipCqLmoiLK7SD2AYrPKnZmOdzekAusfc1-TdC7nDpb2STlKAxFqWfWQsN46odv0DG5loC77bm6ThT5gIud2T-8yDpUJadmkm5cAOA-xlNriANAxD87XsmuFjjUeXlMnIn6y8vthy1VwHarqW1mgLGlLVv-p-i_uPLBJgjiMHN2mESzv4m-oy-ZxLo/s200/TV%20GAZETA.jpg" group-title="CANAIS  SP",TV GAZETA
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w477325099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chaves"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDHXCb-Hps2JPR3XKP0ZbqEY6ayOu8W6SExAEAXnHP4htp_6N9VhO0RSKZO7ISVvuBAXJsEhnrOSbiuvIs2b015wNS7TaLErcMctOfoaj0yarG2iQ4YiqcojKlUxGbBJ_t_mXLa_8zAYgz8IN_FKxUKPuExdwi5Bak5LMrjH8gLfuTOWCQIJDOiDio/s200/TV%20CHAVES.jpg" group-title="CANAIS  SP",Chaves
-https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CqUFfcm9_ljlpYFDUPJEx_nuSpJqmLEkZC5MYS5JEF1EmdWt_FOZBEmn54N3kFjWWRZ4MtEzBoDPNMY6nOLxoFY4i3L7OTvkYRcR3_wYXX4YJKBtbTru8K0Ile6VuhmNxrTcey7JIDXJuzXGJ9FriQ1--MBdtNbh6wZTAfyQrhsrDvMLCeREFZoH5mDYQblQ-oTTKVTNd0N5dYcrS-t9UizuXYbz1oyPfGmZeQi0iv6E0KQ_fdn9ZFDniDhB-d-OWs2kPcuz0sy1Xjd80xrYAeqfTqOcT6ZrILhFGTAPAZ5rOeGw8e8vb5L8qHWfoi9rwV0cFDn5MyFl0vDvGxzjzYhcrfCEVwI4TIL3tdApL5L30scz93wR78cdVOfpH9bbYvzxBLholnC1EGuieWE334jxjiD3sXOUxeVxaM1TmjboH652mfKGfbUjq0v8q9EFL_mJGNkyGVVid6dBRCMPfyHe4HSnJaXODvE1YQ-KkcUjuyr4I3hl-WCz3YdzT8Pt_CAVj0_Lq14hvD1CgDp7wt5HToBUrZzML2t8NxTEM3l5VqxpkP4Nd1IyRSdSIGcLQlrQ0taKZvWGsJz9GxiTF_d-hnVrY5J0_mKcy8k0tWtHCz2wQON7JeyQCZgBOAesLJMSE2tjEDM-iOutRJT0LrD6x7GGt1w5vEKUVHmFtmrgoAirfMKTT4s0zeJ1amWFqA7994IDnoiRgfddzQx48qinDkK98ugF6EeQLu-oOr4x9xZzsBCPXBdJDM3ojbFkPheaL0kS0eXedpRWruOYzndNM76ML9JIfPcracJwlNWCaSjQrlGqFlHl9ZvoYExRyqOyzCvzBqYsFFWpjLSzVBTibljCHSouGdu4fJNiWO-O3dPZKVkLdDSGtEalYY_JCYiqlc3PQOAaDIc0B1oeK9M4ALHBtCABKgl1cy1lYXN0LTEwlQU.m3u8
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="CANAIS  SP",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="CANAIS  SP",Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS  SP",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AishTV.br" tvg-logo="https://i.imgur.com/QChh8Xs.png" group-title="CANAIS  SP",Aish TV
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+#EXTINF:-1 tvg-id="AllegroWebTV.br" tvg-logo="https://i.imgur.com/7iSmccE.png" group-title="CANAIS  SP",Allegro WebTV
+https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="CANAIS  SP",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="AlphaChannel.br" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="CANAIS  SP",Alpha Channel
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="CANAIS  SP",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="CANAIS  SP",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="ArarunaTV.br" tvg-logo="https://i.imgur.com/jl39ula.png" group-title="CANAIS  SP",Araruna TV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AscameTV.br" tvg-logo="https://i.imgur.com/LFY5pjU.png" group-title="CANAIS  SP",Ascame TV
+https://livefocamundo.com:8081/ascametv/index.m3u8
+#EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="CANAIS  SP",Bem TV
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BMTV.br" tvg-logo="https://i.imgur.com/bJ0ODh6.png" group-title="CANAIS  SP",BMTV
+https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="CANAIS  SP",Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-logo="https://i.imgur.com/Ms5tSgu.png" group-title="CANAIS  SP",Boa Vontade TV
+https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
+#EXTINF:-1 tvg-id="CaboFrioTV.br" tvg-logo="https://i.imgur.com/mPi6Wp3.png" group-title="CANAIS  SP",Cabo Frio TV
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="CANAIS  SP",Canal 25 Jundiai
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal38.br" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="CANAIS  SP",Canal 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="https://i.imgur.com/k29So6X.png" group-title="CANAIS  SP",Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-logo="https://i.imgur.com/7SE4CkE.png" group-title="CANAIS  SP",Canal FDR
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/G0x4xqa.png" group-title="CANAIS  SP",Canal Metropolitano de Noticias
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRicos.br" tvg-logo="https://i.imgur.com/hs2YVJ3.png" group-title="CANAIS  SP",Canal Ricos
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="CANAIS  SP",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-logo="https://i.imgur.com/ht4tUOc.png" group-title="CANAIS  SP",Canal Saude
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSete.br" tvg-logo="https://i.imgur.com/0cq0BPp.png" group-title="CANAIS  SP",Canal Sete
+http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTVRio.br" tvg-logo="https://i.imgur.com/jBRE3BK.png" group-title="CANAIS  SP",Canal TV Rio
+https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS  SP",Cartoonito Brazil
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="CANAIS  SP",Cartoon Network Brazil
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="Catve2.br" tvg-logo="https://i.imgur.com/qiVfsfB.png" group-title="CANAIS  SP",Catve2
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:-1 tvg-id="CatveFM.br" tvg-logo="https://i.imgur.com/w89yw36.png" group-title="CANAIS  SP",Catve FM
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CatveMasterTV.br" tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="CANAIS  SP",Catve Master TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CBTVInternacional.br" tvg-logo="https://i.imgur.com/7TaaMyJ.png" group-title="CANAIS  SP",CBTV Internacional
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-id="CentralTV.br" tvg-logo="https://i.imgur.com/22jXTu4.png" group-title="CANAIS  SP",Central TV
+https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8
+#EXTINF:-1 tvg-id="ChromaTV.br" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="CANAIS  SP",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="CANAIS  SP",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="CANAIS  SP",Classique TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="CANAIS  SP",Classique TV Western
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="CANAIS  SP",CNN Brasil
+http://170.82.200.38:8080/cnn_brasil/playlist.m3u8
+#EXTINF:-1 tvg-id="COMBrasil.br" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="CANAIS  SP",COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-id="ConectaMaisTV.br" tvg-logo="https://i.imgur.com/qHwTWlz.png" group-title="CANAIS  SP",Conecta Mais TV
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="ConecTVBrasil.br" tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="CANAIS  SP",ConecTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="ConexaoTV.br" tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="CANAIS  SP",Conexao TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CulturaPara.br" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="CANAIS  SP",Cultura Para
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="CANAIS  SP",CWB TV
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DarkMatterTVBrazil.br" tvg-logo="https://i.imgur.com/H0jPZMA.png" group-title="CANAIS  SP",Dark Matter TV Brazil
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DemaisTV.br" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="CANAIS  SP",Demais TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="DunasTV.br" tvg-logo="https://i.imgur.com/0Qe20y5.png" group-title="CANAIS  SP",Dunas TV
+https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
+#EXTINF:-1 tvg-id="ElementalChannel.br" tvg-logo="https://i.imgur.com/8upyApg.png" group-title="CANAIS  SP",Elemental Channel
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="ElyTV.br" tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="CANAIS  SP",ElyTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-id="EUTV.br" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="CANAIS  SP",EUTV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="FalaLitoral.br" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="CANAIS  SP",Fala Litoral
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="CANAIS  SP",Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="CANAIS  SP",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GhostTV.br" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="CANAIS  SP",Ghost TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="CANAIS  SP",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="CANAIS  SP",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="IMPDTV.br" tvg-logo="https://i.imgur.com/23m7LHH.png" group-title="CANAIS  SP",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="CANAIS  SP",ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:-1 tvg-id="J3NEWSTV.br" tvg-logo="https://i.imgur.com/lezIQyL.png" group-title="CANAIS  SP",J3NEWS TV
+https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="CANAIS  SP",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="CANAIS  SP",KpopTV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="LavrasCETV.br" tvg-logo="https://i.imgur.com/y0LSin2.png" group-title="CANAIS  SP",Lavras CE TV
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
+#EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="CANAIS  SP",Loading
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MasterShowTV.br" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="CANAIS  SP",Master Show TV
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-id="MKKWebTV.br" tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="CANAIS  SP",MKK Web TV
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkBrazil.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="CANAIS  SP",MyTime Movie Network Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTV.br" tvg-logo="https://i.imgur.com/g7pLORX.png" group-title="CANAIS  SP",Nature TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://i.imgur.com/wskp11q.png" group-title="CANAIS  SP",NDTV Record TV Criciuma
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 tvg-id="NickClassico.br" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="CANAIS  SP",Nick Classico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+#EXTINF:-1 tvg-id="NickJrClubBrazil.br" tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="CANAIS  SP",Nick Jr Club Brazil
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="CANAIS  SP",Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="CANAIS  SP",Nova TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CANAIS  SP",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.br" tvg-logo="https://i.imgur.com/n79nkVC.png" group-title="CANAIS  SP",NTV
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CANAIS  SP",Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OESCTV.br" tvg-logo="https://i.imgur.com/vnukY7x.png" group-title="CANAIS  SP",OESC TV
+https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
+#EXTINF:-1 tvg-id="OpiniaoPlayTV.br" tvg-logo="https://i.imgur.com/67jQYZ5.png" group-title="CANAIS  SP",Opiniao Play TV
+https://livefocamundo.com:8081/opiniaoplay/index.m3u8
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="CANAIS  SP",Peru Channel
+https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="PlenaTV.br" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="CANAIS  SP",Plena TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="PortalCultura.br" tvg-logo="https://i.imgur.com/s0kIlmM.png" group-title="CANAIS  SP",Portal Cultura
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimerTV.br" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="CANAIS  SP",Primer TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="CANAIS  SP",RBATV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RBTV.br" tvg-logo="https://i.imgur.com/m7JDxXJ.png" group-title="CANAIS  SP",RBTV
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RDCTV.br" tvg-logo="https://i.imgur.com/vMpiSwG.png" group-title="CANAIS  SP",RDC TV
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAIS  SP",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-logo="https://i.imgur.com/gEEiN10.png" group-title="CANAIS  SP",RecordTV Belem
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVBrasilia.br" tvg-logo="https://i.imgur.com/PZMas8Y.png" group-title="CANAIS  SP",RecordTV Brasilia
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVGoias.br" tvg-logo="https://i.imgur.com/Fdoax1M.png" group-title="CANAIS  SP",RecordTV Goias
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVItapoan.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/512px-Logotipo_da_RecordTV_Itapoan.png" group-title="CANAIS  SP",RecordTV Itapoan
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-logo="https://i.imgur.com/6HT6QMV.png" group-title="CANAIS  SP",RecordTV Minas
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/512px-Logotipo_da_RecordTV_Rio.png" group-title="CANAIS  SP",RecordTV Rio
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVRS.br" tvg-logo="https://i.imgur.com/JLQWoNc.png" group-title="CANAIS  SP",RecordTV RS
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="CANAIS  SP",RecordTV Sao Paulo
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="CANAIS  SP",Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+#EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="CANAIS  SP",Rede Brasil de Comunicacao
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:-1 tvg-id="RedeCaxias.br" tvg-logo="https://i.imgur.com/zqiOQJ1.png" group-title="CANAIS  SP",Rede Caxias
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeCNTCuiaba.br" tvg-logo="https://i.imgur.com/B8e1Uyx.png" group-title="CANAIS  SP",Rede CNT Cuiaba
+https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTCuritiba.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS  SP",Rede CNT Curitiba
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+#EXTINF:-1 tvg-id="RedeCNTLondrina.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS  SP",Rede CNT Londrina
+https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTPortoAlegre.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS  SP",Rede CNT Porto Alegre
+https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRioBranco.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS  SP",Rede CNT Rio Branco
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-riobranco_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS  SP",Rede CNT Rio de Janeiro
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTSalvador.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS  SP",Rede CNT Salvador
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTSaoPaulo.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS  SP",Rede CNT Sao Paulo
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/7KVFCrQ.png" group-title="CANAIS  SP",Rede Familia
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeInternacionaldeTV.br" tvg-logo="https://i.imgur.com/i2psU4x.png" group-title="CANAIS  SP",Rede Internacional de TV
+https://ythls.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+#EXTINF:-1 tvg-id="RedeMais.br" tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="CANAIS  SP",Rede Mais
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/yFRqXIx.png" group-title="CANAIS  SP",Rede Massa
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://i.imgur.com/MtQWAHv.png" group-title="CANAIS  SP",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 tvg-id="RedeMundoTV.br" tvg-logo="https://i.imgur.com/2dsnTGd.png" group-title="CANAIS  SP",Rede Mundo TV
+https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeNGT.br" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="CANAIS  SP",Rede NGT
+https://acesso.ecast.site:3922/live/redengtlive.m3u8
+#EXTINF:-1 tvg-id="RedePremiumTV.br" tvg-logo="https://i.imgur.com/jMHaHAR.png" group-title="CANAIS  SP",Rede Premium TV
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeQDM.br" tvg-logo="https://i.imgur.com/Lxqb2cU.png" group-title="CANAIS  SP",Rede QDM
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeRC.br" tvg-logo="https://i.imgur.com/y9dqo3f.png" group-title="CANAIS  SP",Rede RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="CANAIS  SP",Rede Seculo 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeSPTV.br" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="CANAIS  SP",Rede SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS  SP",Rede TV!
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTVES.br" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="CANAIS  SP",Rede TV! ES
+https://hls.brasilstream.com.br/live/redetves/redetves/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="CANAIS  SP",RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="CANAIS  SP",Rede UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="CANAIS  SP",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeWebTV.br" tvg-logo="https://i.imgur.com/C1wZa7x.png" group-title="CANAIS  SP",Rede Web TV
+https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="CANAIS  SP",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="CANAIS  SP",Santa Cecilia TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="CANAIS  SP",SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/iV1Ib7L.png" group-title="CANAIS  SP",SBT Para
+https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
+#EXTINF:-1 tvg-id="SertaoTV.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="CANAIS  SP",Sertao TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="CANAIS  SP",SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
+#EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="CANAIS  SP",SIC TV
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-id="SOUTV.br" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" group-title="CANAIS  SP",SOU TV
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+#EXTINF:-1 tvg-id="SRTVPB.br" tvg-logo="https://i.imgur.com/72Htk9P.png" group-title="CANAIS  SP",SRTV PB
+https://livefocamundo.com:8081/srtvpb/index.m3u8
+#EXTINF:-1 tvg-id="STZTV.br" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="CANAIS  SP",STZ TV
+https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeBrazil.br" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="CANAIS  SP",Tastemade Brazil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TCM10HD.br" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="CANAIS  SP",TCM 10 HD
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="TelaViva.br" tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="CANAIS  SP",Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="CANAIS  SP",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="CANAIS  SP",TNT Sports 2 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="CANAIS  SP",TNT Sports 3 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="CANAIS  SP",TNT Sports 4 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS  SP",TNT Sports 5 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA7Plus.br" tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="CANAIS  SP",TV A7 Plus
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAberta.br" tvg-logo="https://i.imgur.com/SCz53uO.png" group-title="CANAIS  SP",TV Aberta
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAFolha.br" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="CANAIS  SP",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlagonet.br" tvg-logo="https://i.imgur.com/Bpmqjmo.png" group-title="CANAIS  SP",TV Alagonet
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAliancaCatarinense.br" tvg-logo="https://i.imgur.com/eqmOhtP.png" group-title="CANAIS  SP",TV Alianca Catarinense
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-id="TVALMG.br" tvg-logo="https://i.imgur.com/YOuCxKa.png" group-title="CANAIS  SP",TV ALMG
+https://ythls.onrender.com/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8
+#EXTINF:-1 tvg-id="TVAlternativa.br" tvg-logo="https://i.imgur.com/wM9xXhc.png" group-title="CANAIS  SP",TV Alternativa
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="CANAIS  SP",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAracati.br" tvg-logo="https://i.imgur.com/0CZn8cC.png" group-title="CANAIS  SP",TV Aracati
+https://livefocamundo.com:8081/tvaracati/index.m3u8
+#EXTINF:-1 tvg-id="TVArapuan.br" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="CANAIS  SP",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAratu.br" tvg-logo="https://i.imgur.com/LCETtuk.png" group-title="CANAIS  SP",TV Aratu
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAssembleiaCeara.br" tvg-logo="https://i.imgur.com/UPa1tjs.png" group-title="CANAIS  SP",TV Assembleia Ceara
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAssembleiaMatoGrosso.br" tvg-logo="https://i.imgur.com/BtkX8kg.png" group-title="CANAIS  SP",TV Assembleia Mato Grosso
+https://streaming.al.mt.gov.br/test/index.m3u8
+#EXTINF:-1 tvg-id="TVAssembleiaPiaui.br" tvg-logo="https://i.imgur.com/eMguSjM.png" group-title="CANAIS  SP",TV Assembleia Piaui
+https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBEJoinville.br" tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="CANAIS  SP",TVBE Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBeltrao.br" tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="CANAIS  SP",TV Beltrao
+https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBirigui.br" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="CANAIS  SP",TV Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="CANAIS  SP",TV Boqueirao
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="CANAIS  SP",TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="CANAIS  SP",TV BRICS Portuguese
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrusque.br" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="CANAIS  SP",TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="CANAIS  SP",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamara2.br" tvg-logo="https://i.imgur.com/dHrUG1R.png" group-title="CANAIS  SP",TV Camara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamaradeSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_tvcamara_.png/512px-Logo_tvcamara_.png" group-title="CANAIS  SP",TV Camara de Sao Paulo
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCandides.br" tvg-logo="https://i.imgur.com/evKq5ze.png" group-title="CANAIS  SP",TV Candides
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="CANAIS  SP",TV Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-logo="https://i.imgur.com/3AyMeWx.png" group-title="CANAIS  SP",TV Cidade Canal 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-logo="https://i.imgur.com/xUs8gHV.png" group-title="CANAIS  SP",TV Cidade de Petropolis
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-logo="https://i.imgur.com/SysgBqZ.png" group-title="CANAIS  SP",TV Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCinec.br" tvg-logo="https://i.imgur.com/Svm5pun.png" group-title="CANAIS  SP",TV Cinec
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1 tvg-id="TVClube.br" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="CANAIS  SP",TV Clube
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNAgitos.br" tvg-logo="https://i.imgur.com/5gvGC0P.png" group-title="CANAIS  SP",TV CN Agitos
+https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCOMSantos.br" tvg-logo="https://i.imgur.com/KX3fner.png" group-title="CANAIS  SP",TV COM Santos
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCordeiro.br" tvg-logo="https://i.imgur.com/wNULjux.png" group-title="CANAIS  SP",TV Cordeiro
+https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCRio.br" tvg-logo="https://i.imgur.com/WDiikWv.png" group-title="CANAIS  SP",TVC-Rio
+https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="CANAIS  SP",TV Cultura Nacional
+https://d28367vmhj4ljz.cloudfront.net/out/v1/f26e176ce67244de862cd9b21d823934/index.m3u8
+#EXTINF:-1 tvg-id="TVCuruca.br" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="CANAIS  SP",TV Curuca
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVdasArtes.br" tvg-logo="https://i.imgur.com/fSWaiKt.png" group-title="CANAIS  SP",TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDestak.br" tvg-logo="https://i.imgur.com/YoCVrav.png" group-title="CANAIS  SP",TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1 tvg-id="TVDiariodoSertao.br" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="CANAIS  SP",TV Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDifusoraLeste.br" tvg-logo="https://i.imgur.com/hEd25Cr.png" group-title="CANAIS  SP",TV Difusora Leste
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://i.imgur.com/kQpZy8h.png" group-title="CANAIS  SP",TV Difusora Sao Luis
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-logo="https://i.imgur.com/B5ZTMzY.png" group-title="CANAIS  SP",TV Digital Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDiversa.br" tvg-logo="https://i.imgur.com/b3hMu5h.png" group-title="CANAIS  SP",TV Diversa
+https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
+#EXTINF:-1 tvg-id="TVdoPovo.br" tvg-logo="https://i.imgur.com/58EQ5qX.png" group-title="CANAIS  SP",TV do Povo
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="CANAIS  SP",TVE Bahia
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEmpire.br" tvg-logo="https://i.imgur.com/tT1NVfV.png" group-title="CANAIS  SP",TV Empire
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="CANAIS  SP",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="CANAIS  SP",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFuturo.br" tvg-logo="https://i.imgur.com/xonrNBf.png" group-title="CANAIS  SP",TV Futuro
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-logo="https://i.imgur.com/xwfxS9N.png" group-title="CANAIS  SP",TV Galega Blumenau
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGerais.br" tvg-logo="https://i.imgur.com/6qs1obj.png" group-title="CANAIS  SP",TV Gerais
+https://video01.kshost.com.br:4443/humberto3322/humberto3322/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGideoes.br" tvg-logo="https://i.imgur.com/dDomKND.png" group-title="CANAIS  SP",TV Gideoes
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGramado.br" tvg-logo="https://i.imgur.com/5558bMI.png" group-title="CANAIS  SP",TV Gramado
+https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="CANAIS  SP",TV Grande Natal
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVGraoPara.br" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="CANAIS  SP",TV Grao Para
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="CANAIS  SP",TV Guara
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGuarapari.br" tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="CANAIS  SP",TV Guarapari
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF:-1 tvg-id="TVideoNews.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="CANAIS  SP",TVideoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="TVInforBahia.br" tvg-logo="https://i.imgur.com/KdNQfza.png" group-title="CANAIS  SP",TV InforBahia
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVInterlagos.br" tvg-logo="https://i.imgur.com/iuQVDpq.jpg" group-title="CANAIS  SP",TV Interlagos
+https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIracema.br" tvg-logo="https://i.imgur.com/IzdIiys.png" group-title="CANAIS  SP",TV Iracema
+https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="CANAIS  SP",TVitape
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-id="TVJapi.br" tvg-logo="https://i.imgur.com/dnmzIhF.png" group-title="CANAIS  SP",TV Japi
+https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJSID.br" tvg-logo="https://i.imgur.com/yy8uBPW.png" group-title="CANAIS  SP",TV J.SID
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS  SP",TV Justica
+https://ythls.onrender.com/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+#EXTINF:-1 tvg-id="TVLaVerdad.br" tvg-logo="https://i.imgur.com/I3iMwnY.png" group-title="CANAIS  SP",TV La Verdad
+https://ythls.onrender.com/channel/UCS5n5q3lJBXom3wVbOiUl9Q.m3u8
+#EXTINF:-1 tvg-id="TVLiberdade.br" tvg-logo="https://i.imgur.com/W6bHHqE.png" group-title="CANAIS  SP",TV Liberdade
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaceio.br" tvg-logo="https://i.imgur.com/zZ9LEOZ.png" group-title="CANAIS  SP",TV Maceio
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaisBrasil.br" tvg-logo="https://i.imgur.com/CUHZhGc.png" group-title="CANAIS  SP",TV Mais Brasil
+http://sevensp.homelinux.com/live/index.m3u8
+#EXTINF:-1 tvg-id="TVMaisMarica.br" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="CANAIS  SP",TV Mais Marica
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMar.br" tvg-logo="https://i.imgur.com/mEZtRup.png" group-title="CANAIS  SP",TV Mar
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarajoara.br" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="CANAIS  SP",TV Marajoara
+https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaster.br" tvg-logo="https://i.imgur.com/fTgGvNJ.png" group-title="CANAIS  SP",TVMaster
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaticComedy.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Comedy
+http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:-1 tvg-id="TVMaticCrafts.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Crafts
+http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:-1 tvg-id="TVMaticFacebook.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Facebook
+http://cdn.tvmatic.net/facebook.m3u8
+#EXTINF:-1 tvg-id="TVMaticFight.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Fight
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 tvg-id="TVMaticFunny.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Funny
+http://cdn.tvmatic.net/funny.m3u8
+#EXTINF:-1 tvg-id="TVMaticTikTok.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic TikTok
+http://cdn.tvmatic.net/tiktok.m3u8
+#EXTINF:-1 tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="CANAIS  SP",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMetropole.br" tvg-logo="https://i.imgur.com/bJyjLpg.png" group-title="CANAIS  SP",TV Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMon.br" tvg-logo="https://i.imgur.com/Gjan8rl.png" group-title="CANAIS  SP",TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMundoMaior.br" tvg-logo="https://i.imgur.com/aneHeMz.png" group-title="CANAIS  SP",TV Mundo Maior
+https://ythls.onrender.com/channel/UC5-IOBnk-mFdQgKS-niajYg.m3u8
+#EXTINF:-1 tvg-id="TVNBN.br" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="CANAIS  SP",TVNBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNBrasil.br" tvg-logo="https://i.imgur.com/XZS13xD.png" group-title="CANAIS  SP",TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNovaPlay.br" tvg-logo="https://i.imgur.com/MhoHk6I.png" group-title="CANAIS  SP",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOmindare.br" tvg-logo="https://i.imgur.com/naZZUIT.png" group-title="CANAIS  SP",TV Omindare
+https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOsorioNews.br" tvg-logo="https://i.imgur.com/cmgM4nA.png" group-title="CANAIS  SP",TV Osorio News
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPadreCicero.br" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="CANAIS  SP",TV Padre Cicero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="CANAIS  SP",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/Cnc1Mqo.png" group-title="CANAIS  SP",TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPampaNorte.br" tvg-logo="https://i.imgur.com/R7P5tcF.png" group-title="CANAIS  SP",TV Pampa Norte
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPantanalMS.br" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="CANAIS  SP",TV Pantanal MS
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="CANAIS  SP",TV Parana Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="TVPassoFundo.br" tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="CANAIS  SP",TV Passo Fundo
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlan.br" tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="CANAIS  SP",TV Plan
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlanaltoNorte.br" tvg-logo="https://i.imgur.com/I7VwA4s.png" group-title="CANAIS  SP",TV Planalto Norte
+https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPocos.br" tvg-logo="https://i.imgur.com/UMPz1vl.png" group-title="CANAIS  SP",TV Pocos
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPontadoSeixas.br" tvg-logo="https://i.imgur.com/7QHFC24.png" group-title="CANAIS  SP",TV Ponta do Seixas
+https://livefocamundo.com:8081/tvpontadoseixascanal9/index.m3u8
+#EXTINF:-1 tvg-id="TVPrecabura.br" tvg-logo="https://i.imgur.com/yI1nk3G.png" group-title="CANAIS  SP",TV Precabura
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+#EXTINF:-1 tvg-id="TVRioGrande.br" tvg-logo="https://i.imgur.com/nlDNDu3.png" group-title="CANAIS  SP",TV Rio Grande
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRioPreto.br" tvg-logo="https://i.imgur.com/9EqSKLc.png" group-title="CANAIS  SP",TV Rio Preto
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSandegi.br" tvg-logo="https://i.imgur.com/vJ6ZQSG.png" group-title="CANAIS  SP",TV Sandegi
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSantaCruz.br" tvg-logo="https://i.imgur.com/Jyw5BB2.png" group-title="CANAIS  SP",TV Santa Cruz
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSaoRaimundo.br" tvg-logo="https://i.imgur.com/f34CQIG.png" group-title="CANAIS  SP",TV Sao Raimundo
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="CANAIS  SP",TV Series
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSeteLagoas.br" tvg-logo="https://i.imgur.com/Na64Q2M.png" group-title="CANAIS  SP",TV Sete Lagoas
+https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="CANAIS  SP",TV Sim Cachoeiro
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimColatina.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="CANAIS  SP",TV Sim Colatina
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="CANAIS  SP",TV Sim Sao Mateus
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSolComunidade.br" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="CANAIS  SP",TV Sol Comunidade
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br" tvg-logo="https://i.imgur.com/qM6nMWm.png" group-title="CANAIS  SP",TV Sul Bahia
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSuldeMinas.br" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="CANAIS  SP",TV Sul de Minas
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="CANAIS  SP",TV Terceiro Anjo
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 tvg-id="TVThathi.br" tvg-logo="https://tv.thathi.com.br/wp-content/uploads/2021/02/tv-thathi-150x150.png" group-title="CANAIS  SP",TV Thathi
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTropical.br" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="CANAIS  SP",TV Tropical
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUFG.br" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="CANAIS  SP",TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://i.imgur.com/Ec90iw0.png" group-title="CANAIS  SP",TV Uniao Fortaleza
+https://stmv1.srvif.com/tvu/tvu/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="CANAIS  SP",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVerdesCamposSat.br" tvg-logo="https://i.imgur.com/jW5ph72.png" group-title="CANAIS  SP",TV Verdes Campos Sat
+https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVicosa.br" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="CANAIS  SP",TV Vicosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVilaReal.br" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="CANAIS  SP",TV Vila Real
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="TVWebCamocim.br" tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="CANAIS  SP",TV Web Camocim
+https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-id="TVWebParana.br" tvg-logo="https://i.imgur.com/HRfKUzS.png" group-title="CANAIS  SP",TV Web Parana
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
+#EXTINF:-1 tvg-id="TVWTJMINAS.br" tvg-logo="https://i.imgur.com/e53513E.png" group-title="CANAIS  SP",TV WTJMINAS
+https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+#EXTINF:-1 tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="CANAIS  SP",TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="UrbanTV.br" tvg-logo="https://i.imgur.com/RBcvj3Q.png" group-title="CANAIS  SP",Urban TV
+https://video01.logicahost.com.br/urbantvlive/urbantvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="VirtualTV.br" tvg-logo="https://i.imgur.com/e1b0TTP.png" group-title="CANAIS  SP",Virtual TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
+#EXTINF:-1 tvg-id="VRTChannel.br" tvg-logo="https://i.imgur.com/crszh3d.png" group-title="CANAIS  SP",VRT Channel
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+#EXTINF:-1 tvg-id="VV8TV.br" tvg-logo="https://i.imgur.com/TxHWAeD.png" group-title="CANAIS  SP",VV8 TV
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
+#EXTINF:-1 tvg-id="WebTVAguaBoa.br" tvg-logo="https://i.imgur.com/XrFoTDv.png" group-title="CANAIS  SP",Web TV Agua Boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="WTVBrasil.br" tvg-logo="https://i.imgur.com/4T8z1Ni.png" group-title="CANAIS  SP",WTV Brasil
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS CINE.xml "
  ############## CANAIS CINE ############## ### 
@@ -91,25 +634,6 @@ https://server101.online/jeannie-e-um-genio/tracks-v1a1/mono.m3u8?remote=168.227
 https://server101.online/bob/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=7dcff038ab59bacfaa76fe5a3115a4d9dc83067f-453453b2712ec7b13f699137151bdac3-1686161536-1686154336
 #EXTINF:-1 tvg-id="" tvg-name="Desenhos Clássicos TV Ao Vivo"tvg-logo="https://i.pinimg.com/originals/94/eb/a5/94eba51764348119037ca92ab202784f.gif" group-title="CANAIS CINE",Desenhos Clássicos TV Ao Vivo
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1368450056.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  RUN TIME.xml "
- ############## CANAIS  RUN TIME ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  RUN TIME" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS RUN TIME"tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFtbW8ucnVudGltZS50dl9zY3JlZW5fMV8xNjIzMzMyODgyXzAxNw/screen-1.webp?fakeurl=1&type=.webp" group-title="CANAIS | RUM TIME",CANAIS RUN TIME
-https://stream.ads.ottera.tv/cl/230529chqcjqn209oabji50kr0/1280x720_3071200_0_f.m3u8?i=475_4865
-#EXTINF:-1 tvg-id="" tvg-name="TV e Filme"tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_1920x1080_0.jpg" group-title="CANAIS | RUM TIME",TV e Filme
-https://stream.ads.ottera.tv/cl/230529chqcq39ra6j32342pr60/1280x720_3071200_0_f.m3u8?i=475_2153
-#EXTINF:-1 tvg-id="" tvg-name="AÇÂO"tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_action_bg.jpg" group-title="CANAIS | RUM TIME",AÇÂO
-https://stream.ads.ottera.tv/cl/230529chqcqp3lmhuafumfk54g/1280x720_3071200_0_f.m3u8?i=475_2552
-#EXTINF:-1 tvg-id="" tvg-name="COMÊDIA"tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/br_comedy_bg.jpg" group-title="CANAIS | RUM TIME",COMÊDIA
-https://stream.ads.ottera.tv/cl/230529chqcrle52bbt0j3q3ppg/1280x720_3071200_0_f.m3u8?i=475_2553
-#EXTINF:-1 tvg-id="" tvg-name="CRIME"tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crime_16x9_1.jpg" group-title="CANAIS | RUM TIME",CRIME
-https://stream.ads.ottera.tv/cl/230529chqcs2ggv6tvncdo43i0/1280x720_3071200_0_f.m3u8?i=475_4864
-#EXTINF:-1 tvg-id="" tvg-name="Cine Espanto"tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_1.jpg" group-title="CANAIS | RUM TIME",Cine Espanto
-https://stream.ads.ottera.tv/cl/230529chqcsj8bsvi5eh4tasr0/1280x720_3071200_0_f.m3u8?i=475_4865
-#EXTINF:-1 tvg-id="" tvg-name="ROMANCE"tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_romance_16x9_2.jpg" group-title="CANAIS | RUM TIME",ROMANCE
-https://stream.ads.ottera.tv/cl/230529chqct8223ngdit6b42v0/640x360_1126400_3_f.m3u8?i=475_4866
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  ABERTOS.xml "
  ############## CANAIS  ABERTOS ############## ### 
@@ -1170,7 +1694,6 @@ http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147456
 #EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brazil SD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="CANAIS | TELECINE",Travel Box Brazil SD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/162758
 
-
 #EXTM3U url-tvg=" http://grade-de-Canais  Filmes e Séries.xml "
  ############## Canais  Filmes e Séries ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Filmes e Séries" group-title="
@@ -1187,7 +1710,6 @@ http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83244
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147628
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel SD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83597
-
 
 #EXTM3U url-tvg=" http://grade-de-CINE SKY CINEMA.xml "
  ############## CINE SKY CINEMA ############## ### 
@@ -1779,7 +2301,6 @@ http://meuplay.shop:80/828474929852/34882748924/550
  http://5ce.co:80/live/mlindoso/qwe9673/6624.m3u8
 #EXTINF:-1 tvg-name="Combate SD²" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="Canais | Esportes Combate",Combate SD²
  http://5ce.co:80/live/mlindoso/qwe9673/10851.m3u8
-
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE - 4k²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4YOe6D5JOuPcLp8z8cOZ1VV6hruJtm39kl3H1LR2nu9q.png" group-title="Canais | Esportes Combate",COMBATE - 4k²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/53417
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4YOe6D5JOuPcLp8z8cOZ1VV6hruJtm39kl3H1LR2nu9q.png" group-title="Canais | Esportes Combate",COMBATE - FHD
@@ -1989,7 +2510,6 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/272
  http://5ce.co:80/live/mlindoso/qwe9673/6592.m3u8
 #EXTINF:-1 tvg-name="ESPN Extra SD²" tvg-logo="http://70.ms/Tr" group-title="CANAIS | ESPORTES ESPN",ESPN Extra SD²
  http://5ce.co:80/live/mlindoso/qwe9673/26157.m3u8
-
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 4K" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="CANAIS | ESPORTES ESPN",ESPN 1 4K
 http://srv.cldplay.net:80/live/820584rohs/67864336899/155420.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="CANAIS | ESPORTES ESPN",ESPN 1 FHD
@@ -2486,8 +3006,6 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83561.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [H265]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 FHD [H265]
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 
-
-
 #EXTM3U url-tvg="http://grade-de-FILMES  TV FAX.xml"
 ############## FILMES  TV FAX ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  TV FAX" group-title="
@@ -2496,12 +3014,10 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 http://7go.xyz:8080/movie/zogbi11/982451290/312832.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10  2023
 https://ia902709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.ia.mp4
-
-#EXTINF:-1 tvg-id="CINESKY3" tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Gato de Botas 2: O Último Pedido
+#EXTINF:-1 tvg-id="" tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Gato de Botas 2: O Último Pedido
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda Para Sempre" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Pantera Negra: Wakanda Para Sempre
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83315
-
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU" group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
 https://ia902700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie - O Gordo e o Magro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg" group-title="FILMES | TV FAX",Stan e Ollie - O Gordo e o Magro - 2018
@@ -2568,8 +3084,6 @@ http://7go.xyz:8080/movie/zogbi11/982451290/312735.mp4
 http://7go.xyz:8080/movie/zogbi11/982451290/312675.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Extorsão (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wAQvIuLJRFo0LCr0gLQTng9KRco.jpg" group-title="FILMES | TV FAX",A Extorsão (2023)
 http://7go.xyz:8080/movie/zogbi11/982451290/312835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Espera de Um Milagre" tvg-logo="https://pobreflix.org/wp-content/uploads/1995/05/iye7Fwd0puLTPwxsuHrL1YczeGu-200x300.jpg" group-title="FILMES | TV FAX",À Espera de Um Milagre
-https://server49.surahusa.one/index2.php?v=cDZBUGJXYkY2MXh1WGx3RVNKbnVIMitKSWNjQllVQjZTRU9sc2VkbWVXdXNZTFFXNEJIQVR6NFZXdk9lRXpsVQ==&t=1685579180&res=360&hash=d53a2810e2388160747ee407834ce12b
 #EXTINF:-1 tvg-id="" tvg-name="À Espera de Um Milagre" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCkbjUvOprnKy4Nq22zBr3K7Xot2UPsugDw&usqp=CAU" group-title="FILMES | TV FAX",À Espera de Um Milagre
 https://ia903409.us.archive.org/14/items/a-espera-de-um-milagre-1999-720p-dublado/%C3%80%20Espera%20de%20um%20Milagre%20%281999%29%20720p%20dublado.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lilo, Lilo, Crocodilo"tvg-logo="https://image.tmdb.org/t/p/w185/v4cqxZz2mHS0iyXvladOVltjJLQ.jpg"group-title="FILMES | TV FAX",Lilo, Lilo, Crocodilo
@@ -3835,6 +4349,63 @@ https://ia802601.us.archive.org/2/items/videoplayback-11_202306/videoplayback%20
 #EXTINF:-1 tvg-id="" tvg-name="O Gordo e o Magro" tvg-logo="https://media.tenor.com/0b76sMZMU70AAAAd/laurel-and.gif" group-title="Filme O Gordo e o Magro",O Gordo e o Magro 
 https://ia902602.us.archive.org/31/items/videoplayback-12_202306/videoplayback%20%2812%29.mp4
 
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA MAZZAROPI.xml"
+############## FILMES | COLETÂNEA MAZZAROPI ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA MAZZAROPI" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi  (2013)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hjz8BhdKCzTEaLsa4G92oZ1U7a.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi  (2013)*
+http://7go.xyz:8080/movie/zogbi11/982451290/292900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Portugal... Minha Saudade (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hvz6PW5TotlI1KrCPVX28fkosnf.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Portugal... Minha Saudade (1974)
+http://7go.xyz:8080/movie/zogbi11/982451290/50388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Puritano da Rua Augusta (1965)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnX0H9idfi7MN9dmCNLG8SaIlB.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Puritano da Rua Augusta (1965)
+http://7go.xyz:8080/movie/zogbi11/982451290/50380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jecão... Um Fofoqueiro no Céu (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gbz0oAZyJdThBs893R22444dsRf.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jecão... Um Fofoqueiro no Céu (1977)
+http://7go.xyz:8080/movie/zogbi11/982451290/50379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: A Banda das Velhas Virgens (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u02gmloL181gdA9I53R6dumSHUj.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: A Banda das Velhas Virgens (1979)
+http://7go.xyz:8080/movie/zogbi11/982451290/29446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: A Carrocinha (1955)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qe8ma8Gw4LutBUKeXJKDE1O09RX.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: A Carrocinha (1955)
+http://7go.xyz:8080/movie/zogbi11/982451290/29447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Betão Ronca Ferro (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRLP6pCLCNmzVTF003Yax39kmBN.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Betão Ronca Ferro (1970)
+http://7go.xyz:8080/movie/zogbi11/982451290/29449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Candinho (1954)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/58yc0ICLl9niXmrNP9hujRSs0eZ.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Candinho (1954)
+http://7go.xyz:8080/movie/zogbi11/982451290/29450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Casinha Pequenina (1963)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tR0ynVLescjusSwaEBoYohRbAtW.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Casinha Pequenina (1963)
+http://7go.xyz:8080/movie/zogbi11/982451290/29451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Chico Fumaça (1956)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ojNcg7rKA65GVMvyH86OEAZSxc7.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Chico Fumaça (1956)
+http://7go.xyz:8080/movie/zogbi11/982451290/29452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Chofer de Praça (1959)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7yyVIQO8DTpp5XgfDfueE1OtMV2.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Chofer de Praça (1959)
+http://7go.xyz:8080/movie/zogbi11/982451290/29453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Gato de Madame (1957)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1y1NNoYL7zr8xuIcz5KyZ9zoPd2.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Gato de Madame (1957)
+http://7go.xyz:8080/movie/zogbi11/982451290/29474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca Contra o Capeta (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w40eVyDa9C4U0F5QQSeDOqJ1SiC.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca Contra o Capeta (1976)
+http://7go.xyz:8080/movie/zogbi11/982451290/29475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca e Seu Filho Preto (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3zLb6aYiPDe5WPdxFdeB6pvLxET.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca e Seu Filho Preto (1978)
+http://7go.xyz:8080/movie/zogbi11/982451290/29476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca Tatu (1959)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zFd1IzwexpicNpfndRYBALcC6Qn.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca Tatu (1959)
+http://7go.xyz:8080/movie/zogbi11/982451290/29478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Meu Japão Brasileiro (1965)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ATUIfsNy4YB8vQkSfSMbhyHF2F.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Meu Japão Brasileiro (1965)
+http://7go.xyz:8080/movie/zogbi11/982451290/29479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Nadando em Dinheiro (1952)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mJq59QFlozLQ73aLMB4olEqHDgY.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Nadando em Dinheiro (1952)
+http://7go.xyz:8080/movie/zogbi11/982451290/29480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: No Paraíso das Solteironas (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b9S2hhHBnmeJhI0jjnttb1bTvEN.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: No Paraíso das Solteironas (1969)
+http://7go.xyz:8080/movie/zogbi11/982451290/29481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Cineasta das Platéias (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rAcTZc4bxkcOnhX3hlfiGuH32Q3.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Cineasta das Platéias (2002)
+http://7go.xyz:8080/movie/zogbi11/982451290/29482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Corintiano (1967)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lY2woblKwOwm5NsgWAE9IhfdfW3.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Corintiano (1967)
+http://7go.xyz:8080/movie/zogbi11/982451290/29483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Grande Xerife (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9DbyEFSmSiakS5BlSzLFjBSv6NW.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Grande Xerife (1972)
+http://7go.xyz:8080/movie/zogbi11/982451290/29484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Jeca e a Égua Milagrosa (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgvRnaGr3bTtRVbC3J5gBdd1n7.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Jeca e a Égua Milagrosa (1980)
+http://7go.xyz:8080/movie/zogbi11/982451290/29485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Sai da Frente (1952)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p12jJmcYkk4Mr9VTx10i41w9ADn.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Sai da Frente (1952)
+http://7go.xyz:8080/movie/zogbi11/982451290/50384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Zé do Periquito (1960)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mmG48zTGeHDrhe8nrtGxzM4CLrq.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Zé do Periquito (1960)
+http://7go.xyz:8080/movie/zogbi11/982451290/29488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Um Caipira em Bariloche (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/326QolRfXjlOsdIarjAvnfHEiPH.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Um Caipira em Bariloche (1973)
+http://7go.xyz:8080/movie/zogbi11/982451290/50387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Uma Pistola Para Djeca (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ektHC3oPm4KQUmzBoFiIcFC8Qb.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Uma Pistola Para Djeca (1969)
+http://7go.xyz:8080/movie/zogbi11/982451290/50386.mp4
+
 #EXTM3U url-tvg="http://grade-de-Filmes | Lançamentos 2023.xml"
 ############## Filmes | Lançamentos 2023 ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes | Lançamentos 2023" group-title="
@@ -5023,7 +5594,6 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/166456.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men: Primeira Classe (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" group-title="Filmes: Acao",X-Men: Primeira Classe (2011)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/216208.mp4
 
-
 #EXTM3U url-tvg="http://grade-de-FILMES  AÇÃO CINEMA.xml"
 ############## FILMES  AÇÃO CINEMA ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  AÇÃO CINEMA" group-title="
@@ -5467,31 +6037,6 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/272912.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vingança & Castigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg" group-title="Filmes: Faroeste",Vingança & Castigo (2021)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/274952.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILMES   ORIENTE.xml"
-############## FILMES   ORIENTE ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES   ORIENTE" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre Guerreiro"tvg-logo="https://i.ytimg.com/vi/CDi1H1k84jU/maxresdefault.jpg" group-title="FILMES |  ORIENTE",O Mestre Guerreiro
-https://play.prod.gcp.vix.services/pendekar-tongkat-emas_pt/pendekar-tongkat-emas_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya: O Incrível Ninja"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya: O Incrível Ninja
-https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:A Esmeralda"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:
-https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-2/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:Retomada da Inscrição"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:A Esmeralda
-https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-3/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Roubo da Espada Olímpica"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:Retomada da Inscrição
-https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-4/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Mistério dos Mistérios"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Roubo da Espada Olímpica
-https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-5/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Caçador da Selva"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Mistério dos Mistérios
-https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-6/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Caçador da Selva"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Caçador da Selva
-https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-7/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Anjo da Paz"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Anjo da Paz
-https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-8/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:A Emboscada"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:A Emboscada
-https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m3u8
-
 #EXTM3U url-tvg="http://grade-de-Filmes Drama.xml"
 ############## Filmes Drama ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes Drama" group-title="
@@ -5806,6 +6351,31 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138442.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio IX: A Ascensão Skywalker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg" group-title="Filmes: Star Wars",Star Wars: Episódio IX: A Ascensão Skywalker (2019)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/11570.mp4
 
+#EXTM3U url-tvg="http://grade-de-FILMES   ORIENTE.xml"
+############## FILMES   ORIENTE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES   ORIENTE" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre Guerreiro"tvg-logo="https://i.ytimg.com/vi/CDi1H1k84jU/maxresdefault.jpg" group-title="FILMES |  ORIENTE",O Mestre Guerreiro
+https://play.prod.gcp.vix.services/pendekar-tongkat-emas_pt/pendekar-tongkat-emas_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya: O Incrível Ninja"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya: O Incrível Ninja
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:A Esmeralda"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-2/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:Retomada da Inscrição"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:A Esmeralda
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-3/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Roubo da Espada Olímpica"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:Retomada da Inscrição
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-4/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Mistério dos Mistérios"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Roubo da Espada Olímpica
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-5/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Caçador da Selva"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Mistério dos Mistérios
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-6/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Caçador da Selva"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Caçador da Selva
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-7/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:O Anjo da Paz"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:O Anjo da Paz
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-8/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiraiya:A Emboscada"tvg-logo="http://1.bp.blogspot.com/-1P6CjCgSwls/Uryu5I98HcI/AAAAAAAACUY/f9A-naj7Q8c/s1600/Jiraya++6.gif" group-title="FILMES |  ORIENTE",Jiraiya:A Emboscada
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m3u8
+
 #EXTM3U url-tvg="http://grade-de-FILMES  COLETÂNEA JACKIE CHAN.xml"
 ############## FILMES  COLETÂNEA JACKIE CHAN ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  COLETÂNEA JACKIE CHAN" group-title="
@@ -5830,7 +6400,6 @@ https://play.prod.gcp.vix.services/armour-of-god_pt/armour-of-god_pt_1-1/play_v1
 https://play.prod.gcp.vix.services/armour-of-god-2_pt/armour-of-god-2_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê"tvg-logo="http://s2.glbimg.com/5UnBdhvFJuxXwXuYMUzVD9fM__s=/s.glbimg.com/og/rg/f/original/2016/04/20/jackie.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Três Ladrões e um Bebê
 https://play.prod.gcp.vix.services/robin-b-hood_pt/robin-b-hood_pt_1-1/play_v1_hls_1080p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard  (2020)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Agentes Vanguard  (2020)*
 http://7go.xyz:8080/movie/zogbi11/982451290/277876.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fora do Rumo  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVx1PZuGZCpm0gHKUgMLtMukFWG.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Fora do Rumo  (2016)*
@@ -6041,37 +6610,6 @@ http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Eu Sou Bruce Lee (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Eu Sou Bruce Lee (2012)
 http://7go.xyz:8080/movie/zogbi11/982451290/51105.mkv
 
-#EXTM3U url-tvg="http://grade-de-Filmes 007.xml"
-############## Filmes 007 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes 007" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="007 Contra Spectre - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozwsRvKABRcF8VrNNvMkKt8KWyF.jpg" group-title="Filmes 007",007 Contra Spectre - 2015
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="Filmes 007",007: Cassino Royale (2006)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/181840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Contra a Chantagem Atômica - 1965" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot8pEGo9Mljwkz7Ak8hv4qjBmsu.jpg" group-title="Filmes 007",007: Contra a Chantagem Atômica - 1965
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/168920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Contra Goldfinger - 1964" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi8vxhCM1EzLvfF6VI7GYiGgMBH.jpg" group-title="Filmes 007",007: Contra Goldfinger - 1964
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/168921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Contra o Foguete da Morte - 1979" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLIklqHcFZzRKi2mJjRfiI50lzJ.jpg" group-title="Filmes 007",007: Contra o Foguete da Morte - 1979
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Contra o Satânico Dr. No - 1962" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UJTUYIyXqHMvcVa9YFj1aQiZTm.jpg" group-title="Filmes 007",007: Contra o Satânico Dr. No - 1962
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/168924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Nunca Mais Outra Vez - 1983" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uULahg7URW4DjPq0fANgHEw1uHC.jpg" group-title="Filmes 007",007: Nunca Mais Outra Vez - 1983
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: O Espião Que Me Amava - 1977" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZss61yM6uKT2KU1aGX7W8ElsPE.jpg" group-title="Filmes 007",007: O Espião Que Me Amava - 1977
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24399.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Operação Skyfall - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waOFaJB4FRPyA2KylJncSG57mj0.jpg" group-title="Filmes 007",007: Operação Skyfall - 2012
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Os Diamantes São Eternos - 1971" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0UhYapEWDcrgDgKvRKHZMyv4z6.jpg" group-title="Filmes 007",007: Os Diamantes São Eternos - 1971
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/168923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Quantum of Solace - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg" group-title="Filmes 007",007: Quantum of Solace - 2008
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Sem Tempo para Morrer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luE0KG1rWfUptbgNtlNtL5sihyd.jpg" group-title="Filmes 007",007: Sem Tempo para Morrer (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/198450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007: Um Novo Dia para Morrer - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3Uub7CVKatqDOaNG9tsJs7ldYa.jpg" group-title="Filmes 007",007: Um Novo Dia para Morrer - 2002
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/24422.mp4
-
 #EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA VAN DAMME.xml"
 ############## FILMES | COLETÂNEA VAN DAMME ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA VAN DAMME" group-title="
@@ -6188,84 +6726,6 @@ http://7go.xyz:8080/movie/zogbi11/982451290/50975.mp4
 http://7go.xyz:8080/movie/zogbi11/982451290/50974.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men 8 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 8 (2019)
 http://7go.xyz:8080/movie/zogbi11/982451290/50976.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA VELOZES E FURIOSOS.xml"
-############## FILMES | COLETÂNEA VELOZES E FURIOSOS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA VELOZES E FURIOSOS" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 1 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oUEiEsdF1hRqJGJo6Zoc69ZsebG.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 1 (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/41263.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" Velozes  Furiosos - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="FILMES | COLETÂNEA VELOZES E FURIOSOS", Velozes  Furiosos - 2003
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/156579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 3 - Desafio em Tóquio (2006)" tvg-logo="http://i.imgur.com/jpXFmTa.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 3 - Desafio em Tóquio (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/41261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aKLcJzYIuuu7BQdr2x9oJfePvk5.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 4 (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/41264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 5 - Operação Rio (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 5 - Operação Rio (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/41265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 7 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 7 (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/50082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 8 (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 8 (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/50083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/41266.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA MAZZAROPI.xml"
-############## FILMES | COLETÂNEA MAZZAROPI ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA MAZZAROPI" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi  (2013)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hjz8BhdKCzTEaLsa4G92oZ1U7a.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi  (2013)*
-http://7go.xyz:8080/movie/zogbi11/982451290/292900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Portugal... Minha Saudade (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hvz6PW5TotlI1KrCPVX28fkosnf.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Portugal... Minha Saudade (1974)
-http://7go.xyz:8080/movie/zogbi11/982451290/50388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Puritano da Rua Augusta (1965)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnX0H9idfi7MN9dmCNLG8SaIlB.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Puritano da Rua Augusta (1965)
-http://7go.xyz:8080/movie/zogbi11/982451290/50380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jecão... Um Fofoqueiro no Céu (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gbz0oAZyJdThBs893R22444dsRf.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jecão... Um Fofoqueiro no Céu (1977)
-http://7go.xyz:8080/movie/zogbi11/982451290/50379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: A Banda das Velhas Virgens (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u02gmloL181gdA9I53R6dumSHUj.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: A Banda das Velhas Virgens (1979)
-http://7go.xyz:8080/movie/zogbi11/982451290/29446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: A Carrocinha (1955)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qe8ma8Gw4LutBUKeXJKDE1O09RX.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: A Carrocinha (1955)
-http://7go.xyz:8080/movie/zogbi11/982451290/29447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Betão Ronca Ferro (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRLP6pCLCNmzVTF003Yax39kmBN.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Betão Ronca Ferro (1970)
-http://7go.xyz:8080/movie/zogbi11/982451290/29449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Candinho (1954)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/58yc0ICLl9niXmrNP9hujRSs0eZ.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Candinho (1954)
-http://7go.xyz:8080/movie/zogbi11/982451290/29450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Casinha Pequenina (1963)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tR0ynVLescjusSwaEBoYohRbAtW.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Casinha Pequenina (1963)
-http://7go.xyz:8080/movie/zogbi11/982451290/29451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Chico Fumaça (1956)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ojNcg7rKA65GVMvyH86OEAZSxc7.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Chico Fumaça (1956)
-http://7go.xyz:8080/movie/zogbi11/982451290/29452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Chofer de Praça (1959)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7yyVIQO8DTpp5XgfDfueE1OtMV2.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Chofer de Praça (1959)
-http://7go.xyz:8080/movie/zogbi11/982451290/29453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Gato de Madame (1957)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1y1NNoYL7zr8xuIcz5KyZ9zoPd2.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Gato de Madame (1957)
-http://7go.xyz:8080/movie/zogbi11/982451290/29474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca Contra o Capeta (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w40eVyDa9C4U0F5QQSeDOqJ1SiC.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca Contra o Capeta (1976)
-http://7go.xyz:8080/movie/zogbi11/982451290/29475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca e Seu Filho Preto (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3zLb6aYiPDe5WPdxFdeB6pvLxET.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca e Seu Filho Preto (1978)
-http://7go.xyz:8080/movie/zogbi11/982451290/29476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca Tatu (1959)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zFd1IzwexpicNpfndRYBALcC6Qn.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca Tatu (1959)
-http://7go.xyz:8080/movie/zogbi11/982451290/29478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Meu Japão Brasileiro (1965)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ATUIfsNy4YB8vQkSfSMbhyHF2F.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Meu Japão Brasileiro (1965)
-http://7go.xyz:8080/movie/zogbi11/982451290/29479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Nadando em Dinheiro (1952)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mJq59QFlozLQ73aLMB4olEqHDgY.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Nadando em Dinheiro (1952)
-http://7go.xyz:8080/movie/zogbi11/982451290/29480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: No Paraíso das Solteironas (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b9S2hhHBnmeJhI0jjnttb1bTvEN.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: No Paraíso das Solteironas (1969)
-http://7go.xyz:8080/movie/zogbi11/982451290/29481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Cineasta das Platéias (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rAcTZc4bxkcOnhX3hlfiGuH32Q3.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Cineasta das Platéias (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/29482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Corintiano (1967)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lY2woblKwOwm5NsgWAE9IhfdfW3.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Corintiano (1967)
-http://7go.xyz:8080/movie/zogbi11/982451290/29483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Grande Xerife (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9DbyEFSmSiakS5BlSzLFjBSv6NW.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Grande Xerife (1972)
-http://7go.xyz:8080/movie/zogbi11/982451290/29484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Jeca e a Égua Milagrosa (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgvRnaGr3bTtRVbC3J5gBdd1n7.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Jeca e a Égua Milagrosa (1980)
-http://7go.xyz:8080/movie/zogbi11/982451290/29485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Sai da Frente (1952)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p12jJmcYkk4Mr9VTx10i41w9ADn.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Sai da Frente (1952)
-http://7go.xyz:8080/movie/zogbi11/982451290/50384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Zé do Periquito (1960)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mmG48zTGeHDrhe8nrtGxzM4CLrq.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Zé do Periquito (1960)
-http://7go.xyz:8080/movie/zogbi11/982451290/29488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Um Caipira em Bariloche (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/326QolRfXjlOsdIarjAvnfHEiPH.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Um Caipira em Bariloche (1973)
-http://7go.xyz:8080/movie/zogbi11/982451290/50387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Uma Pistola Para Djeca (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ektHC3oPm4KQUmzBoFiIcFC8Qb.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Uma Pistola Para Djeca (1969)
-http://7go.xyz:8080/movie/zogbi11/982451290/50386.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA OS TRAPALHÕES.xml"
 ############## FILMES | COLETÂNEA OS TRAPALHÕES ################# 
@@ -6523,35 +6983,6 @@ http://7go.xyz:8080/zogbi11/982451290/116622
 #EXTINF:-1 tvg-id="" tvg-name="PLUTO TV - Comedy Central South ParK" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="CANAIS | PLUTO TV",PLUTO TV - Comedy Central South ParK
 http://7go.xyz:8080/zogbi11/982451290/116623
 
-#EXTM3U url-tvg="http://grade-de-plutotv.xml"
-############## plutotv ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeplutotv" group-title="
-
-#EXTINF:1 tvg-logo="https://media.filmelier.com/noticias/br/2021/11/LOGO-TEXTO-POSITIVO-ADRENALINA-FREEZONE-HORIZONTAL-1-1920x1107.png" group-title="plutotv",Adrenalina Freezone | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC5jaW5lbGl2cmVfc2NyZWVuXzBfMTU1MzgxMzc3N18wODM/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="plutotv",CINE LIVRE 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 tvg-logo="https://gringoscds.com.br/produtos/15657/20150723152641_kkk.jpg" group-title="plutotv",CINE SUCESSOS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/tPz9QZdOFzA/maxresdefault.jpg" group-title="plutotv",FILMES AÇÃO 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdlLIs-CefAQXFU3OA6HkOwUaKbX53DCca7MNRCAcQ7JwATCiFPuURe6bEsmwXY1_tpHk&usqp=CAU" group-title="plutotv",CINE COMÉDIA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIq0lD39ucQK0hCypA8xqtOEP3czRW5EGZnUXb3ons8XzjSQ4QtrLJAKhlBNDSEMs17aU&usqp=CAU" group-title="plutotv",GOSPEL MOVIES TELEVISION 
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
-#EXTINF:1 tvg-logo="https://image.winudf.com/v2/image1/dHYuYXJhY2F0aV9zY3JlZW5fMV8xNTcyNTY0MTcxXzAwMA/screen-1.jpg?fakeurl=1&type=.webp" group-title="plutotv",ARACATI TV (Séries)
-https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-PUpTRVLD_OM/X5CqSpGnOYI/AAAAAAAADGY/PTYDAOhFIh42Xl-7_33GOPAY6Y5xfb1swCK4BGAYYCw/s1600/Logo6.png" group-title="plutotv",CINE DRAMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
-#EXTINF:1 tvg-logo="http://br.paipee.com/wp-content/uploads/2021/08/2923622.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="plutotv",FILMES SUSPENSE 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
-#EXTINF:1 tvg-logo="https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2021/02/tudo-sobre-a-paramount-plus-brasil.jpg?fit=800%2C450&ssl=1" group-title="plutotv", PARAMOUNT+ APRESENTA 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXO3bPBdIMeO71ayecxyz5fOffynNh01WBk9pta_w=s900-c-k-c0x00ffffff-no-rj" group-title="plutotv",cine filmes
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTDxoR7QNbqDAq5KY6nY8GwZsttlpcb518LQsfVFEGPKO85cNfmUCvtS_xDsc2_6bkWE&usqp=CAU" group-title="plutotv",I Love Reality
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0fb8790-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9c8bf79-8759-4e47-a808-d6b5e45f63a8&userId=&serverSideAds=true
-
 #EXTM3U url-tvg="http://grade-de-RELIGIOSOS.xml"
 ############## RELIGIOSOS ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeRELIGIOSOS" group-title="
@@ -6707,6 +7138,27 @@ https://play.prod.gcp.vix.services/old-machine_pt/old-machine_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  Em Busca de um Milagre  "tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÉ | ESPIRITUAIS",Em Busca de um Milagre
 https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA VELOZES E FURIOSOS.xml"
+############## FILMES | COLETÂNEA VELOZES E FURIOSOS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA VELOZES E FURIOSOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 1 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oUEiEsdF1hRqJGJo6Zoc69ZsebG.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 1 (2001)
+http://7go.xyz:8080/movie/zogbi11/982451290/41263.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Velozes  Furiosos - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="FILMES | COLETÂNEA VELOZES E FURIOSOS", Velozes  Furiosos - 2003
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/156579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 3 - Desafio em Tóquio (2006)" tvg-logo="http://i.imgur.com/jpXFmTa.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 3 - Desafio em Tóquio (2006)
+http://7go.xyz:8080/movie/zogbi11/982451290/41261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aKLcJzYIuuu7BQdr2x9oJfePvk5.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 4 (2009)
+http://7go.xyz:8080/movie/zogbi11/982451290/41264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 5 - Operação Rio (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 5 - Operação Rio (2011)
+http://7go.xyz:8080/movie/zogbi11/982451290/41265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 7 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 7 (2015)
+http://7go.xyz:8080/movie/zogbi11/982451290/50082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 8 (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 8 (2017)
+http://7go.xyz:8080/movie/zogbi11/982451290/50083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
+http://7go.xyz:8080/movie/zogbi11/982451290/41266.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | ANIMESs.xml"
 ############## SÉRIES | ANIMES ################# 
@@ -7263,48 +7715,6 @@ http://7go.xyz:8080/series/zogbi11/982451290/231746.mp4
 http://7go.xyz:8080/series/zogbi11/982451290/231747.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S05 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S05 E09
 http://7go.xyz:8080/series/zogbi11/982451290/231748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E01" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E01
-http://7go.xyz:8080/series/zogbi11/982451290/158499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E02" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E02
-http://7go.xyz:8080/series/zogbi11/982451290/158500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E03" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E03
-http://7go.xyz:8080/series/zogbi11/982451290/158501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E04" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E04
-http://7go.xyz:8080/series/zogbi11/982451290/158502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E05" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E05
-http://7go.xyz:8080/series/zogbi11/982451290/158503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E06" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E06
-http://7go.xyz:8080/series/zogbi11/982451290/158504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E07" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E07
-http://7go.xyz:8080/series/zogbi11/982451290/158505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E08" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E08
-http://7go.xyz:8080/series/zogbi11/982451290/158506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E09
-http://7go.xyz:8080/series/zogbi11/982451290/158507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E10" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E10
-http://7go.xyz:8080/series/zogbi11/982451290/158508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S06 E11" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S06 E11
-http://7go.xyz:8080/series/zogbi11/982451290/158509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E01" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E01
-http://7go.xyz:8080/series/zogbi11/982451290/158510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E02" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E02
-http://7go.xyz:8080/series/zogbi11/982451290/158511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E03" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E03
-http://7go.xyz:8080/series/zogbi11/982451290/158512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E04" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E04
-http://7go.xyz:8080/series/zogbi11/982451290/158513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E05" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E05
-http://7go.xyz:8080/series/zogbi11/982451290/158514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E06" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E06
-http://7go.xyz:8080/series/zogbi11/982451290/158515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E07" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E07
-http://7go.xyz:8080/series/zogbi11/982451290/158516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E08" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E08
-http://7go.xyz:8080/series/zogbi11/982451290/158517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E09
-http://7go.xyz:8080/series/zogbi11/982451290/158518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S07 E10" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S07 E10
-http://7go.xyz:8080/series/zogbi11/982451290/158519.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | NCIS Havaí.xml"
 ############## SÉRIES | NCIS Havaí  ################# 
@@ -7810,6 +8220,7 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138772266.mp4
 ############## SÉRIES | DIVERSAS  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | DIVERSAS" group-title="
 
+http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/74955.avi
 #EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/4ejs8ls4WqD3Gn373LpZrStGLyQ.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73951.mp4
 #EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/1xrn9z7NpbQjsRQRhPRZedOuscY.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E02
@@ -8198,122 +8609,7 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104389.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104390.mp4
 #EXTINF:-1 tvg-name="O Mentalista S07E12" tvg-logo="https://image.tmdb.org/t/p/w300/tE6WZnyyS6HI39sh24wZWIeNmd5.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E12
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104391.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/wFFL8jIRSHaV1hFkyUt30YkEJ0D.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98347.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/8ZiTPO7TrDjDv5LDNXGuTEKcyAQ.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98348.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/ibd69KIVSGAjEpj9s60ISnX5P2J.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98349.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/fWAJvIcDXGOYjtGsl0dACgFcUpO.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98350.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E05" tvg-logo="https://image.tmdb.org/t/p/w300/ys7fjLe0z8mfPzH4rpRwAwlftCy.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98351.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E06" tvg-logo="https://image.tmdb.org/t/p/w300/i14NxPzXxExEuNDiwi71nAi793A.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98352.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E07" tvg-logo="https://image.tmdb.org/t/p/w300/6UHh881hIvFS7447HHpIy4aOiAy.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98353.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E08" tvg-logo="https://image.tmdb.org/t/p/w300/cmKyzOdDDF7JHH1dhwDzOYPtHSK.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98354.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E09" tvg-logo="https://image.tmdb.org/t/p/w300/s3EYaRz3ziFUzkWyiznlR08bMK1.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98355.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E10" tvg-logo="https://image.tmdb.org/t/p/w300/s3EYaRz3ziFUzkWyiznlR08bMK1.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98356.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E11" tvg-logo="https://image.tmdb.org/t/p/w300/mFiiVqPje7FesOcz2zYkwuFnigq.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98357.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E12" tvg-logo="https://image.tmdb.org/t/p/w300/90f5B7stBj0yw6PG5JqgnlWpWKB.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98358.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E13" tvg-logo="https://image.tmdb.org/t/p/w300/vS6vb1SfCsvCFqadj1ubGtdDDwW.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98359.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E14" tvg-logo="https://image.tmdb.org/t/p/w300/eoawi7qBjxVOMVxfX3qLFY0eCWb.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E14
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98360.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E15" tvg-logo="https://image.tmdb.org/t/p/w300/sqED5FUFeshgRX1imzwOnP9jQtA.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E15
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98361.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E16" tvg-logo="https://image.tmdb.org/t/p/w300/xRI0BuZfte3f6dMQjX9QP9weY9G.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E16
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98362.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E17" tvg-logo="https://image.tmdb.org/t/p/w300/eyFEyUrokay1fmXhnQUIdaFondy.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E17
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98363.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E18" tvg-logo="https://image.tmdb.org/t/p/w300/bvlF6NKwdkuJqKHmTtJCoPeej9s.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E18
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98364.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E19" tvg-logo="https://image.tmdb.org/t/p/w300/oI3OnEXscY76CkeEtEjrM7SY3RA.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E19
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98365.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E20" tvg-logo="https://image.tmdb.org/t/p/w300/qf25pKuaV0nLkww9dPeEktF72D6.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E20
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98366.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S01E21" tvg-logo="https://image.tmdb.org/t/p/w300/uCuiJOayVUyaMdwGoL6YKKvmY0r.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S01E21
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98367.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E01" tvg-logo="https://image.tmdb.org/t/p/w300/2YfYdUdHsVgZb31VMA0vxX4hD6x.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98368.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E02" tvg-logo="https://image.tmdb.org/t/p/w300/7WMbfBVKRLjYFIJplZ6xv9IIF2Y.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98369.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E03" tvg-logo="https://image.tmdb.org/t/p/w300/seqK8k9AhggOfZncR1ZeyybmQyA.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98370.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E04" tvg-logo="https://image.tmdb.org/t/p/w300/5QXid3yEFxReDsp5HW7M51ykKhe.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98371.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E05" tvg-logo="https://image.tmdb.org/t/p/w300/zdM7Fo5YCHqdfUf29eG9xXXRUMq.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98372.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E06" tvg-logo="https://image.tmdb.org/t/p/w300/h1ZkTiQDoHMV8icHgC9pMoqZaO4.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98373.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E07" tvg-logo="https://image.tmdb.org/t/p/w300/jthgoV0xDgJXerjpVoN7WKdVpv4.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98374.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E08" tvg-logo="https://image.tmdb.org/t/p/w300/27nDOZXGgnPwCKXm7SWhVQz0CLD.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98375.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E09" tvg-logo="https://image.tmdb.org/t/p/w300/nEA03JirwIYWJTP58bEzR6SVt1m.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98376.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E10" tvg-logo="https://image.tmdb.org/t/p/w300/4xX2wmgVQl5LCiWVDZyhxvFCW1.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98377.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E11" tvg-logo="https://image.tmdb.org/t/p/w300/mA7JvjJv9hhSjPol4BgmjyktsFm.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98378.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E12" tvg-logo="https://image.tmdb.org/t/p/w300/gDfRpXRMRhEQqUYmYn8VXPiKjrP.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98379.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E13" tvg-logo="https://image.tmdb.org/t/p/w300/v9LHh00cF9Sgt0vf6DptTbrKPZe.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98380.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/c22KByUkeZojghiEpsyT72QRUdZ.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E14
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98381.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E15" tvg-logo="https://image.tmdb.org/t/p/w300/u8YmpVazGqh5z7qwmB0bov8qXlQ.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E15
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98382.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S02E16" tvg-logo="https://image.tmdb.org/t/p/w300/vzEecaXGamIELKs7jF1mKX3L46V.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S02E16
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98383.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/gkizIBRXTRhs1gnxsFWNSkVgKF2.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98384.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E02" tvg-logo="https://image.tmdb.org/t/p/w300/eamIZd0gfyaOCIX64BiK78z45Ck.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98385.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E03" tvg-logo="https://image.tmdb.org/t/p/w300/mL924jJNzVqIJsGtgQzx9rSJvlb.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98386.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E04" tvg-logo="https://image.tmdb.org/t/p/w300/ypd3AqMFWolduc1wMMr75v0BjCz.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98387.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E05" tvg-logo="https://image.tmdb.org/t/p/w300/adyyF3so4SgqPbag88lydGJBmRb.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98388.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E06" tvg-logo="https://image.tmdb.org/t/p/w300/qXehKDXIc7Ql8VSz5y6Wmh4DnTu.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98389.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E07" tvg-logo="https://image.tmdb.org/t/p/w300/lbIAcQD9Ehj3cfFQcdKQJ1y2QnU.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98390.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E08" tvg-logo="https://image.tmdb.org/t/p/w300/uDKts0UXq9y81SxPpBC7nXc6DIg.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98391.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E09" tvg-logo="https://image.tmdb.org/t/p/w300/7Bh8LGLmcuSp0ZkEdW9suqg6JI1.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E09
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98392.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E10" tvg-logo="https://image.tmdb.org/t/p/w300/4aLK9AtjNkgebSRTnbuCwME17or.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E10
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98393.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E11" tvg-logo="https://image.tmdb.org/t/p/w300/8witdtZKI0FOcTXNnWK2Z71RfZA.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E11
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98394.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E12" tvg-logo="https://image.tmdb.org/t/p/w300/jNs7W1Bp1M76C1bngfyBayb7FAk.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E12
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98395.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E13" tvg-logo="https://image.tmdb.org/t/p/w300/7hgnymYTrDbFUQRNA63IW0R2mPE.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E13
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98396.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E14" tvg-logo="https://image.tmdb.org/t/p/w300/5CvXojuvRLH9n4J2xG6wz1c3Eft.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E14
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98397.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E15" tvg-logo="https://image.tmdb.org/t/p/w300/wlxABjOYfG8txwaUPeHeJbx6wNZ.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E15
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98398.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E16" tvg-logo="https://image.tmdb.org/t/p/w300/8IXns3KD86ZOuONAZ0pwQptYXAA.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E16
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98399.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E17" tvg-logo="https://image.tmdb.org/t/p/w300/hutu6eSRTVA87C6g8mXiWXhtahR.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E17
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98400.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E18" tvg-logo="https://image.tmdb.org/t/p/w300/5cyH7a9cbKbU1Pv1feEo0krIA9o.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E18
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98401.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E19" tvg-logo="https://image.tmdb.org/t/p/w300/zuCMXzXVSBTfevaCOafKssRYjNL.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E19
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98402.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E20" tvg-logo="https://image.tmdb.org/t/p/w300/g6tT2KrR9TyfZWuHvN9BXQuqFT4.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E20
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98403.mp4
-#EXTINF:-1 tvg-name="Tour of Duty S03E21" tvg-logo="https://image.tmdb.org/t/p/w300/ilx8IcEKBYEWAaY8jl2bOX1pGgT.jpg" group-title="SÉRIES | DIVERSAS",Tour of Duty S03E21
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98404.mp4
+
 #EXTINF:-1 tvg-name="Greenleaf S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/ilYQgIHtY3S6MWzrY7kaMazIMhA.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/98282.mp4
 #EXTINF:-1 tvg-name="Greenleaf S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/bdlY9CzIdIp7kKRyX2nih7XxYAY.jpg" group-title="SÉRIES | DIVERSAS",Greenleaf S01E02
@@ -9458,27 +9754,6 @@ http://7go.xyz:8080/series/zogbi11/982451290/108289.mp4
 http://7go.xyz:8080/series/zogbi11/982451290/108290.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E07" tvg-logo="http://7online.xyz:8080/images/5f0e313fa3d921540125d6745c2073b3.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E07
 http://7go.xyz:8080/series/zogbi11/982451290/108291.mp4
-
-#EXTM3U url-tvg=" http://grade-de-SÉRIES | A Lenda de Shahmaran.xml "
- ############## SÉRIES | A Lenda de Shahmaran ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | A Lenda de Shahmaran" group-title="
-
-#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg3Sbhs4TM5woBQAYBGUMrmSDyw.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E01
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783122.mp4
-#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n85nJwsVV6mU0sGOXzItxPtuNqv.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E02
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783123.mp4
-#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whinoRaca07LOQ2UMfjqJjGBdlR.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E03
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783124.mp4
-#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNicXVY4lzzMasnPDiGI1UfHtDR.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E04
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783125.mp4
-#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUA034fNnjIZMFIN3PtuzByJ4Li.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E05
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783126.mp4
-#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Q9wZxwcyd4irlJuc1MAbLagHvI.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E06
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783127.mp4
-#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBKPM8NXbREdEZcg2QGuN1ayclK.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E07
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783128.mp4
-#EXTINF:-1 tvg-name="A Lenda de Shahmaran S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcGfpLciNO8yzvC6rLJw3O0w2l5.jpg" group-title="SÉRIES | A Lenda de Shahmaran",A Lenda de Shahmaran S01E08
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138783129.mp4
 
 #EXTM3U url-tvg=" http://grade-de-AMAZON PRIME O Senhor dos Anéis.xml "
  ############## AMAZON PRIME O Senhor dos Anéis ############## ### 
@@ -12463,100 +12738,6 @@ https://evif.onthecloudcdn.com/_v10/a02f5096dd0a13a02140f73af473a6612e5ed28bc26a
 #EXTINF:1 tvg-logo="https://img.ev01.to/xxrz/250x400/183/45/f1/45f1b4cdd70697bb8e4a976fb0eb445f/45f1b4cdd70697bb8e4a976fb0eb445f.jpg" group-title="O Grande Assalto ao Banco Central do Brasil",O Grande Roubo do Banco Central do Brasil - Temporada 1 - Episódio 3: Dinheiro Amaldiçoado
 https://owt.webarchivecdn.com/_v10/fc969e2571238b1f530c252c50d5383c2cadc39479b06e37c7b9c4ce672d12e28009dba20e41f9672bbb80bfd0f7b4e7ff7834a1e762629636bcd3320d5084a09f961d43c98d27eb8b3f5e73172995d4a46782d867ecb74750c022ee971f5b26d0c536d26856a1d055755d360f4998fc88c79878ad71f026d3cf057ac354e9d1/1080/index.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-MUSICAS.xml "
-############## MUSICAS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeMUSICAS" group-title="
-
-#EXTINF:-1 tvg-name="Top TV" tvg-logo="https://imgur.com/u4jEOjb" group-title="MUSICAS",Top TV
- http://5ce.co:80/live/mlindoso/qwe9673/217236.m3u8
-#EXTINF:-1 tvg-name="Bis FHD" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="MUSICAS",Bis FHD
- http://5ce.co:80/live/mlindoso/qwe9673/21130.m3u8
-#EXTINF:-1 tvg-name="Bis FHD²" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="MUSICAS",Bis FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/100456.m3u8
-#EXTINF:-1 tvg-name="Bis HD" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="MUSICAS",Bis HD
- http://5ce.co:80/live/mlindoso/qwe9673/6636.m3u8
-#EXTINF:-1 tvg-name="Bis HD²" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="MUSICAS",Bis HD²
- http://5ce.co:80/live/mlindoso/qwe9673/10874.m3u8
-#EXTINF:-1 tvg-name="Bis SD" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="MUSICAS",Bis SD
- http://5ce.co:80/live/mlindoso/qwe9673/6426.m3u8
-#EXTINF:-1 tvg-name="Bis SD²" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="MUSICAS",Bis SD²
- http://5ce.co:80/live/mlindoso/qwe9673/10875.m3u8
-#EXTINF:-1 tvg-name="MTV FHD" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="MUSICAS",MTV FHD
- http://5ce.co:80/live/mlindoso/qwe9673/28640.m3u8
-#EXTINF:-1 tvg-name="MTV FHD²" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="MUSICAS",MTV FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/100465.m3u8
-#EXTINF:-1 tvg-name="MTV HD" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="MUSICAS",MTV HD
- http://5ce.co:80/live/mlindoso/qwe9673/6535.m3u8
-#EXTINF:-1 tvg-name="MTV HD²" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="MUSICAS",MTV HD²
- http://5ce.co:80/live/mlindoso/qwe9673/10750.m3u8
-#EXTINF:-1 tvg-name="MTV SD" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="MUSICAS",MTV SD
- http://5ce.co:80/live/mlindoso/qwe9673/6534.m3u8
-#EXTINF:-1 tvg-name="MTV SD²" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="MUSICAS",MTV SD²
- http://5ce.co:80/live/mlindoso/qwe9673/10751.m3u8
-#EXTINF:-1 tvg-name="MTV 00s FHD" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="MUSICAS",MTV 00s FHD
- http://5ce.co:80/live/mlindoso/qwe9673/28631.m3u8
-#EXTINF:-1 tvg-name="MTV 00s FHD²" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="MUSICAS",MTV 00s FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/100466.m3u8
-#EXTINF:-1 tvg-name="MTV 00s HD" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="MUSICAS",MTV 00s HD
- http://5ce.co:80/live/mlindoso/qwe9673/10654.m3u8
-#EXTINF:-1 tvg-name="MTV 00s HD²" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="MUSICAS",MTV 00s HD²
- http://5ce.co:80/live/mlindoso/qwe9673/35386.m3u8
-#EXTINF:-1 tvg-name="MTV 00s SD" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="MUSICAS",MTV 00s SD
- http://5ce.co:80/live/mlindoso/qwe9673/6443.m3u8
-#EXTINF:-1 tvg-name="MTV 00s SD²" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="MUSICAS",MTV 00s SD²
- http://5ce.co:80/live/mlindoso/qwe9673/10655.m3u8
-#EXTINF:-1 tvg-name="MTV Live FHD" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="MUSICAS",MTV Live FHD
- http://5ce.co:80/live/mlindoso/qwe9673/28639.m3u8
-#EXTINF:-1 tvg-name="MTV Live FHD²" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="MUSICAS",MTV Live FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/100505.m3u8
-#EXTINF:-1 tvg-name="MTV Live HD" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="MUSICAS",MTV Live HD
- http://5ce.co:80/live/mlindoso/qwe9673/21097.m3u8
-#EXTINF:-1 tvg-name="MTV Live HD²" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="MUSICAS",MTV Live HD²
- http://5ce.co:80/live/mlindoso/qwe9673/100506.m3u8
-#EXTINF:-1 tvg-name="MTV Live SD" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="MUSICAS",MTV Live SD
- http://5ce.co:80/live/mlindoso/qwe9673/21098.m3u8
-#EXTINF:-1 tvg-name="MTV Live SD²" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="MUSICAS",MTV Live SD²
- http://5ce.co:80/live/mlindoso/qwe9673/100507.m3u8
-#EXTINF:-1 tvg-name="Multishow FHD" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="MUSICAS",Multishow FHD
- http://5ce.co:80/live/mlindoso/qwe9673/16841.m3u8
-#EXTINF:-1 tvg-name="Multishow FHD²" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="MUSICAS",Multishow FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/35431.m3u8
-#EXTINF:-1 tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="MUSICAS",Multishow HD
- http://5ce.co:80/live/mlindoso/qwe9673/6533.m3u8
-#EXTINF:-1 tvg-name="Multishow HD²" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="MUSICAS",Multishow HD²
- http://5ce.co:80/live/mlindoso/qwe9673/6904.m3u8
-#EXTINF:-1 tvg-name="Multishow SD" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="MUSICAS",Multishow SD
- http://5ce.co:80/live/mlindoso/qwe9673/6532.m3u8
-#EXTINF:-1 tvg-name="Multishow SD²" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="MUSICAS",Multishow SD²
- http://5ce.co:80/live/mlindoso/qwe9673/10739.m3u8
-#EXTINF:-1 tvg-name="Music Box Brasil FHD" tvg-logo="http://70.ms/mO" group-title="MUSICAS",Music Box Brasil FHD
- http://5ce.co:80/live/mlindoso/qwe9673/28638.m3u8
-#EXTINF:-1 tvg-name="Music Box Brasil HD" tvg-logo="http://70.ms/Tl" group-title="MUSICAS",Music Box Brasil HD
- http://5ce.co:80/live/mlindoso/qwe9673/21105.m3u8
-#EXTINF:-1 tvg-name="Music Box Brasil SD" tvg-logo="http://70.ms/Zu" group-title="MUSICAS",Music Box Brasil SD
- http://5ce.co:80/live/mlindoso/qwe9673/6531.m3u8
-#EXTINF:-1 tvg-name="Music Box Brasil SD²" tvg-logo="http://70.ms/OS" group-title="MUSICAS",Music Box Brasil SD²
- http://5ce.co:80/live/mlindoso/qwe9673/10738.m3u8
-#EXTINF:-1 tvg-name="Music Box Brazil FHD" tvg-logo="http://70.ms/dV" group-title="MUSICAS",Music Box Brazil FHD
- http://5ce.co:80/live/mlindoso/qwe9673/7055.m3u8
-#EXTINF:-1 tvg-name="Music Box Brazil FHD²" tvg-logo="http://70.ms/dV" group-title="MUSICAS",Music Box Brazil FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/100475.m3u8
-#EXTINF:-1 tvg-name="Music Box Brazil HD²" tvg-logo="http://70.ms/dV" group-title="MUSICAS",Music Box Brazil HD²
- http://5ce.co:80/live/mlindoso/qwe9673/100476.m3u8
-#EXTINF:-1 tvg-name="Music Box Brazil SD²" tvg-logo="http://70.ms/dV" group-title="MUSICAS",Music Box Brazil SD²
- http://5ce.co:80/live/mlindoso/qwe9673/100477.m3u8
-#EXTINF:-1 tvg-name="Prime Box Brasil FHD" tvg-logo="http://70.ms/md" group-title="MUSICAS",Prime Box Brasil FHD
- http://5ce.co:80/live/mlindoso/qwe9673/28637.m3u8
-#EXTINF:-1 tvg-name="Prime Box Brasil FHD²" tvg-logo="http://70.ms/Z1" group-title="MUSICAS",Prime Box Brasil FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/100478.m3u8
-#EXTINF:-1 tvg-name="Prime Box Brasil HD" tvg-logo="http://70.ms/Tj" group-title="MUSICAS",Prime Box Brasil HD
- http://5ce.co:80/live/mlindoso/qwe9673/21104.m3u8
-#EXTINF:-1 tvg-name="Prime Box Brasil HD²" tvg-logo="http://70.ms/Z1" group-title="MUSICAS",Prime Box Brasil HD²
- http://5ce.co:80/live/mlindoso/qwe9673/100479.m3u8
-#EXTINF:-1 tvg-name="Prime Box Brasil SD" tvg-logo="http://70.ms/Z1" group-title="MUSICAS",Prime Box Brasil SD
- http://5ce.co:80/live/mlindoso/qwe9673/6505.m3u8
-#EXTINF:-1 tvg-name="Prime Box Brasil SD²" tvg-logo="http://70.ms/Z1" group-title="MUSICAS",Prime Box Brasil SD²
- http://5ce.co:80/live/mlindoso/qwe9673/100480.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Documentarios Racionais MC s.xml "
 ############## Documentarios Racionais MC s ################# 
@@ -12644,6 +12825,96 @@ https://ia902603.us.archive.org/24/items/alex-silva-rpm-london-london-traduzido-
 ############## FAX | CLIPS AO VIVO  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX | CLIPS AO VIVO" group-title="
 
+#EXTINF:-1 tvg-name="Top TV" tvg-logo="https://imgur.com/u4jEOjb" group-title="FAX | CLIPS AO VIVO",TV
+ http://5ce.co:80/live/mlindoso/qwe9673/217236.m3u8
+#EXTINF:-1 tvg-name="Bis FHD" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="FAX | CLIPS AO VIVO",FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/21130.m3u8
+#EXTINF:-1 tvg-name="Bis FHD²" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="FAX | CLIPS AO VIVO",FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100456.m3u8
+#EXTINF:-1 tvg-name="Bis HD" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="FAX | CLIPS AO VIVO",HD
+ http://5ce.co:80/live/mlindoso/qwe9673/6636.m3u8
+#EXTINF:-1 tvg-name="Bis HD²" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="FAX | CLIPS AO VIVO",HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10874.m3u8
+#EXTINF:-1 tvg-name="Bis SD" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="FAX | CLIPS AO VIVO",SD
+ http://5ce.co:80/live/mlindoso/qwe9673/6426.m3u8
+#EXTINF:-1 tvg-name="Bis SD²" tvg-logo="https://i.imgur.com/GOO8EKm.png" group-title="FAX | CLIPS AO VIVO",SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10875.m3u8
+#EXTINF:-1 tvg-name="MTV FHD" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="FAX | CLIPS AO VIVO",FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/28640.m3u8
+#EXTINF:-1 tvg-name="MTV FHD²" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="FAX | CLIPS AO VIVO",FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100465.m3u8
+#EXTINF:-1 tvg-name="MTV HD" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="FAX | CLIPS AO VIVO",HD
+ http://5ce.co:80/live/mlindoso/qwe9673/6535.m3u8
+#EXTINF:-1 tvg-name="MTV HD²" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="FAX | CLIPS AO VIVO",HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10750.m3u8
+#EXTINF:-1 tvg-name="MTV SD" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="FAX | CLIPS AO VIVO",SD
+ http://5ce.co:80/live/mlindoso/qwe9673/6534.m3u8
+#EXTINF:-1 tvg-name="MTV SD²" tvg-logo="https://i.imgur.com/f7y6m6c.png" group-title="FAX | CLIPS AO VIVO",SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10751.m3u8
+#EXTINF:-1 tvg-name="MTV 00s FHD" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="FAX | CLIPS AO VIVO",00s FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/28631.m3u8
+#EXTINF:-1 tvg-name="MTV 00s FHD²" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="FAX | CLIPS AO VIVO",00s FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100466.m3u8
+#EXTINF:-1 tvg-name="MTV 00s HD" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="FAX | CLIPS AO VIVO",00s HD
+ http://5ce.co:80/live/mlindoso/qwe9673/10654.m3u8
+#EXTINF:-1 tvg-name="MTV 00s HD²" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="FAX | CLIPS AO VIVO",00s HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/35386.m3u8
+#EXTINF:-1 tvg-name="MTV 00s SD" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="FAX | CLIPS AO VIVO",00s SD
+ http://5ce.co:80/live/mlindoso/qwe9673/6443.m3u8
+#EXTINF:-1 tvg-name="MTV 00s SD²" tvg-logo="https://i.imgur.com/PPiHmvD.png" group-title="FAX | CLIPS AO VIVO",00s SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10655.m3u8
+#EXTINF:-1 tvg-name="MTV Live FHD" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="FAX | CLIPS AO VIVO",Live FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/28639.m3u8
+#EXTINF:-1 tvg-name="MTV Live FHD²" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="FAX | CLIPS AO VIVO",Live FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100505.m3u8
+#EXTINF:-1 tvg-name="MTV Live HD" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="FAX | CLIPS AO VIVO",Live HD
+ http://5ce.co:80/live/mlindoso/qwe9673/21097.m3u8
+#EXTINF:-1 tvg-name="MTV Live HD²" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="FAX | CLIPS AO VIVO",Live HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100506.m3u8
+#EXTINF:-1 tvg-name="MTV Live SD" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="FAX | CLIPS AO VIVO",Live SD
+ http://5ce.co:80/live/mlindoso/qwe9673/21098.m3u8
+#EXTINF:-1 tvg-name="MTV Live SD²" tvg-logo="https://i.imgur.com/ZOS0NBD.png" group-title="FAX | CLIPS AO VIVO",Live SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100507.m3u8
+#EXTINF:-1 tvg-name="Multishow FHD" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="FAX | CLIPS AO VIVO",FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/16841.m3u8
+#EXTINF:-1 tvg-name="Multishow FHD²" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="FAX | CLIPS AO VIVO",FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/35431.m3u8
+#EXTINF:-1 tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="FAX | CLIPS AO VIVO",HD
+ http://5ce.co:80/live/mlindoso/qwe9673/6533.m3u8
+#EXTINF:-1 tvg-name="Multishow HD²" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="FAX | CLIPS AO VIVO",HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/6904.m3u8
+#EXTINF:-1 tvg-name="Multishow SD" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="FAX | CLIPS AO VIVO",SD
+ http://5ce.co:80/live/mlindoso/qwe9673/6532.m3u8
+#EXTINF:-1 tvg-name="Multishow SD²" tvg-logo="https://i.imgur.com/inSP0g0.png" group-title="FAX | CLIPS AO VIVO",SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10739.m3u8
+#EXTINF:-1 tvg-name="Music Box Brasil FHD" tvg-logo="http://70.ms/mO" group-title="FAX | CLIPS AO VIVO",Box Brasil FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/28638.m3u8
+#EXTINF:-1 tvg-name="Music Box Brasil HD" tvg-logo="http://70.ms/Tl" group-title="FAX | CLIPS AO VIVO",Box Brasil HD
+ http://5ce.co:80/live/mlindoso/qwe9673/21105.m3u8
+#EXTINF:-1 tvg-name="Music Box Brasil SD" tvg-logo="http://70.ms/Zu" group-title="FAX | CLIPS AO VIVO",Box Brasil SD
+ http://5ce.co:80/live/mlindoso/qwe9673/6531.m3u8
+#EXTINF:-1 tvg-name="Music Box Brasil SD²" tvg-logo="http://70.ms/OS" group-title="FAX | CLIPS AO VIVO",Box Brasil SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10738.m3u8
+#EXTINF:-1 tvg-name="Music Box Brazil FHD" tvg-logo="http://70.ms/dV" group-title="FAX | CLIPS AO VIVO",Box Brazil FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/7055.m3u8
+#EXTINF:-1 tvg-name="Music Box Brazil FHD²" tvg-logo="http://70.ms/dV" group-title="FAX | CLIPS AO VIVO",Box Brazil FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100475.m3u8
+#EXTINF:-1 tvg-name="Music Box Brazil HD²" tvg-logo="http://70.ms/dV" group-title="FAX | CLIPS AO VIVO",Box Brazil HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100476.m3u8
+#EXTINF:-1 tvg-name="Music Box Brazil SD²" tvg-logo="http://70.ms/dV" group-title="FAX | CLIPS AO VIVO",Box Brazil SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100477.m3u8
+#EXTINF:-1 tvg-name="Prime Box Brasil FHD" tvg-logo="http://70.ms/md" group-title="FAX | CLIPS AO VIVO",Box Brasil FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/28637.m3u8
+#EXTINF:-1 tvg-name="Prime Box Brasil FHD²" tvg-logo="http://70.ms/Z1" group-title="FAX | CLIPS AO VIVO",Box Brasil FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100478.m3u8
+#EXTINF:-1 tvg-name="Prime Box Brasil HD" tvg-logo="http://70.ms/Tj" group-title="FAX | CLIPS AO VIVO",Box Brasil HD
+ http://5ce.co:80/live/mlindoso/qwe9673/21104.m3u8
+#EXTINF:-1 tvg-name="Prime Box Brasil HD²" tvg-logo="http://70.ms/Z1" group-title="FAX | CLIPS AO VIVO",Box Brasil HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100479.m3u8
+#EXTINF:-1 tvg-name="Prime Box Brasil SD" tvg-logo="http://70.ms/Z1" group-title="FAX | CLIPS AO VIVO",Box Brasil SD
+ http://5ce.co:80/live/mlindoso/qwe9673/6505.m3u8
+#EXTINF:-1 tvg-name="Prime Box Brasil SD²" tvg-logo="http://70.ms/Z1" group-title="FAX | CLIPS AO VIVO",Box Brasil SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 16-05-2020]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS AO VIVO",Bruno e Marrone [Live 16-05-2020]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/133620
 #EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 3 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS AO VIVO",Bruno e Marrone [Live 3 sem propagandas]
@@ -12654,7 +12925,6 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/133621
 http://apkwuv.xyz:80/cristina2021/graniptv2005/156621
 #EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/136196
-
 #EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui em Casa 1]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/136201
 #EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui em Casa 2]
@@ -13201,18 +13471,6 @@ http://cast4.audiostream.com.br:8651/mp3
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",RÁDIO ELDORADO FM
 http://noasrv.caster.fm:10136/stream
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Anos 90
-http://6d9a.webradio.upx.net.br:9940/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Música Clássica
-http://6d9a.webradio.upx.net.br:9970/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Pagode
-http://6d9a.webradio.upx.net.br:9061/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Pop Rock
-http://6d9a.webradio.upx.net.br:8016/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream?Arlen
 #EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",chitãozinho e xororó
 https://play.prod.gcp.vix.services/chitaozinho-sinfonico_pt/chitaozinho-sinfonico_pt_1-1/thumbs_320x180.m3u8
 #EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",UFRGS
