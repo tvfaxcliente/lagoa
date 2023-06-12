@@ -505,6 +505,8 @@ https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 http://cdn.tvmatic.net/comedy.m3u8
 #EXTINF:-1 tvg-id="TVMaticCrafts.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Crafts
 http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:-1 tvg-id="TVMaticFacebook.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Facebook
+http://cdn.tvmatic.net/facebook.m3u8
 #EXTINF:-1 tvg-id="TVMaticFight.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Fight
 http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 tvg-id="TVMaticFunny.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Funny
@@ -3029,6 +3031,12 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 ############## FILMES  TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="À Espera De Um Milagre"tvg-logo="https://64.media.tumblr.com/d3323ff32919b77fe6ec1476c0b8729c/3b9075077300210a-33/s500x750/aa32168d47b9054f458dcbe24b00d378f83ce6db.gif"group-title="FILMES | TV FAX",À Espera De Um Milagre
+https://ia803409.us.archive.org/14/items/a-espera-de-um-milagre-1999-720p-dublado/%C3%80%20Espera%20de%20um%20Milagre%20%281999%29%20720p%20dublado.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://br.web.img2.acsta.net/pictures/22/10/04/19/16/5487644.jpg"group-title="FILMES | TV FAX",A Queda
+https://ia902602.us.archive.org/26/items/a-queda_202306/A%20Queda.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023)"tvg-logo="https://www.omelete.com.br/webstories/a-pequena-sereia-e-estreias-da-semana/assets/2.gif"group-title="FILMES | TV FAX",A Pequena Sereia (2023)
+https://ia601601.us.archive.org/15/items/a-pequena-sereia-2023-filme-completo-dublado/A%20Pequena%20Sereia%20%282023%29%20FILME%20COMPLETO%20DUBLADO%F0%9F%8E%A5%20%F0%9F%A7%9C.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ano Um "tvg-logo="https://images.justwatch.com/poster/257627384/s592/ano-um"group-title="FILMES | TV FAX",Ano Um 
 https://ia902707.us.archive.org/5/items/ano-um-720p-dublado-2009-99-films/Ano%20Um%20%20-%20720p%20Dublado%20%282009%29%20-%2099%20Film%27s.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Prisão"tvg-logo="https://cinepop.com.br/wp-content/uploads/2018/10/the-shawshank-redemption-cinepop.jpg"group-title="FILMES | TV FAX",Prisão
@@ -3041,7 +3049,7 @@ https://ia902703.us.archive.org/11/items/filmes-baseados-em-fatos-reais-filme-ve
 https://ia802603.us.archive.org/33/items/filme-vida-de-inseto-dublado-completo/FILME%20VIDA%20DE%20INSETO%20DUBLADO%20COMPLETO.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Antuerpia"tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2016/09/cinema.jpg"group-title="FILMES | TV FAX",Antuerpia
 https://ia902609.us.archive.org/35/items/Antuerpia/Antuerpia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BRICHOS"tvg-logo="https://vdn.libreflix.org/covers/media/a4f89f90-ca25-11eb-b4bf-99d9958b2c1d7.jpg?resize=480,270&crop=entropy"group-title="FILMES | TV FAX",BRICHOS
+#EXTINF:-1 tvg-id="" tvg-name="BRICHOS"tvg-logo="https://1.bp.blogspot.com/-NYyG2GbFzZY/YU4PXfCOp3I/AAAAAAABcX8/fYRwCnREPeAfHkRZup11ihbFBtXw7yEtwCLcBGAsYHQ/s460/Vida%2B-%2BSecreta%2B-%2Bdos%2B-%2BBichos%2B-%2Bem%2B-%2BGifsi%2B%25287%2529.gif"group-title="FILMES | TV FAX",BRICHOS
 https://vdn.libreflix.org/video/brichos2/brichos2.360.mp4
 #EXTINF:-1 tvg-id="" tvg-name=Alta Velocidade"tvg-logo="https://media.fstatic.com/asWdTE36MWEyheG_3EIHp6d5YZs=/322x478/smart/filters:format(webp)/media/movies/covers/2021/02/3415_-_29x41-.jpg"group-title="FILMES | TV FAX",Alta Velocidade
 https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
@@ -3065,13 +3073,12 @@ https://play.prod.gcp.vix.services/werewolf_pt/werewolf_pt_1-1/play_v1_hls_1080p
 https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10
 http://7go.xyz:8080/movie/zogbi11/982451290/312832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10  2023
+#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://uproxx.com/wp-content/uploads/2023/02/5-fastx-momoa-arms.gif"group-title="FILMES | TV FAX",Velozes E Furiosos 10  2023
 https://ia902709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Gato de Botas 2: O Último Pedido
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda Para Sempre" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Pantera Negra: Wakanda Para Sempre
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83315
-
 #EXTINF:-1 tvg-id="" tvg-name="Boogey Um Monstro Adorável" tvg-logo="https://image.tmdb.org/t/p/w185/mghRagZrG8ZGVmmc72o09k98COR.jpg" group-title="FILMES | TV FAX",Boogey Um Monstro Adorável
 https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/08532/gw7jaoxfix84_n/index-v1-a1.m3u8?t=WJ_xZQ44XeQWEeJQXz7Z9LDqLXPwhK5O7Mtg3F0MrQ8&s=1686523356&e=14400&f=42661414&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=168.227&sp=3500&asn=264914
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU" group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
@@ -7229,25 +7236,26 @@ http://7go.xyz:8080/movie/zogbi11/982451290/50083.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/41266.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Fubar.xml"
-############## SÉRIES | Fubar ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | ANIMES" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="01 Dia de levar a filha para o trabalho A01A02" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",01 Dia de levar a filha para o trabalho A01A02
+#EXTM3U url-tvg="http://grade-de- Serie FUBAR.xml"
+############## Serie FUBAR ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSerie FUBAR" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="01 Dia de levar a filha para o trabalho S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",01 Dia de levar a filha para o trabalho S01 E01
 https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/01Dia%20de%20levar%20a%20filha%20para%20o%20trabalhoA01A02.mp4
-#EXTINF:-1 tvg-id="" tvg-name="02 Trem roubado A03A04" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",02 Trem roubado A03A04
+#EXTINF:-1 tvg-id="" tvg-name="02 Trem roubado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",02 Trem roubado S01 E02
 https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/02Trem%20roubado%20A03A04.mp4
-#EXTINF:-1 tvg-id="" tvg-name="03 Isca A05A06 " tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",03 Isca A05A06 
+#EXTINF:-1 tvg-id="" tvg-name="03 Isca S01 E03 " tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",03 Isca S01 E03 
 https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/03Isca%20A05A06%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="0 4Armado e Perigoso A07A08" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",04 Armado e Perigoso A07A08
+#EXTINF:-1 tvg-id="" tvg-name="0 4Armado e Perigoso S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",04 Armado e Perigoso S01 E04
 https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/04Armado%20e%20Perigoso%20A07A08.mp4
-#EXTINF:-1 tvg-id="" tvg-name="05 Hoje aqui, amanhã quem sabe A09A10" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",05 Hoje aqui, amanhã quem sabe A09A10
+#EXTINF:-1 tvg-id="" tvg-name="05 Hoje aqui, amanhã quem sabe S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",05 Hoje aqui, amanhã quem sabe S01 E05
 https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/05Hoje%20aqui%2C%20amanh%C3%A3%20quem%20sabe%20A09A10.mp4
-#EXTINF:-1 tvg-id="" tvg-name="00 6Royal Flush A11A12" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",006 Royal Flush A11A12
+#EXTINF:-1 tvg-id="" tvg-name="00 6Royal Flush S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",006 Royal Flush S01 E06
 https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/006Royal%20Flush%20A11A12.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 Urina da Sorte A13A14" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",007 Urina da Sorte A13A14
+#EXTINF:-1 tvg-id="" tvg-name="007 Urina da Sorte S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",007 Urina da Sorte S01 E07
 https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/007Urina%20da%20Sorte%20A13A14.mp4
-#EXTINF:-1 tvg-id="" tvg-name="08 É isso, e acabou A15A16" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",08 É isso, e acabou A15A16
+#EXTINF:-1 tvg-id="" tvg-name="08 É isso, e acabou S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",08 É isso, e acabou S01 E08
 https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/08%C3%89%20isso%2C%20e%20acabou%20A15A16.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | ANIMESs.xml"
