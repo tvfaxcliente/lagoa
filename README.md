@@ -27,9 +27,31 @@ http://stream.zeno.fm/uhoa45pks0vvv.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS Da WEB.xml "
+ ############## CANAIS Da WEB ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS Da WEB" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="CinePIX TV "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="CANAIS Da WEB",CinePIX TV 
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1372131370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERTÃO TV"tvg-logo="https://1.bp.blogspot.com/-R7MUaLTBuV0/XsYA4yqgH4I/AAAAAAAAC0o/W3b9oCbMJz4Y6kj2b8xjgcVCPzDEEo73ACLcBGAsYHQ/s320/Screenshot_2020-05-21-01-14-40.png" group-title="CANAIS Da WEB",SERTÃO TV
+https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w1970156229.m3u8
+#EXTINF:-1 tvg-id="TV INDAIATUBA" tvg-name="TV INDAIATUBA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJfuBNBg3Pjq8dXZ3hTWWSObD9mJuBjTFHMS9UvL0fnQHHg7psw0rEE_XMdqVGm60xBdvYZgXpddSU24Av2wthcymQF_KsTgAVM9-vFCYienzp1BTEUG1RCdcIukTjUKWdf6qGgRKx11HsXpvsdi4KQOPJqp1qBSOdzHhP-O0x1vrbdxYzfi58XZyB/s200/TV%20INDAIATUBA.webp" group-title="CANAIS Da WEB",TV INDAIATUBA
+https://stmv1.srvif.com/tvindaiatuba/tvindaiatuba/chunklist_w279274413.m3u8
+#EXTINF:-1 tvg-id="TIERRA MIA TV" tvg-name="TIERRA MIA TV" tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/s320/Screenshot_2020-08-11-22-52-42.png" group-title="CANAIS Da WEB",TIERRA MIA TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w2027922071_b1864000_sleng.m3u8
+#EXTINF:-1 tvg-id="TV ALVORADA SERTANEJA" tvg-name="TV ALVORADA SERTANEJA" tvg-logo="https://2.bp.blogspot.com/-ofKWc03Obdg/Xk7MqLdHORI/AAAAAAAACgc/1kQBCPVcByc4k88bbVkuSMeBsy5jkWO1ACPcBGAYYCw/s320/2020-02-20%2B14.04.20.png" group-title="CANAIS Da WEB",TV ALVORADA SERTANEJA
+https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1114598459.m3u8
+#EXTINF:-1 tvg-id="TV VISÃO E RESGATE" tvg-name="TV VISÃO E RESGATE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIyq2MNRJCOPkQpxgzPjbVOyFfkLsHrvAau_edPEppoTGA9nlTPnUu_yCX-_lDA8UigJFqTUxLxoEOhAT__zq7dxJKv8b8y-l-nrmGPihf9lkl7gj34qz4mYOF78i__z1zi6lV1wY9cap4w4FzXIADCVytVSqH_2Z0w2J8iu1FzGl-Ntr8otP6O53k/s200/WEB%20TV%20VIS%C3%83O%20E%20RESGATE.webp" group-title="CANAIS Da WEB",TV VISÃO E RESGATE
+https://stmv1.liveplushd.com.br/tvvisaoresgate/tvvisaoresgate/chunklist_w2061740055.m3u8
+#EXTINF:-1 tvg-id="CONECTV" tvg-logo="https://4.bp.blogspot.com/-nHLWN1nL-cI/XbJBEoP5-uI/AAAAAAAACL4/shXzS3Ohsjoqj4Q__2KvzIkd5Omhm9QHACLcBGAsYHQ/s320/Screenshot_2019-10-24-21-06-26.png" group-title="CANAIS Da WEB",CONECTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="ALPHA CHANNEL TV" tvg-logo="https://1.bp.blogspot.com/-vWIupjRUu80/XON4_e9cHrI/AAAAAAAAA5Y/6Xl6ggQI7fcdLZao1GAkwYgKXWeovgw5ACLcBGAs/s320/Screenshot_2019-05-21-00-28-46.png" group-title="CANAIS Da WEB",ALPHA CHANNEL TV
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w320143634.m3u8
+
 #EXTM3U url-tvg=" http://grade-de-CANAIS  SP.xml "
  ############## CANAIS  SP ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  SP" group-title="
+
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS  SP",RECORD SP
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
@@ -193,10 +215,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://i.imgur.com/wskp11q.png" group-title="CANAIS  SP",NDTV Record TV Criciuma
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:-1 tvg-id="NickClassico.br" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="CANAIS  SP",Nick Classico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
-#EXTINF:-1 tvg-id="NickJrClubBrazil.br" tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="CANAIS  SP",Nick Jr Club Brazil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="CANAIS  SP",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="CANAIS  SP",Nova TV Agrotour
@@ -289,11 +307,11 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="CANAIS  SP",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS  SP",Rede TV!
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS  SP",Rede TV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVES.br" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="CANAIS  SP",Rede TV! ES
+#EXTINF:-1 tvg-id="RedeTVES.br" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="CANAIS  SP",Rede TV ES
 https://hls.brasilstream.com.br/live/redetves/redetves/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="CANAIS  SP",RedeTV! Tocantins
+#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="CANAIS  SP",RedeTV Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="CANAIS  SP",Rede UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
@@ -311,8 +329,6 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 #EXTINF:-1 tvg-id="SertaoTV.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="CANAIS  SP",Sertao TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="CANAIS  SP",SESC TV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
 #EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="CANAIS  SP",SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="SOUTV.br" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" group-title="CANAIS  SP",SOU TV
@@ -489,8 +505,6 @@ https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 http://cdn.tvmatic.net/comedy.m3u8
 #EXTINF:-1 tvg-id="TVMaticCrafts.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Crafts
 http://cdn.tvmatic.net/crafts.m3u8
-#EXTINF:-1 tvg-id="TVMaticFacebook.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Facebook
-http://cdn.tvmatic.net/facebook.m3u8
 #EXTINF:-1 tvg-id="TVMaticFight.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Fight
 http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 tvg-id="TVMaticFunny.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS  SP",TVMatic Funny
@@ -2287,7 +2301,6 @@ http://meuplay.shop:80/828474929852/34882748924/550
 
 #EXTM3U url-tvg=" http://grade-de-Canais | Esportes Combate.xml "
  ############## Canais | Esportes Combate ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | Esportes Combate" group-title="
 
 #EXTINF:-1 tvg-name="Combate FHD" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="Canais | Esportes Combate",Combate FHD
  http://5ce.co:80/live/mlindoso/qwe9673/16866.m3u8
@@ -2668,13 +2681,13 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83714.m3u8
  ############## Canais  Premiere FC ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Premiere FC" group-title="
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 1 Clubes 4K
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151037
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83813
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147633
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 1 Clubes FHD [H265]
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83405
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83251
@@ -2686,7 +2699,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83601
 http://apkwuv.xyz:80/cristina2021/graniptv2005/87323
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147635
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 2 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83406
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83245
@@ -2698,7 +2711,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83602
 http://apkwuv.xyz:80/cristina2021/graniptv2005/87321
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147637
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 3 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83407
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83246
@@ -2710,7 +2723,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83603
 http://apkwuv.xyz:80/cristina2021/graniptv2005/87320
 #EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147639
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 4 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83408
 #EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 4 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83247
@@ -2722,7 +2735,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83604
 http://apkwuv.xyz:80/cristina2021/graniptv2005/152926
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147641
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 5 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83409
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83248
@@ -2734,7 +2747,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83605
 http://apkwuv.xyz:80/cristina2021/graniptv2005/87319
 #EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147643
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 6 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83410
 #EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83249
@@ -2746,7 +2759,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83606
 http://apkwuv.xyz:80/cristina2021/graniptv2005/87318
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147645
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 7 FHD [H265]
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83411
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83250
@@ -2845,6 +2858,12 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83607
  ############## Canais | SporTV ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | SporTV" group-title="
 
+#EXTINF:-1 tvg-id="SporTV" tvg-name="RS NEWS SPORTS TV 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYF_aGW2ZPqrkD20FNY-M_YSBEuUBu0fK10CAyU2UukuNA5f1urXvuBqx0cUECs9cs82yOzIzKUcCJFciHv6GgRFsOztRk-dAi7PnNdhkaVojcCJY7nhpTV8zIk9RbXgD0o905f30DqVv5CDiPUDz6HPp4z3m8i7kjGE_giNzWglSAcalhIdNZyLR/s200/RS%20NEWS%20SPORTS.jpg" group-title="Canais | SporTV",RS NEWS SPORTS TV 3
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/chunklist_w1951872443.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="RS NEWS SPORTS TV 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYF_aGW2ZPqrkD20FNY-M_YSBEuUBu0fK10CAyU2UukuNA5f1urXvuBqx0cUECs9cs82yOzIzKUcCJFciHv6GgRFsOztRk-dAi7PnNdhkaVojcCJY7nhpTV8zIk9RbXgD0o905f30DqVv5CDiPUDz6HPp4z3m8i7kjGE_giNzWglSAcalhIdNZyLR/s200/RS%20NEWS%20SPORTS.jpg" group-title="Canais | SporTV",RS NEWS SPORTS TV 4
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/chunklist_w1423542831.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="RS NEWS SPORTS TV 5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYF_aGW2ZPqrkD20FNY-M_YSBEuUBu0fK10CAyU2UukuNA5f1urXvuBqx0cUECs9cs82yOzIzKUcCJFciHv6GgRFsOztRk-dAi7PnNdhkaVojcCJY7nhpTV8zIk9RbXgD0o905f30DqVv5CDiPUDz6HPp4z3m8i7kjGE_giNzWglSAcalhIdNZyLR/s200/RS%20NEWS%20SPORTS.jpg" group-title="Canais | SporTV",RS NEWS SPORTS TV 5
+https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/chunklist_w89875179.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 FHD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83814
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 FHD [Alt]
@@ -3007,9 +3026,43 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83561.m3u8
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83389.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILMES  TV FAX.xml"
-############## FILMES  TV FAX ################# 
+############## FILMES  TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Ano Um "tvg-logo="https://images.justwatch.com/poster/257627384/s592/ano-um"group-title="FILMES | TV FAX",Ano Um 
+https://ia902707.us.archive.org/5/items/ano-um-720p-dublado-2009-99-films/Ano%20Um%20%20-%20720p%20Dublado%20%282009%29%20-%2099%20Film%27s.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prisão"tvg-logo="https://cinepop.com.br/wp-content/uploads/2018/10/the-shawshank-redemption-cinepop.jpg"group-title="FILMES | TV FAX",Prisão
+https://ia902606.us.archive.org/13/items/prisao-filme-completo-dublado/pris%C3%A3o%20-%20Filme%20completo%20dublado.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noé"tvg-logo="https://oportaln10.com.br/todocanal/wp-content/uploads/2022/12/filme-noe.jpg"group-title="FILMES | TV FAX",Noé
+https://ia902602.us.archive.org/33/items/noe-filme-completo-dublado-2014/No%C3%A9%20-%20Filme%20Completo%20Dublado%20%282014%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VERÍDICO REAL"tvg-logo="https://cdn.maioresemelhores.com/imagens/melhores-filmes-baseados-em-fatos-reais-og.jpg"group-title="FILMES | TV FAX",VERÍDICO REAL
+https://ia902703.us.archive.org/11/items/filmes-baseados-em-fatos-reais-filme-veri-dico-real-muito-bom-leia-descrica-o/FILMES%20BASEADOS%20EM%20FATOS%20REAIS%20%20FILME%20VER%C3%8DDICO%20REAL%20MUITO%20BOM%20-%20LEIA%20DESCRI%C3%87%C3%83O.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIDA DE INSETO"tvg-logo="https://smucdata.s3.amazonaws.com/wp-content/uploads/blogger/-I76StfvOjSQ/XBjj48-cfzI/AAAAAAAAIak/drjOPJ0C2bc93_npP5zKTDttvmMzCHVSACK4BGAYYCw/s1600/1_IkUXnkT26OpuakvQcPziWw.jpeg"group-title="FILMES | TV FAX",VIDA DE INSETO
+https://ia802603.us.archive.org/33/items/filme-vida-de-inseto-dublado-completo/FILME%20VIDA%20DE%20INSETO%20DUBLADO%20COMPLETO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antuerpia"tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2016/09/cinema.jpg"group-title="FILMES | TV FAX",Antuerpia
+https://ia902609.us.archive.org/35/items/Antuerpia/Antuerpia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BRICHOS"tvg-logo="https://vdn.libreflix.org/covers/media/a4f89f90-ca25-11eb-b4bf-99d9958b2c1d7.jpg?resize=480,270&crop=entropy"group-title="FILMES | TV FAX",BRICHOS
+https://vdn.libreflix.org/video/brichos2/brichos2.360.mp4
+#EXTINF:-1 tvg-id="" tvg-name=Alta Velocidade"tvg-logo="https://media.fstatic.com/asWdTE36MWEyheG_3EIHp6d5YZs=/322x478/smart/filters:format(webp)/media/movies/covers/2021/02/3415_-_29x41-.jpg"group-title="FILMES | TV FAX",Alta Velocidade
+https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Semente do mal"tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/appurushido_pt/appurushido_pt_200x300.jpg"group-title="FILMES | TV FAX",Semente do mal
+https://play.prod.gcp.vix.services/appurushido_pt/appurushido_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unidade de Combate"tvg-logo="https://images.justwatch.com/poster/8820475/s592/684-unidade-de-combate"group-title="FILMES | TV FAX",Unidade de Combate
+https://play.prod.gcp.vix.services/silmido_pt/silmido_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Verônica"tvg-logo="https://ottvsimg.ottvs.com.br/cov/eur.023665/0023665_335.jpg"group-title="FILMES | TV FAX",Verônica
+https://play.prod.gcp.vix.services/veronica_pt/veronica_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Além da Fronteira"tvg-logo="https://br.web.img2.acsta.net/pictures/210/417/21041708_20130919131255498.jpg"group-title="FILMES | TV FAX",Além da Fronteira
+https://play.prod.gcp.vix.services/out-in-the-dark_en/out-in-the-dark_en_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Último Resgate"tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/01/14/39/3588230.jpg"group-title="FILMES | TV FAX",O Último Resgate
+https://play.prod.gcp.vix.services/we-go-dawn_pt/we-go-dawn_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sem Retorno"tvg-logo="https://1.bp.blogspot.com/-sPX6Vl1yQ9g/VrH08SqcqfI/AAAAAAAAS-A/ZAxyRsSNaSs/s1600/Sem%2BRetorno%2B01.jpg"group-title="FILMES | TV FAX",Sem Retorno
+https://play.prod.gcp.vix.services/point-no-return_pt/point-no-return_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Guerreiro"tvg-logo="https://i.ytimg.com/vi/MjaoceszRjM/maxresdefault.jpg"group-title="FILMES | TV FAX",Alma de Guerreiro
+https://play.prod.gcp.vix.services/viking-blood_pt/viking-blood_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natureza Selvagem"tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2021/05/Natureza-Selvagem_port.jpg"group-title="FILMES | TV FAX",Natureza Selvagem
+https://play.prod.gcp.vix.services/werewolf_pt/werewolf_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Solo - A Ilha do Medo"tvg-logo="https://br.web.img2.acsta.net/pictures/16/01/27/19/55/235266.jpg"group-title="FILMES | TV FAX",Solo - A Ilha do Medo
+https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10
 http://7go.xyz:8080/movie/zogbi11/982451290/312832.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://photos.google.com/photo/AF1QipP6NQei9Bx11Ruo6RP0DjjbASTAtQPp3nRibzrl"group-title="FILMES | TV FAX",Velozes E Furiosos 10  2023
@@ -3018,6 +3071,9 @@ https://ia902709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmes
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda Para Sempre" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="FILMES | TV FAX",Pantera Negra: Wakanda Para Sempre
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83315
+
+#EXTINF:-1 tvg-id="" tvg-name="Boogey Um Monstro Adorável" tvg-logo="https://image.tmdb.org/t/p/w185/mghRagZrG8ZGVmmc72o09k98COR.jpg" group-title="FILMES | TV FAX",Boogey Um Monstro Adorável
+https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/08532/gw7jaoxfix84_n/index-v1-a1.m3u8?t=WJ_xZQ44XeQWEeJQXz7Z9LDqLXPwhK5O7Mtg3F0MrQ8&s=1686523356&e=14400&f=42661414&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=168.227&sp=3500&asn=264914
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU" group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
 https://ia902700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie - O Gordo e o Magro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg" group-title="FILMES | TV FAX",Stan e Ollie - O Gordo e o Magro - 2018
@@ -3408,10 +3464,9 @@ https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_
 https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
 
-
-#EXTM3U url-tvg="http://grade-de-FILMES  INFANTIL CINEMA.xml"
-############## FILMES  INFANTIL CINEMA ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  INFANTIL CINEMA" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES | INFANTIL CINEMA.xml"
+############## FILMES | INFANTIL CINEMA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | INFANTIL CINEMA" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Agente Mirim"tvg-id="https://imagens.ebc.com.br/RAZnjCXPVV4KFuv6wnG3r0APh7I=/365x0/smart/https://tvbrasil.ebc.com.br/sites/default/files/thumbnails/image/agente_mirim_cartaz.jpg?itok=CfgJjlTW" group-title="FILMES | INFANTIL CINEMA",Agente Mirim
 https://play.prod.gcp.vix.services/ace-the-case_pt/ace-the-case_pt_1-1/play_v1_hls_1080p.m3u8
@@ -4422,7 +4477,7 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777610.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777085.mp4
 #EXTINF:-1 tvg-name="Kill Boksoon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3qqSlXli8WRJroahhjIWNXu0q.jpg" group-title="Filmes | Lançamentos 2023",Kill Boksoon (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776729.mp4
-#EXTINF:-1 tvg-name="Amy’s Fucket List [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lFMnotILTWriXPoEhTIuVRNPr.jpg" group-title="Filmes | Lançamentos 2023",Amy’s Fucket List [CINEMA] (2023)
+#EXTINF:-1 tvg-name="Amy s Fucket List [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lFMnotILTWriXPoEhTIuVRNPr.jpg" group-title="Filmes | Lançamentos 2023",Amy s Fucket List [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776728.mp4
 #EXTINF:-1 tvg-name="Raquel 1:1 [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH3U0DWNzTaSiC9Y395DubOhPdo.jpg" group-title="Filmes | Lançamentos 2023",Raquel 1:1 [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776741.mp4
@@ -4458,7 +4513,7 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775426.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775164.mp4
 #EXTINF:-1 tvg-name="Roubo pelos Ares (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg" group-title="Filmes | Lançamentos 2023",Roubo pelos Ares (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775161.mp4
-#EXTINF:-1 tvg-name="Why Can't My Life Be a Rom-Com? [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9l5Tg3rLwBXqvWRaTC3aRmfXhc.jpg" group-title="Filmes | Lançamentos 2023",Why Can't My Life Be a Rom-Com? [CINEMA] (2023)
+#EXTINF:-1 tvg-name="Why Can t My Life Be a Rom Com  [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9l5Tg3rLwBXqvWRaTC3aRmfXhc.jpg" group-title="Filmes | Lançamentos 2023",Why Can t My Life Be a Rom Com [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775165.mp4
 #EXTINF:-1 tvg-name="The Donor Party [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWOPibu4RqGz9Y4zj657HslR964.jpg" group-title="Filmes | Lançamentos 2023",The Donor Party [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775023.mp4
@@ -4496,9 +4551,9 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777590.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777580.mp4
 #EXTINF:-1 tvg-name="Meu Amigo Lutcha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg" group-title="Filmes | Lançamentos 2023",Meu Amigo Lutcha (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777629.mp4
-#EXTINF:-1 tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes | Lançamentos 2023",Shazam! Fúria dos Deuses (2023)
+#EXTINF:-1 tvg-name="Shazam Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes | Lançamentos 2023",Shazam Fúria dos Deuses (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777630.mp4
-#EXTINF:-1 tvg-name="Shazam! Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes | Lançamentos 2023",Shazam! Fúria dos Deuses (2023)
+#EXTINF:-1 tvg-name="Shazam Fúria dos Deuses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GE5FwsQIQKNDWkSEBVIWYx7zCK.jpg" group-title="Filmes | Lançamentos 2023",Shazam Fúria dos Deuses (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138777630.mp4
 #EXTINF:-1 tvg-name="Rainhas em Fuga (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL0hVqtK0NUa6B9UJXkoq5jSXAz.jpg" group-title="Filmes | Lançamentos 2023",Rainhas em Fuga (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138778857.mp4
@@ -4535,11 +4590,9 @@ http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222039.mp4
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262450.mp4
 #EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg" group-title="Filmes: Lancamentos 2022",365 Dias Finais (2022)
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Noites com a Minha Ex (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GUOSsdQrchL57N4HTAncDEWxKO.jpg" group-title="Filmes: Lancamentos 2023",30 Noites com a Minha Ex (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/273711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#Comvocê: Volume 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiY4nI6HPAqnpGt5cPmszC6pTR7.jpg" group-title="Filmes: Lancamentos 2022",#Comvocê: Volume 2 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Comvocê: Volume 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiY4nI6HPAqnpGt5cPmszC6pTR7.jpg" group-title="Filmes: Lancamentos 2022",Comvocê: Volume 2 (2022)
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/249404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#PartiuFama: Cancelado no Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg" group-title="Filmes: Lancamentos 2022",#PartiuFama: Cancelado no Amor (2022)
+#EXTINF:-1 tvg-id="" tvg-name="PartiuFama: Cancelado no Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg" group-title="Filmes: Lancamentos 2022",PartiuFama: Cancelado no Amor (2022)
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/258731.mp4
 #EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Filmes: Lancamentos 2022",13: O Musical (2022)
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250720.mp4
@@ -6987,6 +7040,22 @@ http://7go.xyz:8080/zogbi11/982451290/116623
 ############## RELIGIOSOS ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeRELIGIOSOS" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="TV TEMPO DE VITÓRIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi_vv3prFCiRdti3kQlGCfVimtC0AFlHma4sAGIUpLAjhRQxq4sJbSa67mtFSoleWdmkkfbXGdl5UU1UkSo_yzgJ--j9fGSY2S-hzX7lMDPNHRc6HVSQ6Vp4lQxuWD_tewwLW1rMKY_3Mu0o5r6-I4ENhrLVq60srPZxSTiagEEUz49mFCycta0lHB/s200/TV%20TEMPO%20DE%20VIT%C3%93RIA.jpg" group-title="RELIGIOSOS",TV TEMPO DE VITÓRIA
+https://5cf4a2c2512a2.streamlock.net/tempodevitoria/tempodevitoria/chunklist_w333621650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMPD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpnRko9zmDWDO1Iuy3idC4GYBY_1dertzmtAAc3mR7YXIo7E_AaxmCgdnpw8YdHrrjN8-LfVWXe9NnqsJYydiEpuR-hH5dw9jG578SwS9CqHxgN2Zu8y6B4KDc2C12TI51jKiEjGE4ZoCzz8vY2YqeNeANLsQCMMW2f3YGgstZ_Coh7OEhKBZRAyoN/s200/IMPD%20TV.jpg" group-title="RELIGIOSOS",IMPD
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w399145978_b1196000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvuniversal"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="RELIGIOSOS",tvuniversal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_404abe9b-14c1-47a8-acb8-a80c7a0a6968.m3u8
+#EXTINF:-1 tvg-id="TV AMOR ETERNO" tvg-name="TV AMOR ETERNO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXesi4XfVFrmM4L9qEKD82EQlUuLFx1fCT7dSJaiSR3X7Il9qWeEzrvs0yi3WDkmKI6pPKb1Zl8_0CqpPpEJLBbeoI3QVL9CSQa9285H6gmXEe_j52u_Mj94pkpbC3TqDqUEpYxw0wYwjCi7EynGWlVDYosn3i_NQw4B6P4_P8y0J43oKIz9IlzjgR/s200/WEB%20TV%20AMOR%20ETERNO.jpg" group-title="RELIGIOSOS",TV AMOR ETERNO
+https://stmv1.srvif.com/amoreterno/amoreterno/chunklist_w1809899050.m3u8
+#EXTINF:-1 tvg-id="PELA FÉ TV GOSPEL" tvg-name="PELA FÉ TV GOSPEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPs3lWBdoD4wSQFKNFgvPHzo-9lvKw_dCOSB3D5t68JzcmUmbSeaD59h5-uAZIBc7Dnxd0CKVIGmRWxO8S5hmgFq7Y-Kmy1kJzCzG6SeVvlBp7XpoUpn4aRjm1j1IEsuCml6anA4c0-vEMp90HTjSrGwIzEBtfYVk39D061fSgXOuLN97xTTZBQIbe/s200/PELA%20F%C3%89%20TV%20GOSPEL.jpg" group-title="RELIGIOSOS",PELA FÉ TV GOSPEL
+https://stmv1.samcast.com.br/pelafetv/pelafetv/chunklist_w1521544827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLENITUDE TV"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyCE-U_CHPIK5-KLTDlV50xZGwmGlsolBEvbGrSzf8gouhoKszMMVIUrPPED0dBNeHfWD0wb-5fZ7AcX5OVO4xOGV-kokUAOyFJihTvHzGlVyzY0oPJ-BjHo_4TA58XMKOYVi4fQXR_izws_PZ_f7IqW0QiPBU-30wBmnPZI42sN5GAO_cWAIjJyIW/s200/PLENITUDE%20TV.jpg" group-title="RELIGIOSOS",PLENITUDE TV
+https://meupainel.top:1936/iaptd/iaptd/chunklist_w1541570558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CRISTO VIVE"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj43B3eeKqX1hEpEwsXBUzzzfF-Q8UrpGgbXwcK24CZTQV93NuucXILsm_ebBaBaG_fkkoaMlUi0OIuIbRbV6BzO0b-DS12eFX6zSk-vbzU5MdWURMnY2EQPGe6eVOS83zhBZQY2gz5MagwGIgpq4ZO659uwe9flcJmxjWn9lO-L_wMsVU-YchP59Ws/s200/TV%20CRISTO%20VIVE.jpg" group-title="RELIGIOSOS",TV CRISTO VIVE
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1651966114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Missão"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyxbjHgxlzRbR1J7V0WBcp8FW0j8qncoRufmSPpv-o_XPfjAVrcEgcuzRie3_pUxf0PAUB3s_rng7Vd7BLuhUr51eBODanGB2nHfp6fSEQ29w99QIbAfkgvyEarNkOSgxbaudAUOKPD3moQNtLl4J7nZCIrgrSHTMbkL3qzoeUh_wdYB2cbluE8NWt/s200/TV%20MISS%C3%83O.jpg" group-title="RELIGIOSOS",TV Missão
+https://59f1cbe63db89.streamlock.net:1443/canalmissionario/_definst_/canalmissionario/chunklist_w542780058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" topmixtv  " tvg-logo="http://www.topmixtv.com.br/wp-content/uploads/2023/01/topmixtvlogocapa2.png" group-title="RELIGIOSOS",topmixtv
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  Novo Tempo TV online " tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f5/Tvnovotempo.jpg/revision/latest?cb=20160619201050&path-prefix=pt-br" group-title="RELIGIOSOS",Novo Tempo TV online
@@ -7159,6 +7228,27 @@ http://7go.xyz:8080/movie/zogbi11/982451290/50082.mp4
 http://7go.xyz:8080/movie/zogbi11/982451290/50083.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/41266.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Fubar.xml"
+############## SÉRIES | Fubar ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | ANIMES" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="01 Dia de levar a filha para o trabalho A01A02" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",01 Dia de levar a filha para o trabalho A01A02
+https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/01Dia%20de%20levar%20a%20filha%20para%20o%20trabalhoA01A02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="02 Trem roubado A03A04" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",02 Trem roubado A03A04
+https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/02Trem%20roubado%20A03A04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03 Isca A05A06 " tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",03 Isca A05A06 
+https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/03Isca%20A05A06%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="0 4Armado e Perigoso A07A08" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",04 Armado e Perigoso A07A08
+https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/04Armado%20e%20Perigoso%20A07A08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="05 Hoje aqui, amanhã quem sabe A09A10" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",05 Hoje aqui, amanhã quem sabe A09A10
+https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/05Hoje%20aqui%2C%20amanh%C3%A3%20quem%20sabe%20A09A10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="00 6Royal Flush A11A12" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",006 Royal Flush A11A12
+https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/006Royal%20Flush%20A11A12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 Urina da Sorte A13A14" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",007 Urina da Sorte A13A14
+https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/007Urina%20da%20Sorte%20A13A14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="08 É isso, e acabou A15A16" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="SÉRIES | Fubar",08 É isso, e acabou A15A16
+https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/08%C3%89%20isso%2C%20e%20acabou%20A15A16.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | ANIMESs.xml"
 ############## SÉRIES | ANIMES ################# 
