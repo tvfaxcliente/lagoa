@@ -822,32 +822,58 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/320223
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - SD²" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT SP - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83671
 
-#EXTM3U url-tvg=" http://grade-de-Canais  Record.xml "
- ############## Canais  Record ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  Record" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais | Record.xml "
+ ############## Canais | Record ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Record" group-title="
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV SP - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82875
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV SP - FHD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82879
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV SP - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82874
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV SP - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82878
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV SP - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82873
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="RECORDTV RECIFE" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RECIFE
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774700
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RIO GRANDE DO NORTE" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RIO GRANDE DO NORTE
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/13875003
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RJ - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RJ - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/156144
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RJ - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RJ - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/123675
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RJ - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RJ - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/132816
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RS - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORDTV RS - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/87574
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP 4K" tvg-logo="https://i.imgur.com/LzwVYs3.png" group-title="Canais | Record",Record SP 4K
+http://srv.cldplay.net:80/live/820584rohs/67864336899/151036.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162663.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83430.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83468.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147658.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83613.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP SD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP SD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147657.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV MT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record TV MT HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83496.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV Vila Real FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record TV Vila Real FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83804.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record TV Vila Real HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record TV Vila Real HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83520.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Paranaíba de Uberlândia FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Paranaíba de Uberlândia FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/247611.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Paranaíba de Uberlândia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Paranaíba de Uberlândia HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162762.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RIC HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RIC HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83796.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Rio Preto FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Rio Preto FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83678.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Rio Preto HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record Rio Preto HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162666.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RJ FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162969.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RJ HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/157157.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RJ HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147664.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RJ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RJ SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/163031.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RS FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RS FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/165435.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RS HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147665.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record RS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record RS SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162770.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SIC TV Rondônia HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SIC TV Rondônia HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162763.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SicTV RO HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SicTV RO HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/163608.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS | GLOBO.xml "
  ############## CANAIS | GLOBO ############## ### 
@@ -1904,6 +1930,18 @@ http://pbrz.xyz:80/67531382/36606924/1138
 http://pbrz.xyz:80/67531382/36606924/1139
 #EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | A&E",A&E
 http://45.58.126.146:14293/A&E
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="CANAIS | A&E",A&E FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/139100.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD [Alt]" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="CANAIS | A&E",A&E FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147431.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD [H265]" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="CANAIS | A&E",A&E FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83335.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="CANAIS | A&E",A&E HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83185.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E HD [Alt]" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="CANAIS | A&E",A&E HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147432.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title="CANAIS | A&E",A&E SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83521.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-FILMES E SERIES AXN.xml "
  ############## FILMES E SERIES AXN ############## ### 
@@ -1938,11 +1976,37 @@ http://pbrz.xyz:80/67531382/36606924/1166
 http://pbrz.xyz:80/67531382/36606924/1168
 #EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD(ALT)"tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="CANAIS | AXN",AXN SD
 http://pbrz.xyz:80/67531382/36606924/1170
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="CANAIS | AXN",AXN FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/136792.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD [Alt]" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="CANAIS | AXN",AXN FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147438.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD [H265]" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="CANAIS | AXN",AXN FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83369.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="CANAIS | AXN",AXN HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83188.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD [Alt]" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="CANAIS | AXN",AXN HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147439.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="CANAIS | AXN",AXN SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83524.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  SPACE.xml "
  ############## CANAIS  SPACE ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  SPACE" group-title="
 
+#EXTINF:-1 tvg-id="Space" tvg-name="Space 4K" tvg-logo="https://i.imgur.com/3YX8kyd.png" group-title="CANAIS | SPACE",Space 4K
+http://srv.cldplay.net:80/live/820584rohs/67864336899/151060.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="CANAIS | SPACE",Space FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/136803.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD [Alt]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="CANAIS | SPACE",Space FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147682.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD [H265]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="CANAIS | SPACE",Space FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83361.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="CANAIS | SPACE",Space HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83254.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD [Alt]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="CANAIS | SPACE",Space HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147683.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space SD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="CANAIS | SPACE",Space SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83622.m3u8
 #EXTINF:-1 tvg-name="Space FHD" tvg-logo="http://70.ms/dF" group-title="CANAIS | SPACE",Space FHD
  http://5ce.co:80/live/mlindoso/qwe9673/6934.m3u8
 #EXTINF:-1 tvg-name="Space FHD²" tvg-logo="http://70.ms/Xp" group-title="CANAIS | SPACE",Space FHD²
@@ -2220,6 +2284,35 @@ http://meuplay.shop:80/828474929852/34882748924/877
 http://meuplay.shop:80/828474929852/34882748924/131
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="CANAIS  | FILMES E SERIES",TCM SD
 http://meuplay.shop:80/828474929852/34882748924/550
+
+#EXTM3U url-tvg=" http://grade-de-Canais | Variedades.xml "
+ ############## Canais | Variedades ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Variedades" group-title="
+
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca FHD" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title=" Canais | Variedades",Trace Brazuca FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162662.m3u8
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca FHD [Alt]" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title=" Canais | Variedades",Trace Brazuca FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147485.m3u8
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca FHD [H265]" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title=" Canais | Variedades",Trace Brazuca FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/163283.m3u8
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca HD" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title=" Canais | Variedades",Trace Brazuca HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147999.m3u8
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca HD [Alt]" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title=" Canais | Variedades",Trace Brazuca HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147470.m3u8
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca SD" tvg-logo="https://i.imgur.com/pAbVCWP.png" group-title=" Canais | Variedades",Trace Brazuca SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162660.m3u8
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brasil FHD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title=" Canais | Variedades",Travel Box Brasil FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147366.m3u8
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title=" Canais | Variedades",Travel Box Brasil FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147721.m3u8
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brasil HD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title=" Canais | Variedades",Travel Box Brasil HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/150168.m3u8
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brasil HD [Alt]" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title=" Canais | Variedades",Travel Box Brasil HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147456.m3u8
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brazil FHD [H265]" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="Canais | 4K - H265",Travel Box Brazil FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/163284.m3u8
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brazil SD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title=" Canais | Variedades",Travel Box Brazil SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/162758.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Canais F1 TV.xml "
  ############## Canais F1 TV ############## ### 
@@ -2859,6 +2952,44 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83607
  ############## Canais | SporTV ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | SporTV" group-title="
 
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 4K
+http://srv.cldplay.net:80/live/820584rohs/67864336899/151042.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83814.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147688.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD [H265]" tvg-logo="https://i.imgur.com/1CLMaU0.png" group-title="Canais | SporTV",SporTV 1 FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83416.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83257.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147689.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="Canais | SporTV",SporTV 1 SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83623.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83815.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147684.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83414.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83255.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147685.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83624.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83816.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147686.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83415.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83256.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD [Alt]
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147687.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
+http://srv.cldplay.net:80/live/820584rohs/67864336899/83625.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-name="RS NEWS SPORTS TV 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYF_aGW2ZPqrkD20FNY-M_YSBEuUBu0fK10CAyU2UukuNA5f1urXvuBqx0cUECs9cs82yOzIzKUcCJFciHv6GgRFsOztRk-dAi7PnNdhkaVojcCJY7nhpTV8zIk9RbXgD0o905f30DqVv5CDiPUDz6HPp4z3m8i7kjGE_giNzWglSAcalhIdNZyLR/s200/RS%20NEWS%20SPORTS.jpg" group-title="Canais | SporTV",RS NEWS SPORTS TV 3
 https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/chunklist_w1951872443.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-name="RS NEWS SPORTS TV 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYF_aGW2ZPqrkD20FNY-M_YSBEuUBu0fK10CAyU2UukuNA5f1urXvuBqx0cUECs9cs82yOzIzKUcCJFciHv6GgRFsOztRk-dAi7PnNdhkaVojcCJY7nhpTV8zIk9RbXgD0o905f30DqVv5CDiPUDz6HPp4z3m8i7kjGE_giNzWglSAcalhIdNZyLR/s200/RS%20NEWS%20SPORTS.jpg" group-title="Canais | SporTV",RS NEWS SPORTS TV 4
@@ -3303,6 +3434,15 @@ https://play.prod.gcp.vix.services/impys-wonderland_pt/impys-wonderland_pt_1-1/p
 https://play.prod.gcp.vix.services/legends-oz-dorothy-return_pt/legends-oz-dorothy-return_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de uma Super Professora"tvg-logo="https://i.ytimg.com/vi/4DgBbul44Mw/maxresdefault.jpg" group-title="FILMES | ADOLECENTE CINEMA",As Aventuras de uma Super Professora
 https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-Pantera Cor de Rosa.xml"
+############## Pantera Cor de Rosa ################# 
+#EXTINF:-1 tvg-id=" iddocanaldePantera Cor de Rosa" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 1" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="Pantera Cor de Rosa",[24H] Pantera Cor de Rosa 1
+http://srv.cldplay.net:80/live/820584rohs/67864336899/147949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 2" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="Pantera Cor de Rosa",[24H] Pantera Cor de Rosa 2
+http://srv.cldplay.net:80/live/820584rohs/67864336899/62990.m3u8
 
 #EXTM3U url-tvg="http://grade-de-24HRS DESENHOS.xml"
 ############## 24HRS DESENHOS ################# 
@@ -4171,8 +4311,6 @@ https://03.supertela.gq/playlist.m3u8?data=ZUtKaTJabWJDMFk1WjlZT3F5R0pkS1ovc2ZXV
 https://ia802604.us.archive.org/11/items/rally-road-racers_202306/Rally%20Road%20Racers.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mad Max 2 A Calçada Continua"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/62/67/20105229.jpg"group-title="FILMES | TV FAX",Mad Max 2 A Calçada Continua
 https://ia802707.us.archive.org/31/items/assistir-mad-max-2-a-cacada-continua-online-gratis-mega-fi/Assistir%20Mad%20Max%202%20A%20Ca%C3%A7ada%20Continua%20Online%20Gr%C3%A1tis%20-%20Mega%20Fi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abismo Do Medo 2"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/89/57/19962652.jpg"group-title="FILMES | TV FAX",Abismo Do Medo 2
-https://ia802602.us.archive.org/3/items/assistir-abismo-do-medo-2-online-gratis-filme-em-hd/Assistir%20Abismo%20do%20Medo%202%20Online%20Gr%C3%A1tis%20-%20Filme%20em%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="À Espera De Um Milagre"tvg-logo="https://64.media.tumblr.com/d3323ff32919b77fe6ec1476c0b8729c/3b9075077300210a-33/s500x750/aa32168d47b9054f458dcbe24b00d378f83ce6db.gif"group-title="FILMES | TV FAX",À Espera De Um Milagre
 https://ia803409.us.archive.org/14/items/a-espera-de-um-milagre-1999-720p-dublado/%C3%80%20Espera%20de%20um%20Milagre%20%281999%29%20720p%20dublado.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://br.web.img2.acsta.net/pictures/22/10/04/19/16/5487644.jpg"group-title="FILMES | TV FAX",A Queda
@@ -13142,4 +13280,4 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/152600
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Gospel Campinas" tvg-logo="https://img.radios.com.br/radio/lg/radio40462_1522251880.jpg" group-title="RITMOS",Rádio Gospel Campinas
 http://apkwuv.xyz:80/cristina2021/graniptv2005/152601
 #EXTINF:-1 tvg-id="" tvg-name="Bons Tempos FM" tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RITMOS",Bons Tempos FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152602
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152602                                                                                                                                                                                                          
