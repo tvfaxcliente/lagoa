@@ -2310,7 +2310,6 @@ http://195.181.163.144:14730/
 http://195.181.163.144:14730/
 #EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
 http://195.181.163.144:14730/
-
 #EXTINF:-1 tvg-id="Space FHD" tvg-name="Space FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="CANAIS | SPACE",Space FHD
 http://piglo.re:80/14957348417/2839302i178101/54422
 #EXTINF:-1 tvg-id="Space FHD" tvg-name="Space HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="CANAIS | SPACE",Space HD
@@ -2676,7 +2675,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82831
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE -SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4YOe6D5JOuPcLp8z8cOZ1VV6hruJtm39kl3H1LR2nu9q.png" group-title="Canais | Esportes ",COMBATE -SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82832
 
-
 #EXTM3U url-tvg=" http://grade-de-Canais  Esportes DAZN.xml "
  ############## Canais  Esportes DAZN ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Esportes DAZN" group-title="
@@ -2749,7 +2747,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82837
 #EXTM3U url-tvg=" http://grade-de-Canais  Esportes PPV.xml "
  ############## Canais  Esportes PPV ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Esportes PPV" group-title="
-
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="Prime Esportes 1 FHD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 1 FHD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83449
@@ -2949,7 +2946,6 @@ http://piglo.re:80/14957348417/2839302i178101/54291
 http://piglo.re:80/14957348417/2839302i178101/54292
 #EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN SD" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_brazil_2x.png" group-title="CANAIS | ESPORTES ESPN",ESPN SD
 http://piglo.re:80/14957348417/2839302i178101/54293
-
 #EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN Extra FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png" group-title="CANAIS | ESPORTES ESPN",ESPN Extra FHD
 http://axr.life:80/968367/462903/1263671
 #EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN Extra HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png" group-title="CANAIS | ESPORTES ESPN",ESPN Extra HD
@@ -3871,63 +3867,6 @@ https://archive.org/details/filme-gospel-dublado-o-misterio-da-divindade-a-conti
 https://archive.org/details/filme-gospel-dublado-o-misterio-da-divindade-a-continuacao-o-senhor-jesus-retornou-a-carne_202306/Filme+gospel+_A+t%C3%A3o+aguardada+felicidade_+S%C3%B3+Deus+pode+salvar+a+humanidade+e+nos+libertar+da+dor.mp4
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="O juizo começa na casa de Deus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMopGFWrwiLAptLUk2XLCj0fNjtew87d8avA&usqp=CAU" group-title="FILMES | Todo-Poderoso",O juizo começa na casa de Deus
 https://ia802705.us.archive.org/16/items/filme-gospel-dublado-o-misterio-da-divindade-a-continuacao-o-senhor-jesus-retornou-a-carne/Filme%20gospel%20completo%20dublado%20_Aben%C3%A7oados%20s%C3%A3o%20os%20pobres%20em%20esp%C3%ADrito_%20%281%29.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETÂNEA MAZZAROPI.xml"
-############## FILMES | COLETÂNEA MAZZAROPI ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETÂNEA MAZZAROPI" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi  (2013)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hjz8BhdKCzTEaLsa4G92oZ1U7a.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi  (2013)*
-http://7go.xyz:8080/movie/zogbi11/982451290/292900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Portugal... Minha Saudade (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hvz6PW5TotlI1KrCPVX28fkosnf.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Portugal... Minha Saudade (1974)
-http://7go.xyz:8080/movie/zogbi11/982451290/50388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Puritano da Rua Augusta (1965)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnX0H9idfi7MN9dmCNLG8SaIlB.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Puritano da Rua Augusta (1965)
-http://7go.xyz:8080/movie/zogbi11/982451290/50380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jecão... Um Fofoqueiro no Céu (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gbz0oAZyJdThBs893R22444dsRf.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jecão... Um Fofoqueiro no Céu (1977)
-http://7go.xyz:8080/movie/zogbi11/982451290/50379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: A Banda das Velhas Virgens (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u02gmloL181gdA9I53R6dumSHUj.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: A Banda das Velhas Virgens (1979)
-http://7go.xyz:8080/movie/zogbi11/982451290/29446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: A Carrocinha (1955)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qe8ma8Gw4LutBUKeXJKDE1O09RX.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: A Carrocinha (1955)
-http://7go.xyz:8080/movie/zogbi11/982451290/29447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Betão Ronca Ferro (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRLP6pCLCNmzVTF003Yax39kmBN.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Betão Ronca Ferro (1970)
-http://7go.xyz:8080/movie/zogbi11/982451290/29449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Candinho (1954)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/58yc0ICLl9niXmrNP9hujRSs0eZ.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Candinho (1954)
-http://7go.xyz:8080/movie/zogbi11/982451290/29450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Casinha Pequenina (1963)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tR0ynVLescjusSwaEBoYohRbAtW.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Casinha Pequenina (1963)
-http://7go.xyz:8080/movie/zogbi11/982451290/29451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Chico Fumaça (1956)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ojNcg7rKA65GVMvyH86OEAZSxc7.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Chico Fumaça (1956)
-http://7go.xyz:8080/movie/zogbi11/982451290/29452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Chofer de Praça (1959)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7yyVIQO8DTpp5XgfDfueE1OtMV2.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Chofer de Praça (1959)
-http://7go.xyz:8080/movie/zogbi11/982451290/29453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Gato de Madame (1957)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1y1NNoYL7zr8xuIcz5KyZ9zoPd2.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Gato de Madame (1957)
-http://7go.xyz:8080/movie/zogbi11/982451290/29474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca Contra o Capeta (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w40eVyDa9C4U0F5QQSeDOqJ1SiC.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca Contra o Capeta (1976)
-http://7go.xyz:8080/movie/zogbi11/982451290/29475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca e Seu Filho Preto (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3zLb6aYiPDe5WPdxFdeB6pvLxET.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca e Seu Filho Preto (1978)
-http://7go.xyz:8080/movie/zogbi11/982451290/29476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Jeca Tatu (1959)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zFd1IzwexpicNpfndRYBALcC6Qn.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Jeca Tatu (1959)
-http://7go.xyz:8080/movie/zogbi11/982451290/29478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Meu Japão Brasileiro (1965)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ATUIfsNy4YB8vQkSfSMbhyHF2F.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Meu Japão Brasileiro (1965)
-http://7go.xyz:8080/movie/zogbi11/982451290/29479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Nadando em Dinheiro (1952)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mJq59QFlozLQ73aLMB4olEqHDgY.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Nadando em Dinheiro (1952)
-http://7go.xyz:8080/movie/zogbi11/982451290/29480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: No Paraíso das Solteironas (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b9S2hhHBnmeJhI0jjnttb1bTvEN.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: No Paraíso das Solteironas (1969)
-http://7go.xyz:8080/movie/zogbi11/982451290/29481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Cineasta das Platéias (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rAcTZc4bxkcOnhX3hlfiGuH32Q3.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Cineasta das Platéias (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/29482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Corintiano (1967)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lY2woblKwOwm5NsgWAE9IhfdfW3.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Corintiano (1967)
-http://7go.xyz:8080/movie/zogbi11/982451290/29483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Grande Xerife (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9DbyEFSmSiakS5BlSzLFjBSv6NW.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Grande Xerife (1972)
-http://7go.xyz:8080/movie/zogbi11/982451290/29484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Jeca e a Égua Milagrosa (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgvRnaGr3bTtRVbC3J5gBdd1n7.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: O Jeca e a Égua Milagrosa (1980)
-http://7go.xyz:8080/movie/zogbi11/982451290/29485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Sai da Frente (1952)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p12jJmcYkk4Mr9VTx10i41w9ADn.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Sai da Frente (1952)
-http://7go.xyz:8080/movie/zogbi11/982451290/50384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Zé do Periquito (1960)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mmG48zTGeHDrhe8nrtGxzM4CLrq.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Zé do Periquito (1960)
-http://7go.xyz:8080/movie/zogbi11/982451290/29488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Um Caipira em Bariloche (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/326QolRfXjlOsdIarjAvnfHEiPH.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Um Caipira em Bariloche (1973)
-http://7go.xyz:8080/movie/zogbi11/982451290/50387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: Uma Pistola Para Djeca (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ektHC3oPm4KQUmzBoFiIcFC8Qb.jpg" group-title=" FILMES | COLETÂNEA MAZZAROPI",Mazzaropi: Uma Pistola Para Djeca (1969)
-http://7go.xyz:8080/movie/zogbi11/982451290/50386.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes | Lançamentos 2023.xml"
 ############## Filmes | Lançamentos 2023 ################# 
@@ -8425,6 +8364,533 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97817.mp4
 #EXTINF:-1 tvg-name="CSI: Miami S05E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E24
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97818.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E01
+http://axr.life:80/series/968367/462903/2346478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E02
+http://axr.life:80/series/968367/462903/2346479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E03
+http://axr.life:80/series/968367/462903/2346480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E04
+http://axr.life:80/series/968367/462903/2346481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E05
+http://axr.life:80/series/968367/462903/2346482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E06
+http://axr.life:80/series/968367/462903/2346483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E07
+http://axr.life:80/series/968367/462903/2346484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E08
+http://axr.life:80/series/968367/462903/2346485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E09
+http://axr.life:80/series/968367/462903/2346486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E10
+http://axr.life:80/series/968367/462903/2346487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E11
+http://axr.life:80/series/968367/462903/2346488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E12
+http://axr.life:80/series/968367/462903/2346489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E13
+http://axr.life:80/series/968367/462903/2346490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E14
+http://axr.life:80/series/968367/462903/2346491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E15
+http://axr.life:80/series/968367/462903/2346492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E16
+http://axr.life:80/series/968367/462903/2346493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E17
+http://axr.life:80/series/968367/462903/2346494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E18
+http://axr.life:80/series/968367/462903/2346495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E19
+http://axr.life:80/series/968367/462903/2346496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E20
+http://axr.life:80/series/968367/462903/2346497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E01
+http://axr.life:80/series/968367/462903/2346498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E02
+http://axr.life:80/series/968367/462903/2346499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E03
+http://axr.life:80/series/968367/462903/2346500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E04
+http://axr.life:80/series/968367/462903/2346501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E05
+http://axr.life:80/series/968367/462903/2346502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E06
+http://axr.life:80/series/968367/462903/2346503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E07
+http://axr.life:80/series/968367/462903/2346504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E08
+http://axr.life:80/series/968367/462903/2346505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E09
+http://axr.life:80/series/968367/462903/2346506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E10
+http://axr.life:80/series/968367/462903/2346507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E11
+http://axr.life:80/series/968367/462903/2346508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E12
+http://axr.life:80/series/968367/462903/2346509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E13
+http://axr.life:80/series/968367/462903/2346510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E14
+http://axr.life:80/series/968367/462903/2346511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E15
+http://axr.life:80/series/968367/462903/2346512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E16
+http://axr.life:80/series/968367/462903/2346513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E17
+http://axr.life:80/series/968367/462903/2346514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E18
+http://axr.life:80/series/968367/462903/2346515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E19
+http://axr.life:80/series/968367/462903/2346516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E20
+http://axr.life:80/series/968367/462903/2346517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E21
+http://axr.life:80/series/968367/462903/2346518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E01
+http://axr.life:80/series/968367/462903/2346519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E02
+http://axr.life:80/series/968367/462903/2346520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E03
+http://axr.life:80/series/968367/462903/2346521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E04
+http://axr.life:80/series/968367/462903/2346522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E05
+http://axr.life:80/series/968367/462903/2346523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E06
+http://axr.life:80/series/968367/462903/2346524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E07
+http://axr.life:80/series/968367/462903/2346525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E08
+http://axr.life:80/series/968367/462903/2346526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E09
+http://axr.life:80/series/968367/462903/2346527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E10
+http://axr.life:80/series/968367/462903/2346528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E11
+http://axr.life:80/series/968367/462903/2346529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E12
+http://axr.life:80/series/968367/462903/2346530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E13
+http://axr.life:80/series/968367/462903/2346531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E14
+http://axr.life:80/series/968367/462903/2346532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E15
+http://axr.life:80/series/968367/462903/2346533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E16
+http://axr.life:80/series/968367/462903/2346534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E17
+http://axr.life:80/series/968367/462903/2346535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E18
+http://axr.life:80/series/968367/462903/2346536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E19
+http://axr.life:80/series/968367/462903/2346537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E20
+http://axr.life:80/series/968367/462903/2346538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E01
+http://axr.life:80/series/968367/462903/2346539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E02
+http://axr.life:80/series/968367/462903/2346540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E03
+http://axr.life:80/series/968367/462903/2346541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E04
+http://axr.life:80/series/968367/462903/2346542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E05
+http://axr.life:80/series/968367/462903/2346543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E06
+http://axr.life:80/series/968367/462903/2346544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E07
+http://axr.life:80/series/968367/462903/2346545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E08
+http://axr.life:80/series/968367/462903/2346546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E09
+http://axr.life:80/series/968367/462903/2346547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E10
+http://axr.life:80/series/968367/462903/2346548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E11
+http://axr.life:80/series/968367/462903/2346549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E12
+http://axr.life:80/series/968367/462903/2346550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E13
+http://axr.life:80/series/968367/462903/2346551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E14
+http://axr.life:80/series/968367/462903/2346552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E15
+http://axr.life:80/series/968367/462903/2346553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E16
+http://axr.life:80/series/968367/462903/2346554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E17
+http://axr.life:80/series/968367/462903/2346555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E18
+http://axr.life:80/series/968367/462903/2346556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E19
+http://axr.life:80/series/968367/462903/2346557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E20
+http://axr.life:80/series/968367/462903/2346558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E01
+http://axr.life:80/series/968367/462903/2346559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E02
+http://axr.life:80/series/968367/462903/2346560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E03
+http://axr.life:80/series/968367/462903/2346561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E04
+http://axr.life:80/series/968367/462903/2346562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E05
+http://axr.life:80/series/968367/462903/2346563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E06
+http://axr.life:80/series/968367/462903/2346564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E07
+http://axr.life:80/series/968367/462903/2346565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E08
+http://axr.life:80/series/968367/462903/2346566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E09
+http://axr.life:80/series/968367/462903/2346567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E10
+http://axr.life:80/series/968367/462903/2346568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E11
+http://axr.life:80/series/968367/462903/2346569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E12
+http://axr.life:80/series/968367/462903/2346570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E13
+http://axr.life:80/series/968367/462903/2346571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E14
+http://axr.life:80/series/968367/462903/2346572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E15
+http://axr.life:80/series/968367/462903/2346573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E16
+http://axr.life:80/series/968367/462903/2346574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E17
+http://axr.life:80/series/968367/462903/2346575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E18
+http://axr.life:80/series/968367/462903/2346576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E19
+http://axr.life:80/series/968367/462903/2346577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E20
+http://axr.life:80/series/968367/462903/2346578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E01
+http://axr.life:80/series/968367/462903/2346579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E02
+http://axr.life:80/series/968367/462903/2346580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E03
+http://axr.life:80/series/968367/462903/2346581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E04
+http://axr.life:80/series/968367/462903/2346582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E05
+http://axr.life:80/series/968367/462903/2346583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E06
+http://axr.life:80/series/968367/462903/2346584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E07
+http://axr.life:80/series/968367/462903/2346585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E08
+http://axr.life:80/series/968367/462903/2346586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E09
+http://axr.life:80/series/968367/462903/2346587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E10
+http://axr.life:80/series/968367/462903/2346588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E11
+http://axr.life:80/series/968367/462903/2346589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E12
+http://axr.life:80/series/968367/462903/2346590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E13
+http://axr.life:80/series/968367/462903/2346591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E14
+http://axr.life:80/series/968367/462903/2346592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E15
+http://axr.life:80/series/968367/462903/2346593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E16
+http://axr.life:80/series/968367/462903/2346594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E17
+http://axr.life:80/series/968367/462903/2346595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E18
+http://axr.life:80/series/968367/462903/2346596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E19
+http://axr.life:80/series/968367/462903/2346597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E20
+http://axr.life:80/series/968367/462903/2346598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E21
+http://axr.life:80/series/968367/462903/2346599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E22
+http://axr.life:80/series/968367/462903/2346600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E01
+http://axr.life:80/series/968367/462903/2346601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E02
+http://axr.life:80/series/968367/462903/2346602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E03
+http://axr.life:80/series/968367/462903/2346603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E04
+http://axr.life:80/series/968367/462903/2346604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E05
+http://axr.life:80/series/968367/462903/2346605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E06
+http://axr.life:80/series/968367/462903/2346606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E07
+http://axr.life:80/series/968367/462903/2346607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E08
+http://axr.life:80/series/968367/462903/2346608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E09
+http://axr.life:80/series/968367/462903/2346609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E10
+http://axr.life:80/series/968367/462903/2346610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E11
+http://axr.life:80/series/968367/462903/2346611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E12
+http://axr.life:80/series/968367/462903/2346612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E13
+http://axr.life:80/series/968367/462903/2346613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E14
+http://axr.life:80/series/968367/462903/2346614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E15
+http://axr.life:80/series/968367/462903/2346615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E16
+http://axr.life:80/series/968367/462903/2346616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E17
+http://axr.life:80/series/968367/462903/2346617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E18
+http://axr.life:80/series/968367/462903/2346618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E19
+http://axr.life:80/series/968367/462903/2346619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E20
+http://axr.life:80/series/968367/462903/2346620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E21
+http://axr.life:80/series/968367/462903/2346621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E22
+http://axr.life:80/series/968367/462903/2346622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E23" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E23
+http://axr.life:80/series/968367/462903/2346623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E24" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E24
+http://axr.life:80/series/968367/462903/2346624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E25" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E25
+http://axr.life:80/series/968367/462903/2346625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E26" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E26
+http://axr.life:80/series/968367/462903/2346626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E01
+http://axr.life:80/series/968367/462903/2346627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E02
+http://axr.life:80/series/968367/462903/2346628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E03
+http://axr.life:80/series/968367/462903/2346629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E04
+http://axr.life:80/series/968367/462903/2346630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E05
+http://axr.life:80/series/968367/462903/2346631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E06
+http://axr.life:80/series/968367/462903/2346632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E07
+http://axr.life:80/series/968367/462903/2346633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E08
+http://axr.life:80/series/968367/462903/2346634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E09
+http://axr.life:80/series/968367/462903/2346635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E10
+http://axr.life:80/series/968367/462903/2346636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E11
+http://axr.life:80/series/968367/462903/2346637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E12
+http://axr.life:80/series/968367/462903/2346638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E13
+http://axr.life:80/series/968367/462903/2346639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E14
+http://axr.life:80/series/968367/462903/2346640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E15
+http://axr.life:80/series/968367/462903/2346641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E16
+http://axr.life:80/series/968367/462903/2346642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E17
+http://axr.life:80/series/968367/462903/2346643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E18
+http://axr.life:80/series/968367/462903/2346644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E19
+http://axr.life:80/series/968367/462903/2346645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E20
+http://axr.life:80/series/968367/462903/2346646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E21
+http://axr.life:80/series/968367/462903/2346647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E22
+http://axr.life:80/series/968367/462903/2346648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E23" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E23
+http://axr.life:80/series/968367/462903/2346649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E24" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E24
+http://axr.life:80/series/968367/462903/2346650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E25" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E25
+http://axr.life:80/series/968367/462903/2346651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E01
+http://axr.life:80/series/968367/462903/2346652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E02
+http://axr.life:80/series/968367/462903/2346653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E03
+http://axr.life:80/series/968367/462903/2346654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E04
+http://axr.life:80/series/968367/462903/2346655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E05
+http://axr.life:80/series/968367/462903/2346656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E06
+http://axr.life:80/series/968367/462903/2346657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E07
+http://axr.life:80/series/968367/462903/2346658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E08
+http://axr.life:80/series/968367/462903/2346659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E09
+http://axr.life:80/series/968367/462903/2346660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E10
+http://axr.life:80/series/968367/462903/2346661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E11
+http://axr.life:80/series/968367/462903/2346662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E12
+http://axr.life:80/series/968367/462903/2346663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E13
+http://axr.life:80/series/968367/462903/2346664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E14
+http://axr.life:80/series/968367/462903/2346665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E15
+http://axr.life:80/series/968367/462903/2346666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E16
+http://axr.life:80/series/968367/462903/2346667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E17
+http://axr.life:80/series/968367/462903/2346668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E18
+http://axr.life:80/series/968367/462903/2346669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E19
+http://axr.life:80/series/968367/462903/2346670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E20
+http://axr.life:80/series/968367/462903/2346671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E21
+http://axr.life:80/series/968367/462903/2346672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E22
+http://axr.life:80/series/968367/462903/2346673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E23" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E23
+http://axr.life:80/series/968367/462903/2346674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E24" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E24
+http://axr.life:80/series/968367/462903/2346675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E25" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E25
+http://axr.life:80/series/968367/462903/2346676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E26" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E26
+http://axr.life:80/series/968367/462903/2346677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E01
+http://axr.life:80/series/968367/462903/2346678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E02
+http://axr.life:80/series/968367/462903/2346679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E03
+http://axr.life:80/series/968367/462903/2346680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E04
+http://axr.life:80/series/968367/462903/2346681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E05
+http://axr.life:80/series/968367/462903/2346682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E06
+http://axr.life:80/series/968367/462903/2346683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E07
+http://axr.life:80/series/968367/462903/2346684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E08
+http://axr.life:80/series/968367/462903/2346685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E09
+http://axr.life:80/series/968367/462903/2346686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E10
+http://axr.life:80/series/968367/462903/2346687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E11
+http://axr.life:80/series/968367/462903/2346688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E01
+http://axr.life:80/series/968367/462903/2346689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E02
+http://axr.life:80/series/968367/462903/2346690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E03
+http://axr.life:80/series/968367/462903/2346691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E04
+http://axr.life:80/series/968367/462903/2346692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E05
+http://axr.life:80/series/968367/462903/2346693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E06
+http://axr.life:80/series/968367/462903/2346694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E07
+http://axr.life:80/series/968367/462903/2346695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E08
+http://axr.life:80/series/968367/462903/2346696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E09
+http://axr.life:80/series/968367/462903/2346697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E10
+http://axr.life:80/series/968367/462903/2346698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E11
+http://axr.life:80/series/968367/462903/2346699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E12
+http://axr.life:80/series/968367/462903/2346700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E13
+http://axr.life:80/series/968367/462903/2346701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E14
+http://axr.life:80/series/968367/462903/2346702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E15
+http://axr.life:80/series/968367/462903/2346703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E16
+http://axr.life:80/series/968367/462903/2346704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E17
+http://axr.life:80/series/968367/462903/2346705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E18
+http://axr.life:80/series/968367/462903/2346706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E19
+http://axr.life:80/series/968367/462903/2346707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E20
+http://axr.life:80/series/968367/462903/2346708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E21
+http://axr.life:80/series/968367/462903/2346709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E22
+http://axr.life:80/series/968367/462903/2346710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E23" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E23
+http://axr.life:80/series/968367/462903/2346711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E24" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E24
+http://axr.life:80/series/968367/462903/2346712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E25" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E25
+http://axr.life:80/series/968367/462903/2346713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E26" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E26
+http://axr.life:80/series/968367/462903/2346714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E01
+http://axr.life:80/series/968367/462903/2346715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E02
+http://axr.life:80/series/968367/462903/2346716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E03
+http://axr.life:80/series/968367/462903/2346717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E04
+http://axr.life:80/series/968367/462903/2346718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E05
+http://axr.life:80/series/968367/462903/2346719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E06
+http://axr.life:80/series/968367/462903/2346720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E07
+http://axr.life:80/series/968367/462903/2346721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E08
+http://axr.life:80/series/968367/462903/2346722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E09
+http://axr.life:80/series/968367/462903/2346723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E10
+http://axr.life:80/series/968367/462903/2346724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E11
+http://axr.life:80/series/968367/462903/2346725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E12
+http://axr.life:80/series/968367/462903/2346726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E13
+http://axr.life:80/series/968367/462903/2346727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E14
+http://axr.life:80/series/968367/462903/2346728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E15
+http://axr.life:80/series/968367/462903/2346729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E16
+http://axr.life:80/series/968367/462903/2346730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E17
+http://axr.life:80/series/968367/462903/2346731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E18
+http://axr.life:80/series/968367/462903/2346732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E19
+http://axr.life:80/series/968367/462903/2346733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E20
+http://axr.life:80/series/968367/462903/2346734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E21
+http://axr.life:80/series/968367/462903/2346735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E22
+http://axr.life:80/series/968367/462903/2346736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E23" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E23
+http://axr.life:80/series/968367/462903/2346737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E24" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E24
+http://axr.life:80/series/968367/462903/2346738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E25" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E25
+http://axr.life:80/series/968367/462903/2346739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E26" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E26
+http://axr.life:80/series/968367/462903/2346740.mp4
+
 #EXTM3U url-tvg="http://grade-de-SÉRIES | DIVERSAS.xml"
 ############## SÉRIES | DIVERSAS  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | DIVERSAS" group-title="
@@ -9930,6 +10396,105 @@ http://meuplay.shop:80/series/828474929852/34882748924/82691.mp4
 http://meuplay.shop:80/series/828474929852/34882748924/82749.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E09
 http://meuplay.shop:80/series/828474929852/34882748924/82823.mp4
+
+#EXTM3U url-tvg="http://grade-de-NETFLIX.xml"
+############## NETFLIX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeNETFLIX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVVjn7aSMQvaJFYaUMuKjDxklVP.jpg" group-title="NETFLIX",Kung Fu S01 E01
+http://axr.life:80/series/968367/462903/2352146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2mKezvtivKyGBRnY7us7o283Sd.jpg" group-title="NETFLIX",Kung Fu S01 E02
+http://axr.life:80/series/968367/462903/2352147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRrGlPmI5IN7ppjpyVGlpGQsaJ0.jpg" group-title="NETFLIX",Kung Fu S01 E03
+http://axr.life:80/series/968367/462903/2352148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cy3S1P6tqoq1UQitOqZVGLAALR.jpg" group-title="NETFLIX",Kung Fu S01 E04
+http://axr.life:80/series/968367/462903/2352149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBjZtGfYCrJRnYNdmoBfulOfqem.jpg" group-title="NETFLIX",Kung Fu S01 E05
+http://axr.life:80/series/968367/462903/2352150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vToqUrgYnRkw7oQxHgfq60onif.jpg" group-title="NETFLIX",Kung Fu S01 E06
+http://axr.life:80/series/968367/462903/2352151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zjRojBk3erv1svujCgE68fHL3r.jpg" group-title="NETFLIX",Kung Fu S01 E07
+http://axr.life:80/series/968367/462903/2352152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qrBsmYXX9feri0n5iSU8cxUySr.jpg" group-title="NETFLIX",Kung Fu S01 E08
+http://axr.life:80/series/968367/462903/2352153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As0LV26u1kOPxLURllHW7I9CmMq.jpg" group-title="NETFLIX",Kung Fu S01 E09
+http://axr.life:80/series/968367/462903/2352154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XOjxi1gVqJSAHyBxxmiMcjfENx.jpg" group-title="NETFLIX",Kung Fu S01 E10
+http://axr.life:80/series/968367/462903/2352155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6asMpE99aHY1D3fYciaxHYh5Bui.jpg" group-title="NETFLIX",Kung Fu S01 E11
+http://axr.life:80/series/968367/462903/2352156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGE5B4sZeWCEdmHUjyw3I1JWHyp.jpg" group-title="NETFLIX",Kung Fu S01 E12
+http://axr.life:80/series/968367/462903/2352157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWC7HWl7MexWj60HFKeFajbhb88.jpg" group-title="NETFLIX",Kung Fu S01 E13
+http://axr.life:80/series/968367/462903/2352158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbO72yG1i4OcSzLQCWJwlDugZLf.jpg" group-title="NETFLIX",Kung Fu S02 E01
+http://axr.life:80/series/968367/462903/2352159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t10H20JaO4dsDiVD12U7hLBMUjf.jpg" group-title="NETFLIX",Kung Fu S02 E02
+http://axr.life:80/series/968367/462903/2352160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eD5ASii8pwZa0mn7R4S3nudtHv6.jpg" group-title="NETFLIX",Kung Fu S02 E03
+http://axr.life:80/series/968367/462903/2352161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHqcr3xHY3bkoQZU0FBAObVKDiy.jpg" group-title="NETFLIX",Kung Fu S02 E04
+http://axr.life:80/series/968367/462903/2352162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0ltmbOIKAAMNxRgpjFi32ZprwU.jpg" group-title="NETFLIX",Kung Fu S02 E05
+http://axr.life:80/series/968367/462903/2352163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p33PBkZixlIF3f14bWGjK7BId1N.jpg" group-title="NETFLIX",Kung Fu S02 E06
+http://axr.life:80/series/968367/462903/2352164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkZ3zwAtTrKWmwoazP5fSv68hg7.jpg" group-title="NETFLIX",Kung Fu S02 E07
+http://axr.life:80/series/968367/462903/2352165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU4D8TAXgVeM8qR8f71WeMqzis2.jpg" group-title="NETFLIX",Kung Fu S02 E08
+http://axr.life:80/series/968367/462903/2352166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RS44lhYGljSvYsdtq7fPkbzwXx.jpg" group-title="NETFLIX",Kung Fu S02 E09
+http://axr.life:80/series/968367/462903/2352167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lk5pu5nolJf0gNVzPyTALGem7Fz.jpg" group-title="NETFLIX",Kung Fu S02 E10
+http://axr.life:80/series/968367/462903/2352168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVGRan7EjtktzLJTgnlpV5cdq6Y.jpg" group-title="NETFLIX",Kung Fu S02 E11
+http://axr.life:80/series/968367/462903/2352169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcfl6fkbVDPvws4gLoxwnRmMsPI.jpg" group-title="NETFLIX",Kung Fu S02 E12
+http://axr.life:80/series/968367/462903/2352170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Eftkn9WYlqpAuRPfb93Cfae2g6.jpg" group-title="NETFLIX",Kung Fu S02 E13
+http://axr.life:80/series/968367/462903/2352171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SXPvutBmIJIh44o61aX77HS31M.jpg" group-title="NETFLIX",Kung Fu S03 E01
+http://axr.life:80/series/968367/462903/2352172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjWDJgVDI3l8ssKpvMihPmOGe4.jpg" group-title="NETFLIX",Kung Fu S03 E02
+http://axr.life:80/series/968367/462903/2352173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t4t95hkCIDz3jlOokq3G0WUj6k.jpg" group-title="NETFLIX",Kung Fu S03 E03
+http://axr.life:80/series/968367/462903/2352174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNuGz9hVLNkAZaUDZ6w22nB9x5h.jpg" group-title="NETFLIX",Kung Fu S03 E04
+http://axr.life:80/series/968367/462903/2352175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPWwIOHwjgIkaPapTut9PTDd9uz.jpg" group-title="NETFLIX",Kung Fu S03 E05
+http://axr.life:80/series/968367/462903/2352176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r47twCVD7nVZtCK73JAJ3a6nSF4.jpg" group-title="NETFLIX",Kung Fu S03 E06
+http://axr.life:80/series/968367/462903/2352177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IygMbjQP1SEGFQsZsxuQdQMQmh.jpg" group-title="NETFLIX",Kung Fu S03 E07
+http://axr.life:80/series/968367/462903/2352178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XRy0QIfdx767D5bVAdsvldhxlJ.jpg" group-title="NETFLIX",Kung Fu S03 E08
+http://axr.life:80/series/968367/462903/2352179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtwZs16ZMELueFA3bULJ54xVut1.jpg" group-title="NETFLIX",Kung Fu S03 E09
+http://axr.life:80/series/968367/462903/2352180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQHsIgvuUznrGAMxd8u4xtaSNsr.jpg" group-title="NETFLIX",Kung Fu S03 E10
+http://axr.life:80/series/968367/462903/2352181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRqRnxmgmSFHstmCyaCikuTq9iY.jpg" group-title="NETFLIX",Kung Fu S03 E11
+http://axr.life:80/series/968367/462903/2352182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nixoDLzMWcXHgg16LkFp3M6kG8.jpg" group-title="NETFLIX",Kung Fu S03 E12
+http://axr.life:80/series/968367/462903/2352183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnz7sq1wJozQKAtdRAioo7Zc7Zz.jpg" group-title="NETFLIX",Kung Fu S03 E13
+http://axr.life:80/series/968367/462903/2352184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E01" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E01
+http://axr.life:80/series/968367/462903/2349897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E02" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E02
+http://axr.life:80/series/968367/462903/2349898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E03" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E03
+http://axr.life:80/series/968367/462903/2349899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E04" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E04
+http://axr.life:80/series/968367/462903/2349900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E05" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E05
+http://axr.life:80/series/968367/462903/2349901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E06" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E06
+http://axr.life:80/series/968367/462903/2349902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E07" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E07
+http://axr.life:80/series/968367/462903/2349903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E08" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E08
+http://axr.life:80/series/968367/462903/2349904.mp4
 
 #EXTM3U url-tvg="http://grade-de- Serie Bob Zoom.xml"
 ############## Serie Bob Zoom ################# 
@@ -13547,4 +14112,4 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/162550
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Gospel Campinas" tvg-logo="https://img.radios.com.br/radio/lg/radio40462_1522251880.jpg" group-title="RITMOS",Rádio Gospel Campinas
 http://apkwuv.xyz:80/cristina2021/graniptv2005/152601
 #EXTINF:-1 tvg-id="" tvg-name="Bons Tempos FM" tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RITMOS",Bons Tempos FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152602                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152602
