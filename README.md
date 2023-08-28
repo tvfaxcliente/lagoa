@@ -2359,6 +2359,106 @@ http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147456
 #EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brazil SD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title="CANAIS | TELECINE",Travel Box Brazil SD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/162758
 
+#EXTM3U url-tvg=" http://grade-de-Canais | Telecine.xml "
+ ############## Canais | Telecine ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Telecine" group-title="
+
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action FHD" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83824
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action FHD [Alt]" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147696
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action FHD [H265]" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83420
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action HD" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83261
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action HD [Alt]" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147697
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action SD" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83630
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult FHD" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83828
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult FHD [Alt]" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147698
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83362
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult HD" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83262
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult HD [Alt]" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147699
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult SD" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83631
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun FHD" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83827
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun FHD [Alt]" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147700
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83363
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun HD" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83263
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun HD [Alt]" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147701
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun SD" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83632
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca 4K" tvg-logo="https://i.imgur.com/b3SJTn8.png" group-title="Canais | Telecine",Telecine Pipoca 4K
+http://apkwuv.xyz:80/cristina2021/graniptv2005/151056
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca FHD" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83826
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca FHD [Alt]" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147702
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83421
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83264
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca HD [Alt]" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147703
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca SD" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83633
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium 4K" tvg-logo="https://i.imgur.com/HzOElQt.png" group-title="Canais | Telecine",Telecine Premium 4K
+http://apkwuv.xyz:80/cristina2021/graniptv2005/151049
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium FHD" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83823
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium FHD [Alt]" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147704
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83364
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium HD" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83265
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium HD [Alt]" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147705
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium SD" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83634
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch FHD" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83825
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch FHD [Alt]" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147706
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83365
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch HD" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83266
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch HD [Alt]" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147707
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch SD" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83635
+
+#EXTM3U url-tvg=" http://grade-de-Canais Space | Filmes e Séries.xml "
+ ############## Canais Space | Filmes e Séries ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais Space | Filmes e Séries" group-title="
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space 4K" tvg-logo="https://i.imgur.com/3YX8kyd.png" group-title="Canais Space | Filmes e Séries",Space 4K
+http://apkwuv.xyz:80/cristina2021/graniptv2005/151060
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais Space | Filmes e Séries",Space FHD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/136803
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD [Alt]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais Space | Filmes e Séries",Space FHD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147682
+#EXTINF:-1 tvg-id="Space" tvg-name="Space FHD [H265]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais Space | Filmes e Séries",Space FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83361
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais Space | Filmes e Séries",Space HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83254
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD [Alt]" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais Space | Filmes e Séries",Space HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147683
+#EXTINF:-1 tvg-id="Space" tvg-name="Space SD" tvg-logo="https://i.imgur.com/b4UNKlh.png" group-title="Canais Space | Filmes e Séries",Space SD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83622
+
 #EXTM3U url-tvg=" http://grade-de-CINE COMEDIA.xml "
  ############## CINE COMEDIA ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCINE COMEDIA" group-title="
@@ -2663,6 +2763,10 @@ http://45.58.126.146:14341
  ############## Canais | TNT  Filmes e Séries ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | TNT  Filmes e Séries" group-title="
 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT 4K
+http://apkwuv.xyz:80/cristina2021/graniptv2005/151053
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [H265]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD [H265]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83423
 #EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83822
 #EXTINF:-1 tvg-id="TNT FHD [Alt]" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD [Alt]
@@ -4953,7 +5057,16 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/24428.mp4
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/24499.mp4
 #EXTINF:-1 tvg-id="" tvg-name="30 Minutos ou Menos - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6u1Q1Y3yNGDBCkD8UQ5yVp6KYx9.jpg" group-title="Filmes TV FAX | Comedia",30 Minutos ou Menos - 2011
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/24505.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="O Professor Aloprado - 1963" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lEZUKwiSvXBPwwvdVh5Fxbxumq.jpg" group-title="Filmes TV FAX | Comedia",O Professor Aloprado - 1963
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/136888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoe e Raven: Os Doze Presentes de Natal - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZs2fvVI8jZlu52p1j1PQHgddlC.jpg" group-title="Filmes TV FAX | Comedia",Zoe e Raven: Os Doze Presentes de Natal - 2018
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/163030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo em Pânico 4 - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odd3a1Tp0qsKVmAZbRbqlSPGppI.jpg" group-title="Filmes TV FAX | Comedia",Todo Mundo em Pânico 4 - 2006
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/163028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo em Pânico 5 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14mLzrL5d9ykeEy0L9RGSit6PXN.jpg" group-title="Filmes TV FAX | Comedia",Todo Mundo em Pânico 5 - 2013
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/163029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor com Data Marcada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsuhSOLAaEoZGR4paPFgxE29jIn.jpg" group-title="Filmes TV FAX | Comedia",Amor com Data Marcada (2020)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/134982.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes TV FAX | Acao.xml"
 ############## Filmes TV FAX | Acao ################# 
@@ -5001,6 +5114,12 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/24561.mp4
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/24559.mp4
 #EXTINF:-1 tvg-id="" tvg-name="16 Quadras - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbWd6N4ORhDJxlMVO4vxRNEZtib.jpg" group-title="Filmes TV FAX | Acao",16 Quadras - 2006
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/24463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sansão - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FCkStF9Cy3o5TtV4jBAZqA2qYF.jpg" group-title="Filmes TV FAX | Acao",Sansão - 2018
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/163025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Watchmen: O Filme (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYEF02pi6goGRAXgfL0MZq5jFEo.jpg" group-title="Filmes TV FAX | Acao",Watchmen: O Filme (2009)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/276288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Origens: Wolverine (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xjVVXVXWU8qt1umkeTJd8sImBC.jpg" group-title="Filmes TV FAX | Acao",X-Men Origens: Wolverine (2009)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/216206.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes TV FAX | Drama.xml"
 ############## Filmes TV FAX | Drama ################# 
@@ -5036,6 +5155,8 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/137710.mp4
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/181530.mp4
 #EXTINF:-1 tvg-id="" tvg-name="3 Pedidos - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74j6S3VZYKT7e74ViBDqU3YeWdg.jpg" group-title="Filmes TV FAX |  Drama",3 Pedidos - 2017
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/151329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até os Ossos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0dCPc9J2R6wnoO9Joxz6ot703g.jpg" group-title="Filmes TV FAX |  Drama",Até os Ossos (2022)
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/276473.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes TV FAX | Suspense.xml"
 ############## Filmes TV FAX | Suspense ################# 
@@ -5051,6 +5172,25 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/173979.mp4
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/176737.mp4
 #EXTINF:-1 tvg-id="" tvg-name="22 Minutos - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJKtiTL0tv1R9tCQuvsg7FLLAOB.jpg" group-title="Filmes TV FAX | Suspense",22 Minutos - 2014
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/178198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sequestro do Ônibus 657 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88MF5TO8GdpIqRJqTH4N9hnaVtY.jpg" group-title="Filmes TV FAX | Suspense",O Sequestro do Ônibus 657 - 2015
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/136581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda de Berlim - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkF7O5M3qviVnz19dVR8ocpStY3.jpg" group-title="Filmes TV FAX | Suspense",A Queda de Berlim - 2017
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/163012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Dias Que Abalaram o Mundo - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZFsobB9BAPWXA07bwag7wwHfvG.jpg" group-title="Filmes TV FAX | Suspense",13 Dias Que Abalaram o Mundo - 2000
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/163007.mp4
+
+#EXTM3U url-tvg="http://grade-de-Filmes TV FAX | Terror.xml"
+############## Filmes TV FAX | Terror ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes TV FAX | Terror" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite 2: Dias Sombrios - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3B9y2KRlBCveMKuQERbajuJzRK.jpg" group-title="Filmes TV FAX | Terror",30 Dias de Noite 2: Dias Sombrios - 2010
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/163008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos - 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw2bAlJ8zIH9hkkrD6M657tI33J.jpg" group-title="Filmes TV FAX | Terror",A Volta dos Mortos Vivos - 1985
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/154265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos 2 - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bn0bdRqRnxI7xcVkEPqh5frSblm.jpg" group-title="Filmes TV FAX | Terror",A Volta dos Mortos Vivos 2 - 1988
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/154266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos 3 - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxZLoZkXqBtygqPwYXjNIVn1uHM.jpg" group-title="Filmes TV FAX | Terror",A Volta dos Mortos Vivos 3 - 1993
+http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/154267.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes: Lancamentos 2023.xml"
 ############## Filmes: Lancamentos 2023 ################# 
@@ -5600,6 +5740,323 @@ http://speedapp.uniredes.com.br/amanda123/amanda123/9
 http://15.235.10.31:14361
 #EXTINF:-1 tvg-id="" tvg-name="TV DESTAK"tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862"group-title="FILMES | INFANTIL CINEMA",TV DESTAK
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
+
+#EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
+############## 24 Horas | Desenhos ################# 
+#EXTINF:-1 tvg-id=" iddocanalde24 Horas | Desenhos" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Guarda do Leão" tvg-logo="https://i.imgur.com/f9HyjfJ.png" group-title="24 Horas | Desenhos",[24H] A Guarda do Leão
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83684
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Mansão Foster" tvg-logo="https://i.imgur.com/Sa5rAwp.png" group-title="24 Horas | Desenhos",[24H] A Mansão Foster
+http://apkwuv.xyz:80/cristina2021/graniptv2005/544
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Roda do Ônibus" tvg-logo="https://i.imgur.com/GneRQPV.jpg" group-title="24 Horas | Desenhos",[24H] A Roda do Ônibus
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62967
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Aladdin" tvg-logo="https://i.imgur.com/KbTJCL3.png" group-title="24 Horas | Desenhos",[24H] Aladdin
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83674
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Angry Birds" tvg-logo="https://i.imgur.com/3anMkyr.png" group-title="24 Horas | Desenhos",[24H] Angry Birds
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83702
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Apenas um Show" tvg-logo="https://i.imgur.com/wlDLbCK.png" group-title="24 Horas | Desenhos",[24H] Apenas um Show
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62978
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 01" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="24 Horas | Desenhos",[24H] As Aventuras do Batman 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143688
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 02" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="24 Horas | Desenhos",[24H] As Aventuras do Batman 02
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143798
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="https://i.imgur.com/o8VZkjv.jpg" group-title="24 Horas | Desenhos",[24H] As Meninas Superpoderosas
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83675
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="[24H] Baby Looney Tunes" tvg-logo="https://i.imgur.com/64rTYua.png" group-title="24 Horas | Desenhos",[24H] Baby Looney Tunes
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83240
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 - 01" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="24 Horas | Desenhos",[24H] BEN 10 - 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/140811
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 2" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="24 Horas | Desenhos",[24H] BEN 10 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62972
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bita e os Animais" tvg-logo="https://i.imgur.com/mrdLM42.jpg" group-title="24 Horas | Desenhos",[24H] Bita e os Animais
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83753
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja 01" tvg-logo="https://i.imgur.com/5LiIYws.jpg" group-title="24 Horas | Desenhos",[24H] Bob Esponja 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/140950
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 1" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="24 Horas | Desenhos",[24H] Bob o Trem 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62983
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 2" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="24 Horas | Desenhos",[24H] Bob o Trem 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147829
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 1" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="24 Horas | Desenhos",[24H] Bob Zoom 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147830
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 2" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="24 Horas | Desenhos",[24H] Bob Zoom 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62965
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 1" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="24 Horas | Desenhos",[24H] Booba 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147831
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 2" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="24 Horas | Desenhos",[24H] Booba 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62952
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Caillou" tvg-logo="https://i.imgur.com/sA1jMNy.jpg" group-title="24 Horas | Desenhos",[24H] Caillou
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62956
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão A Turma da Monica" tvg-logo="https://i.imgur.com/hOk9met.png" group-title="24 Horas | Desenhos",[24H] Cascão A Turma da Monica
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62964
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83719
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152888
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 3
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152889
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 4" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 4
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152890
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 5" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 5
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152891
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 6" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 6
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152892
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão 1" tvg-logo="https://i.imgur.com/Zfq2vFX.png" group-title="24 Horas | Desenhos",[24H] Caverna do Dragão 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62995
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves Desenho" tvg-logo="https://i.imgur.com/kT1G0Oe.png" group-title="24 Horas | Desenhos",[24H] Chaves Desenho
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83683
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Clarêncio, O Otimista" tvg-logo="https://i.imgur.com/LG8krTe.png" group-title="24 Horas | Desenhos",[24H] Clarêncio, O Otimista
+http://apkwuv.xyz:80/cristina2021/graniptv2005/156574
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 1 " tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="24 Horas | Desenhos",[24H] Coragem o Cão Covarde 1 
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83679
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 2" tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="24 Horas | Desenhos",[24H] Coragem o Cão Covarde 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62987
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83759
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1968" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 1968
+http://apkwuv.xyz:80/cristina2021/graniptv2005/148014
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 2" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/148277
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 3" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 3
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62974
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 1" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83687
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 15º Aniversário" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 15º Aniversário
+http://apkwuv.xyz:80/cristina2021/graniptv2005/153992
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 2" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/153989
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Adventure Zero Two" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Adventure Zero Two
+http://apkwuv.xyz:80/cristina2021/graniptv2005/153991
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Frontier" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Frontier
+http://apkwuv.xyz:80/cristina2021/graniptv2005/153993
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Savers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Savers
+http://apkwuv.xyz:80/cristina2021/graniptv2005/153994
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Tamers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Tamers
+http://apkwuv.xyz:80/cristina2021/graniptv2005/153995
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 01" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="24 Horas | Desenhos",[24H] Dora Aventureira 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/140789
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 2" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="24 Horas | Desenhos",[24H] Dora Aventureira 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/89548
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 1" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="24 Horas | Desenhos",[24H] Doug 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83689
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 2" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="24 Horas | Desenhos",[24H] Doug 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/153996
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 1" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83690
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 2" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/153999
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Heroes" tvg-logo="https://i.imgur.com/xd4GpvA.jpg" group-title="24 Horas | Desenhos",[24H] Dragon Ball Heroes
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152661
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 1" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83692
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 2" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152662
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 3" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 3
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152663
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 1" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Z 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83691
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 2" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Z 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152670
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball [Filmes 1]" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball [Filmes 1]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/152664
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Du, Dudu e Edu" tvg-logo="https://i.imgur.com/bwmG2Oz.png" group-title="24 Horas | Desenhos",[24H] Du, Dudu e Edu
+http://apkwuv.xyz:80/cristina2021/graniptv2005/156745
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Em Busca do Vale Encantado" tvg-logo="https://i.imgur.com/xQBr9hE.png" group-title="24 Horas | Desenhos",[24H] Em Busca do Vale Encantado
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62985
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/ysPcVsC.png" group-title="24 Horas | Desenhos",[24H] Futurama
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162900
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://i.imgur.com/uGVl1sW.png" group-title="24 Horas | Desenhos",[24H] Galinha Pintadinha
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83695
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galo e a Pata" tvg-logo="https://i.imgur.com/Gtah0o8.png" group-title="24 Horas | Desenhos",[24H] Galo e a Pata
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62968
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 01" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143799
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 02" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 02
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143805
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 03" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 03
+http://apkwuv.xyz:80/cristina2021/graniptv2005/70685
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 1" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83697
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/154001
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2002" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2002
+http://apkwuv.xyz:80/cristina2021/graniptv2005/154002
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 3" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 3
+http://apkwuv.xyz:80/cristina2021/graniptv2005/156043
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 1" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83700
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 2" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/154003
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 01" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83701
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 02" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 02
+http://apkwuv.xyz:80/cristina2021/graniptv2005/142121
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 1994" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 1994
+http://apkwuv.xyz:80/cristina2021/graniptv2005/142122
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 1" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62994
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 2" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/155389
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jacarelvis" tvg-logo="https://i.imgur.com/VPTO5JH.png" group-title="24 Horas | Desenhos",[24H] Jacarelvis
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62984
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraya" tvg-logo="https://i.imgur.com/ui3ypUK.png" group-title="24 Horas | Desenhos",[24H] Jiraya
+http://apkwuv.xyz:80/cristina2021/graniptv2005/122179
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="https://i.imgur.com/vJlINsZ.png" group-title="24 Horas | Desenhos",[24H] Johnny Bravo
+http://apkwuv.xyz:80/cristina2021/graniptv2005/156744
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Test" tvg-logo="https://i.imgur.com/hlolZdh.png" group-title="24 Horas | Desenhos",[24H] Johnny Test
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62996
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.imgur.com/OTQMEmK.png" group-title="24 Horas | Desenhos",[24H] Kenan e Kel
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83707
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Larva Chiclete" tvg-logo="https://i.imgur.com/GT79fnX.png" group-title="24 Horas | Desenhos",[24H] Larva Chiclete
+http://apkwuv.xyz:80/cristina2021/graniptv2005/63003
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Leo O-Caminhão" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxlby5jYW1pbmhhby5hZHZlbnR1cmVfc2NyZWVuXzFfMTUwNDkwODI1OV8wNzY/screen-1.jpg?fakeurl=1&type=.jpg" group-title="24 Horas | Desenhos",[24H] Leo O-Caminhão
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62981
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="https://i.imgur.com/8C1hkQr.png" group-title="24 Horas | Desenhos",[24H] Liga da Justica
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83754
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://http2.mlstatic.com/pacote-vetores-looney-tunes-para-corel-draw-D_NQ_NP_726158-MLB31610362629_072019-F.jpg" group-title="24 Horas | Desenhos",[24H] Looney Tunes
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62988
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83708
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 2" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62997
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/QbjuwXD.png" group-title="24 Horas | Desenhos",[24H] Masha e o Urso
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62993
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Medabots" tvg-logo="https://i.imgur.com/cBCf4na.png" group-title="24 Horas | Desenhos",[24H] Medabots
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83709
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MegaMan" tvg-logo="https://i.imgur.com/YxasqfX.jpg" group-title="24 Horas | Desenhos",[24H] MegaMan
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83710
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147946
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 2" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/63005
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="24 Horas | Desenhos",[24H] Naruto
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83713
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://i.imgur.com/LKCd5a3.jpg" group-title="24 Horas | Desenhos",[24H] O Clube das Winx
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143685
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Oggy e as Baratas" tvg-logo="https://i.imgur.com/BJNzeBK.png" group-title="24 Horas | Desenhos",[24H] Oggy e as Baratas
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62955
+#EXTINF:-1 tvg-id="" tvg-name="[24H] One Piece East Blue" tvg-logo="https://i.imgur.com/S33PChc.png" group-title="24 Horas | Desenhos",[24H] One Piece East Blue
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162898
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://i.imgur.com/RGNAPZt.png" group-title="24 Horas | Desenhos",[24H] Os Flinstones
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83720
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Jetson" tvg-logo="https://i.imgur.com/1PXyGFx.png" group-title="24 Horas | Desenhos",[24H] Os Jetson
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162897
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 01" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143800
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 02
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143801
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 03" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 03
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143802
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 04" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 04
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143803
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 05" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 05
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143804
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Patos" tvg-logo="https://i.imgur.com/fekua66.png" group-title="24 Horas | Desenhos",[24H] Os Patos
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62992
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83721
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 02
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147155
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 03
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147156
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 04
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147170
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões " tvg-logo="https://i.imgur.com/FMRw6QK.jpg" group-title="24 Horas | Séries",[24H] Os Trapalhões 
+http://apkwuv.xyz:80/cristina2021/graniptv2005/263
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 1" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="24 Horas | Desenhos",[24H] Pantera Cor de Rosa 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147949
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 2" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="24 Horas | Desenhos",[24H] Pantera Cor de Rosa 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62990
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 01" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62979
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 02" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 02
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147947
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 03" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 03
+http://apkwuv.xyz:80/cristina2021/graniptv2005/264
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pato Donald" tvg-logo="https://i.imgur.com/AN1JJIE.png" group-title="24 Horas | Desenhos",[24H] Pato Donald
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62991
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 2" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/169538
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 3" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 3
+http://apkwuv.xyz:80/cristina2021/graniptv2005/169536
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 4" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 4
+http://apkwuv.xyz:80/cristina2021/graniptv2005/169535
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 5" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 5
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83733
+#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 6" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 6
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83723
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://i.imgur.com/FNYiVSK.png" group-title="24 Horas | Desenhos",[24H] Peppa Pig
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83724
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pequena Sereia" tvg-logo="https://i.imgur.com/NrXr7QS.png" group-title="24 Horas | Desenhos",[24H] Pequena Sereia
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147948
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 01" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/146926
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 02" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 02
+http://apkwuv.xyz:80/cristina2021/graniptv2005/146927
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83727
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 02" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 02
+http://apkwuv.xyz:80/cristina2021/graniptv2005/148200
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 03" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 03
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62973
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://i.imgur.com/b3SSmrG.png" group-title="24 Horas | Desenhos",[24H] Pink-e-Cerebro
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83728
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 1" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147945
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 2" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62963
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://i.imgur.com/CNpsqgv.png" group-title="24 Horas | Desenhos",[24H] PJ Masks
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62958
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="https://i.imgur.com/RaBjq2T.png" group-title="24 Horas | Desenhos",[24H] Pocoyo
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83722
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 1" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83729
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 2" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147950
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye
+http://apkwuv.xyz:80/cristina2021/graniptv2005/141023
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye 75th" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye 75th
+http://apkwuv.xyz:80/cristina2021/graniptv2005/154892
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Porta dos Fundos 01" tvg-logo="https://i.imgur.com/mKAB0K3.png" group-title="24 Horas | Premium",[24H] Porta dos Fundos 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/140705
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Porta dos Fundos 02" tvg-logo="https://i.imgur.com/mKAB0K3.png" group-title="24 Horas | Premium",[24H] Porta dos Fundos 02
+http://apkwuv.xyz:80/cristina2021/graniptv2005/140813
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Princesa e o Dragão" tvg-logo="https://i.imgur.com/L3Up02X.png" group-title="24 Horas | Desenhos",[24H] Princesa e o Dragão
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62982
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rambo" tvg-logo="https://i.imgur.com/aTbGjwz.png" group-title="24 Horas | Desenhos",[24H] Rambo
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83731
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Reino Gelado" tvg-logo="https://i.imgur.com/vtkRGJv.png" group-title="24 Horas | Desenhos",[24H] Reino Gelado
+http://apkwuv.xyz:80/cristina2021/graniptv2005/63001
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sakura Card" tvg-logo="https://i.imgur.com/vS0YXXU.png" group-title="24 Horas | Desenhos",[24H] Sakura Card
+http://apkwuv.xyz:80/cristina2021/graniptv2005/280
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai Warriors" tvg-logo="https://i.imgur.com/FdkPiIn.png" group-title="24 Horas | Desenhos",[24H] Samurai Warriors
+http://apkwuv.xyz:80/cristina2021/graniptv2005/269
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 1" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 1
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147951
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 2" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 2
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147991
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 01" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 01
+http://apkwuv.xyz:80/cristina2021/graniptv2005/143686
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 02" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 02
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62976
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo
+http://apkwuv.xyz:80/cristina2021/graniptv2005/83732
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo - 13 Fantasmas 1985" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo - 13 Fantasmas 1985
+http://apkwuv.xyz:80/cristina2021/graniptv2005/156747
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shaman King" tvg-logo="https://i.imgur.com/qvsjN2t.png" group-title="24 Horas | Desenhos",[24H] Shaman King
+http://apkwuv.xyz:80/cristina2021/graniptv2005/270
+#EXTINF:-1 tvg-id="" tvg-name="[24H] She-ra" tvg-logo="https://i.imgur.com/HzBI3gi.png" group-title="24 Horas | Desenhos",[24H] She-ra
+http://apkwuv.xyz:80/cristina2021/graniptv2005/63002
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shinzo" tvg-logo="https://i.imgur.com/taKfZeM.png" group-title="24 Horas | Desenhos",[24H] Shinzo
+http://apkwuv.xyz:80/cristina2021/graniptv2005/281
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://i.imgur.com/YCGbUDc.png" group-title="24 Horas | Desenhos",[24H] Show da Luna
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62957
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shurato" tvg-logo="https://i.imgur.com/OEiRoW3.png" group-title="24 Horas | Desenhos",[24H] Shurato
+http://apkwuv.xyz:80/cristina2021/graniptv2005/271
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Simon" tvg-logo="https://i.imgur.com/ZLDdJmH.png" group-title="24 Horas | Desenhos",[24H] Simon
+http://apkwuv.xyz:80/cristina2021/graniptv2005/62980
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sitio do Pica-Pau Amarelo" tvg-logo="https://i.imgur.com/QoGJNVu.jpg" group-title="24 Horas | Desenhos",[24H] Sitio do Pica-Pau Amarelo
+http://apkwuv.xyz:80/cristina2021/graniptv2005/63000
 
 #EXTM3U url-tvg="http://grade-de-24 Horas | Premium.xml"
 ############## 24 Horas | Premium ################# 
@@ -9083,6 +9540,49 @@ http://apkwuv.xyz:80/series/judeva/deva10ju/223042.mp4
 http://apkwuv.xyz:80/series/judeva/deva10ju/223043.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE6WZnyyS6HI39sh24wZWIeNmd5.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E12
 http://apkwuv.xyz:80/series/judeva/deva10ju/223044.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nryokBFOA7utMxVVrOuaExsmQuv.jpg" group-title="SÉRIES | Drama",Britannia S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAcwojqfR3Cw0JSYCoVv0tsW0ik.jpg" group-title="SÉRIES | Drama",Britannia S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sWe9DmTGj69Dy4QnVq0KlTNQSQ.jpg" group-title="SÉRIES | Drama",Britannia S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7yV1o4bNpbfYdwQ1bQHywPVaj4.jpg" group-title="SÉRIES | Drama",Britannia S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22pecOKd6sllL0n3tdrPCvl0lYp.jpg" group-title="SÉRIES | Drama",Britannia S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqYCHbLIbZCrZOJ8RDgual37hdZ.jpg" group-title="SÉRIES | Drama",Britannia S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvFFirtWCM1uwBV2e6m7Ko39suN.jpg" group-title="SÉRIES | Drama",Britannia S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDgaWuxxjhzwnl7a2Kg2CKDerH7.jpg" group-title="SÉRIES | Drama",Britannia S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVgkNutk1YT9Uzb3K0gq4mDwIeo.jpg" group-title="SÉRIES | Drama",Britannia S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztZbfcpQKWpi6mDwlB5TUc4aKyL.jpg" group-title="SÉRIES | Drama",Britannia S02 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCVjOUkBAxwTBiyT8A7gEW2TMWV.jpg" group-title="SÉRIES | Drama",Britannia S02 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GffyHMN6SGtzzfLWXnWzM21Kof.jpg" group-title="SÉRIES | Drama",Britannia S02 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fet2FotqoIDrNWRPgE0plBrD52b.jpg" group-title="SÉRIES | Drama",Britannia S02 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSTeLiDseB2mgLspxyjj4lg0DZ.jpg" group-title="SÉRIES | Drama",Britannia S02 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Q9pNNoIDpWsLLbYTHSoraskB9J.jpg" group-title="SÉRIES | Drama",Britannia S02 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7jiu3uSDmx0qZpmF6XjQkm7H2E.jpg" group-title="SÉRIES | Drama",Britannia S02 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7aOUZdoMheBsU6YHw6M1LAGia0.jpg" group-title="SÉRIES | Drama",Britannia S02 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eMtsr0vUXb7LnaXk8X7HbxFCoI.jpg" group-title="SÉRIES | Drama",Britannia S02 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uN5zYhYqCuwL6LHVKal7XIAzivg.jpg" group-title="SÉRIES | Drama",Britannia S02 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKXVG1p3oDo9nF97nFNTSiCYONE.jpg" group-title="SÉRIES | Drama",Britannia S03 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/212514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Britannia S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5VQTCU1Om2E9Hwf0CXr4EGdxjk.jpg" group-title="SÉRIES | Drama",Britannia S03 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/212515.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="L'Opéra: Nos Bastidores do Balé S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXNLBI6gjULGTTyNS0V82jN3pXp.jpg" group-title="SÉRIES | Drama",L'Opéra: Nos Bastidores do Balé S01 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287281.mp4
