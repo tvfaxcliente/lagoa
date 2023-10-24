@@ -1,14 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="TV FAX 11 941386627"tvg-logo="https://i.picasion.com/pic92/e7a120ef007b8c3f4778f662e6425e0e.gif" group-title="TV FAX",TV FAX 11 941386627
-https://ia902601.us.archive.org/14/items/new-creative-video-2/New%20creative%20video%20%282%29.mp4
-
 #EXTM3U url-tvg=" http://grade-de-ALEX Radio FAX Deus Sempre Presente.xml "
  ############## ALEX Radio FAX Deus Sempre Presente ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeALEX Radio FAX Deus Sempre Presente" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name=" ALEX Radio FAX Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX Rádio FAX Deus Sempre Presente",Rádio FAX Deus Sempre Presente",Alex Silva Produtor 11 941386627
-http://stream.zeno.fm/uhoa45pks0vvv
 #EXTINF:-1 tvg-id="" tvg-name=" ALEX Radio FAX Deus Sempre Presente"tvg-logo="https://images.zeno.fm/6tVj-SSDIE9wjsEkH3PkeQn8U1JUiaGxAUVU08mOVIw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzU3ZjRhMThiLTBmNTQtNDgwNS04YTE0LTE1ZWFlNDhhYWNhMC9pbWFnZS8.webp?u=Sun%20Jun%2004%2021:46:07%20UTC+0000%202023" group-title="ALEX Rádio FAX Deus Sempre Presente",Rádio FAX Deus Sempre Presente",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/uhoa45pks0vvv.m3u
 
@@ -19,22 +14,634 @@ http://stream.zeno.fm/uhoa45pks0vvv.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS TV FAX INFANTIS.xml "
- ############## CANAIS TV FAX INFANTIS ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS TV FAX INFANTIS" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS WEB TV FAX.xml "
+ ############## CANAIS WEB TV FAX  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS WEB TV FAX" group-title="
 
-#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="CARTOON NETWORK FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d9066e40250e8074fe093c583591857b.png" group-title="CANAIS TV FAX INFANTIS",CARTOON NETWORK FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31479
-#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="DISCOVERY KIDS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS TV FAX INFANTIS",DISCOVERY KIDS FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31481
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS TV FAX INFANTIS",DISCOVERY KIDS HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31482
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISNEY CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5890afe33506668111ab3b9c90cb65c9.png" group-title="CANAIS TV FAX INFANTIS",DISNEY CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31483
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5890afe33506668111ab3b9c90cb65c9.png" group-title="CANAIS TV FAX INFANTIS",DISNEY CHANNEL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31484
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FULL HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4bebeaca8f8c5b57834422428a9dc3ab.png" group-title="CANAIS TV FAX INFANTIS",GLOOBINHO FULL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33739
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="CANAIS WEB TV FAX",Amazon Sat (1080p)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="AngelTVPortuguese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="CANAIS WEB TV FAX",Angel TV Portuguese (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelportuguese_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimaxRevival.cl" tvg-logo="https://animax.lat/assets/img/logo-512.png" group-title="CANAIS WEB TV FAX",Animax Revival (936p)
+https://streaming.zappix.live:3062/live/animaxlive.m3u8
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="CANAIS WEB TV FAX",Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="ArarunaTV.br" tvg-logo="https://i.imgur.com/jl39ula.png" group-title="CANAIS WEB TV FAX",Araruna TV (360p)
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AscameTV.br" tvg-logo="https://i.imgur.com/LFY5pjU.png" group-title="CANAIS WEB TV FAX",Ascame TV (320p)
+https://livefocamundo.com:8081/ascametv/index.m3u8
+#EXTINF:-1 tvg-id="TVAssembleiaMatoGrosso.br" tvg-logo="https://i.imgur.com/BtkX8kg.png" group-title="CANAIS WEB TV FAX",Assembleia Legislativa do Estado de Mato Grosso (720p)
+https://streaming.al.mt.gov.br/test/index.m3u8
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="CANAIS WEB TV FAX",1001 Noites (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="CANAIS WEB TV FAX",Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS WEB TV FAX",AgroBrasil TV (720p) [Not 24/7]
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AishTV.br" tvg-logo="https://i.imgur.com/QChh8Xs.png" group-title="CANAIS WEB TV FAX",Aish TV (360p)
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="CANAIS WEB TV FAX",All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="AllegroWebTV.br" tvg-logo="https://i.imgur.com/7iSmccE.png" group-title="CANAIS WEB TV FAX",Allegro WebTV (720p)
+https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+#EXTINF:-1 tvg-id="AlphaChannel.br" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="CANAIS WEB TV FAX",Alpha Channel (720p)
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS WEB TV FAX",Band Minas (720p) [Not 24/7]
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="CANAIS WEB TV FAX",Bem TV (720p)
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BMTV.br" tvg-logo="https://i.imgur.com/bJ0ODh6.png" group-title="CANAIS WEB TV FAX",BMTV (360p)
+https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-logo="https://i.imgur.com/Ms5tSgu.png" group-title="CANAIS WEB TV FAX",Boa Vontade TV (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="CANAIS WEB TV FAX",Boas Novas (1080p)
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="CaboFrioTV.br" tvg-logo="https://i.imgur.com/mPi6Wp3.png" group-title="CANAIS WEB TV FAX",Cabo Frio TV (720p)
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="CANAIS WEB TV FAX",Canal 25 Jundiaí (404p) [Not 24/7]
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal38.br" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title=CANAIS WEB TV FAX",Canal 38 (720p)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="https://i.imgur.com/k29So6X.png" group-title="CANAIS WEB TV FAX",Canal do Criador (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldoInter.br" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="CANAIS WEB TV FAX",Canal do Inter (720p) [Not 24/7]
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="CANAIS WEB TV FAX",Canal Educação (720p)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-logo="https://i.imgur.com/7SE4CkE.png" group-title="CANAIS WEB TV FAX",Canal FDR (1080p)
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="CANAIS WEB TV FAX",Canal Gov (720p)
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalLibras.br" tvg-logo="https://i.imgur.com/LnWWKzP.png" group-title="CANAIS WEB TV FAX",Canal Libras (720p)
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/G0x4xqa.png" group-title="CANAIS WEB TV FAX",Canal Metropolitano de Noticias (720p)
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRicos.br" tvg-logo="https://i.imgur.com/hs2YVJ3.png" group-title="CANAIS WEB TV FAX",Canal Ricos (480p)
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="CANAIS WEB TV FAX",Canal Rural (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-logo="https://i.imgur.com/ht4tUOc.png" group-title="CANAIS WEB TV FAX",Canal Saúde (720p) [Not 24/7]
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSete.br" tvg-logo="https://i.imgur.com/0cq0BPp.png" group-title="CANAIS WEB TV FAX",Canal Sete (1080p)
+http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTVRio.br" tvg-logo="https://i.imgur.com/jBRE3BK.png" group-title="CANAIS WEB TV FAX",Canal TV Rio (720p)
+https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveBrazil2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="CANAIS WEB TV FAX",Cartoon Network FreeLive Brazil 2 (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="CANAIS WEB TV FAX",Cartoon Network FreeLive Brazil (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoLiveBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS WEB TV FAX",Cartoonito FreeLive Brazil (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="Catve2.br" tvg-logo="https://i.imgur.com/qiVfsfB.png" group-title="CANAIS WEB TV FAX",Catve2 (720p)
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:-1 tvg-id="CatveFM.br" tvg-logo="https://i.imgur.com/w89yw36.png" group-title="CANAIS WEB TV FAX",Catve FM (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CatveMasterTV.br" tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="CANAIS WEB TV FAX",Catve Master TV (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CentralTV.br" tvg-logo="https://i.imgur.com/22jXTu4.png" group-title="CANAIS WEB TV FAX",Central TV (720p)
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChromaTV.br" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="CANAIS WEB TV FAX",Chroma TV (480p)
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="CANAIS WEB TV FAX",Classique TV 2 (480p)
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="CANAIS WEB TV FAX",Classique TV (360p)
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="CANAIS WEB TV FAX",Classique TV Western (360p)
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="CANAIS WEB TV FAX",CNN Brasil (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+#EXTINF:-1 tvg-id="COMBrasil.br" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="CANAIS WEB TV FAX",COM Brasil (1080p) [Not 24/7]
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="ConectaMaisTV.br" tvg-logo="https://i.imgur.com/qHwTWlz.png" group-title="CANAIS WEB TV FAX",Conecta+ TV (720p)
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="ConecTVBrasil.br" tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="CANAIS WEB TV FAX",ConecTV Brasil (720p)
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="ConexaoTV.br" tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="CANAIS WEB TV FAX",Conexão TV (720p)
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CulturaPara.br" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="CANAIS WEB TV FAX",Cultura Pará (480p) [Not 24/7]
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="CANAIS WEB TV FAX",CWB TV (720p)
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DemaisTV.br" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="CANAIS WEB TV FAX",Demais TV (720p)
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLiveBrazil.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="CANAIS WEB TV FAX",Discovery Kids FreeLive Brazil (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+#EXTINF:-1 tvg-id="DNews.us" tvg-logo="https://i.imgur.com/jF2BabI.png" group-title="CANAIS WEB TV FAX",DNews (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
+#EXTINF:-1 tvg-id="DunasTV.br" tvg-logo="https://i.imgur.com/0Qe20y5.png" group-title="CANAIS WEB TV FAX",Dunas TV (720p)
+https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
+#EXTINF:-1 tvg-id="ElementalChannel.br" tvg-logo="https://i.imgur.com/8upyApg.png" group-title="CANAIS WEB TV FAX",Elemental Channel (1080p)
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="ElyTV.br" tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="CANAIS WEB TV FAX",ElyTV (360p)
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-id="EUTV.br" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="CANAIS WEB TV FAX",EUTV (720p)
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="FalaLitoral.br" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="CANAIS WEB TV FAX",Fala Litoral (480p)
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CANAIS WEB TV FAX",Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="CANAIS WEB TV FAX",Fonte TV (1080p) [Not 24/7]
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-id="ForaTedioTV.br" tvg-logo="https://i.imgur.com/R9ul4T1.png" group-title="CANAIS WEB TV FAX",Fora Tédio TV (720p) [Not 24/7]
+http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/VlWh3n6.png" group-title="CANAIS WEB TV FAX",Galicia TV América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="CANAIS WEB TV FAX",Geekdot (720p)
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GhostTV.br" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="CANAIS WEB TV FAX",Ghost TV (712p) [Not 24/7]
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="CANAIS WEB TV FAX",Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="CANAIS WEB TV FAX",Gospel Movie TV (360p)
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="IMPDTV.br" tvg-logo="https://i.imgur.com/23m7LHH.png" group-title="CANAIS WEB TV FAX",IMPD TV (720p)
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="CANAIS WEB TV FAX",ISTV (720p) [Not 24/7]
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="J3NEWSTV.br" tvg-logo="https://i.imgur.com/lezIQyL.png" group-title="CANAIS WEB TV FAX",J3NEWS TV (1080p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="CANAIS WEB TV FAX",Jovem Pan News (JP News) (1080p) [Not 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="CANAIS WEB TV FAX",KpopTV Play (720p) [Not 24/7]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="CANAIS WEB TV FAX",Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="CANAIS WEB TV FAX",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="LavrasCETV.br" tvg-logo="https://i.imgur.com/y0LSin2.png" group-title="CANAIS WEB TV FAX",Lavras CE TV (480p)
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
+#EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="CANAIS WEB TV FAX",Loading (480p)
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MasterShowTV.br" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="CANAIS WEB TV FAX",Master Show TV (360p)
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-id="MKKWebTV.br" tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="CANAIS WEB TV FAX",MKK Web TV (720p) [Not 24/7]
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkBrazil.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="CANAIS WEB TV FAX",MyTime Movie Network Brazil (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTV.br" tvg-logo="https://i.imgur.com/g7pLORX.png" group-title="CANAIS WEB TV FAX",Nature TV (720p)
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTVRecordTVCriciuma.br" tvg-logo="https://i.imgur.com/wskp11q.png" group-title="CANAIS WEB TV FAX",NDTV Criciuma (720p)
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 tvg-id="NTV.br" tvg-logo="https://i.imgur.com/n79nkVC.png" group-title="CANAIS WEB TV FAX",Nossa TV (720p)
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="CANAIS WEB TV FAX",Nova Era TV (1080p) [Not 24/7]
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS ABERTOS TV FAX.xml "
+ ############## CANAIS ABERTOS TV FAX  ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS ABERTOS TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="RaiItaliaAmerica.it" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="CANAIS ABERTOS TV FAX",Rai Italia America (360p)
+http://210.210.155.69/s/s63/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="CANAIS ABERTOS TV FAX",RBATV (720p)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RBTV.br" tvg-logo="https://i.imgur.com/m7JDxXJ.png" group-title="CANAIS ABERTOS TV FAX",RBTV (720p)
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RDCTV.br" tvg-logo="https://i.imgur.com/vMpiSwG.png" group-title="CANAIS ABERTOS TV FAX",RDC TV (720p)
+https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="CANAIS ABERTOS TV FAX",Rede Brasil (432p)
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+#EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="CANAIS ABERTOS TV FAX",Rede Brasil de Comunicação (720p) [Not 24/7]
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:-1 tvg-id="RedeCaxias.br" tvg-logo="https://i.imgur.com/zqiOQJ1.png" group-title="CANAIS ABERTOS TV FAX",Rede Caxias (240p)
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/7KVFCrQ.png" group-title="CANAIS ABERTOS TV FAX",Rede Família (720p) [Not 24/7]
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeInternacionaldeTV.br" tvg-logo="https://i.imgur.com/i2psU4x.png" group-title="CANAIS ABERTOS TV FAX",Rede Internacional de TV (RIT TV) (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+#EXTINF:-1 tvg-id="RedeMais.br" tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="CANAIS ABERTOS TV FAX",Rede Mais (720p)
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMeioNorte.br" tvg-logo="https://i.imgur.com/KVdTi0M.png" group-title="CANAIS ABERTOS TV FAX",Rede Meio Norte (1080p)
+http://streaming.jornalmn.com.br/live/tvmn.m3u8
+#EXTINF:-1 tvg-id="RedeMetropole.br" tvg-logo="https://i.imgur.com/qJx9Zvd.png" group-title="CANAIS ABERTOS TV FAX",Rede Metrópole (1080p)
+https://acesso.ecast.site:3456/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://i.imgur.com/MtQWAHv.png" group-title="CANAIS ABERTOS TV FAX",Rede Minas (1080p) [Not 24/7]
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 tvg-id="RedeMundoTV.br" tvg-logo="https://i.imgur.com/2dsnTGd.png" group-title="CANAIS ABERTOS TV FAX",Rede Mundo TV (720p)
+https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeNGT.br" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="CANAIS ABERTOS TV FAX",Rede NGT (1080p)
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="RedePremiumTV.br" tvg-logo="https://i.imgur.com/jMHaHAR.png" group-title="CANAIS ABERTOS TV FAX",Rede Premium TV (1080p)
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeQDM.br" tvg-logo="https://i.imgur.com/Lxqb2cU.png" group-title="CANAIS ABERTOS TV FAX",Rede QDM (360p)
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeRC.br" tvg-logo="https://i.imgur.com/y9dqo3f.png" group-title="CANAIS ABERTOS TV FAX",Rede RC (720p) [Not 24/7]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="CANAIS ABERTOS TV FAX",Rede Século 21 (1080p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeSPTV.br" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="CANAIS ABERTOS TV FAX",Rede SPTV (360p)
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeSul.br" tvg-logo="https://i.imgur.com/eUM67rj.png" group-title="CANAIS ABERTOS TV FAX",Rede Sul (720p)
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTVES.br" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="CANAIS ABERTOS TV FAX",Rede TV! ES (720p)
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+#EXTINF:-1 tvg-id="RedeTVMais.br" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="CANAIS ABERTOS TV FAX",Rede TV! Mais (720p)
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/Cnc1Mqo.png" group-title="CANAIS ABERTOS TV FAX",Rede TV! Pampa (720p) [Not 24/7]
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="CANAIS ABERTOS TV FAX",Rede UTV (720p)
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="CANAIS ABERTOS TV FAX",Rede Vida (720p) [Not 24/7]
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeWebTV.br" tvg-logo="https://i.imgur.com/C1wZa7x.png" group-title="CANAIS ABERTOS TV FAX",Rede Web TV (720p)
+https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS ABERTOS TV FAX",RedeTV! Tocantins (720p) [Not 24/7]
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="CANAIS ABERTOS TV FAX",RedeTV! Tocantins (720p) [Not 24/7]
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="CANAIS ABERTOS TV FAX",Retrô Cartoon (480p) [Not 24/7]
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="RioTVCamara.br" tvg-logo="https://i.imgur.com/smSp1f7.jpg" group-title="CANAIS ABERTOS TV FAX",Rio TV Câmara (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
+#EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="CANAIS ABERTOS TV FAX",Santa Cecilia TV (288p) [Not 24/7]
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-id="SertaoTV.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="CANAIS ABERTOS TV FAX",Sertão TV (720p)
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="CANAIS ABERTOS TV FAX",SESC TV (1080p)
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
+#EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="CANAIS ABERTOS TV FAX",SIC TV (720p)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-id="SOUTV.br" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" group-title="CANAIS ABERTOS TV FAX",SOU TV (720p)
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+#EXTINF:-1 tvg-id="SRTVPB.br" tvg-logo="https://i.imgur.com/72Htk9P.png" group-title="CANAIS ABERTOS TV FAX",SRTV PB (720p)
+https://livefocamundo.com:8081/srtvpb/index.m3u8
+#EXTINF:-1 tvg-id="STZTV.br" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="CANAIS ABERTOS TV FAX",STZ TV (720p)
+https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeBrazil.br" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="CANAIS ABERTOS TV FAX",Tastemade Brasil (1080p)
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TCM10HD.br" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="CANAIS ABERTOS TV FAX",TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="TelaViva.br" tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="CANAIS ABERTOS TV FAX",Tela Viva (360p)
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="CANAIS ABERTOS TV FAX",Terra Viva (720p) [Not 24/7]
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TVA7Plus.br" tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="CANAIS ABERTOS TV FAX",TV A7 Plus (1080p)
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-logo="https://i.imgur.com/j51rBro.png" group-title="CANAIS ABERTOS TV FAX",TV A Crítica (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+#EXTINF:-1 tvg-id="TVAFolha.br" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="CANAIS ABERTOS TV FAX",TV A Folha (720p)
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAberta.br" tvg-logo="https://i.imgur.com/SCz53uO.png" group-title="CANAIS ABERTOS TV FAX",TV Aberta (1080p) [Not 24/7]
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlagonet.br" tvg-logo="https://i.imgur.com/Bpmqjmo.png" group-title="CANAIS ABERTOS TV FAX",TV Alagonet (360p)
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAldeia.br" tvg-logo="https://i.imgur.com/rsfnv4Z.png" group-title="CANAIS ABERTOS TV FAX",TV Aldeia (720p)
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAliancaCatarinense.br" tvg-logo="https://i.imgur.com/eqmOhtP.png" group-title="CANAIS ABERTOS TV FAX",TV Aliança Catarinense (720p)
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlternativa.br" tvg-logo="https://i.imgur.com/wM9xXhc.png" group-title="CANAIS ABERTOS TV FAX",TV Alternativa (410p)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="CANAIS ABERTOS TV FAX",TV Aparecida (1080p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAracati.br" tvg-logo="https://i.imgur.com/0CZn8cC.png" group-title="CANAIS ABERTOS TV FAX",TV Aracati (360p)
+https://livefocamundo.com:8081/tvaracati/index.m3u8
+#EXTINF:-1 tvg-id="TVArapuan.br" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="CANAIS ABERTOS TV FAX",TV Arapuan (720p)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAratu.br" tvg-logo="https://i.imgur.com/LCETtuk.png" group-title="CANAIS ABERTOS TV FAX",TV Aratu (720p)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAssembleiaCeara.br" tvg-logo="https://i.imgur.com/UPa1tjs.png" group-title="CANAIS ABERTOS TV FAX",TV Assembléia Ceará (720p)
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVALMG.br" tvg-logo="https://i.imgur.com/YOuCxKa.png" group-title="CANAIS ABERTOS TV FAX",TV Assembleia Minas Gerais (720p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8
+#EXTINF:-1 tvg-id="TVBeltrao.br" tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="CANAIS ABERTOS TV FAX",TV Beltrão (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBirigui.br" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="CANAIS ABERTOS TV FAX",TV Birigui (320p)
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 tvg-id="TVBoqueirao.br" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="CANAIS ABERTOS TV FAX",TV Boqueirão (720p)
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-logo="https://i.imgur.com/VgjVlp3.png" group-title="CANAIS ABERTOS TV FAX",TV Brasil Central (720p)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="CANAIS ABERTOS TV FAX",TV Brasil Oeste (720p)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="CANAIS ABERTOS TV FAX",TV BRICS Portuguese (1080p)
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrusque.br" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="CANAIS ABERTOS TV FAX",TV Brusque (720p)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCamara2.br" tvg-logo="https://i.imgur.com/dHrUG1R.png" group-title="CANAIS ABERTOS TV FAX",TV Câmara 2 (1080p) [Not 24/7]
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="CANAIS ABERTOS TV FAX",TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamaradeSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_tvcamara_.png/512px-Logo_tvcamara_.png" group-title="CANAIS ABERTOS TV FAX",TV Câmara de Sao Paulo (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCamaraPortoAlegre.br" tvg-logo="https://i.imgur.com/jfQ7mPQ.jpg" group-title="CANAIS ABERTOS TV FAX",TV Câmara Porto Alegre (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UC-0IsdHsbWQcZolu66jkQZQ.m3u8
+#EXTINF:-1 tvg-id="TVCamaraSalvador.br" tvg-logo="https://i.imgur.com/VEXEzSx.png" group-title="CANAIS ABERTOS TV FAX",TV Câmara Salvador (288p) [Not 24/7]
+https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCandides.br" tvg-logo="https://i.imgur.com/evKq5ze.png" group-title="CANAIS ABERTOS TV FAX",TV Candidés (1080p)
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="CANAIS ABERTOS TV FAX",TV Caravelas (720p)
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://i.imgur.com/mVWydMw.png" group-title="CANAIS ABERTOS TV FAX",TV Carioca (720p)
+https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCeara.br" tvg-logo="https://i.imgur.com/rvQucQg.png" group-title="CANAIS ABERTOS TV FAX",TV Ceará (1080p)
+https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCidadaAlagoas.br" tvg-logo="https://i.imgur.com/m8J8zhr.png" group-title="CANAIS ABERTOS TV FAX",TV Cidadã Alagoas (540p)
+https://livefocamundo.com:8081/tvcidada/index.m3u8
+#EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-logo="https://i.imgur.com/3AyMeWx.png" group-title="CANAIS ABERTOS TV FAX",TV Cidade Canal 9 (720p) [Not 24/7]
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-logo="https://i.imgur.com/xUs8gHV.png" group-title="CANAIS ABERTOS TV FAX",TV Cidade de Petrópolis (1080p) [Not 24/7]
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCidadeOeste.br" tvg-logo="https://i.imgur.com/EmYaxEh.png" group-title="CANAIS ABERTOS TV FAX",TV Cidade Oeste (720p)
+http://radios.primedata.com.br:5080/LiveApp/streams/872258137935361699746456.m3u8?token=undefined
+#EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-logo="https://i.imgur.com/SysgBqZ.png" group-title="CANAIS ABERTOS TV FAX",TV Cidade Verde (720p)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCinec.br" tvg-logo="https://i.imgur.com/Svm5pun.png" group-title="CANAIS ABERTOS TV FAX",TV Cinec (240p) [Not 24/7]
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1 tvg-id="TVClube.br" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="CANAIS ABERTOS TV FAX",TV Clube (720p)
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNAgitos.br" tvg-logo="https://i.imgur.com/5gvGC0P.png" group-title="CANAIS ABERTOS TV FAX",TV CN Agitos (360p)
+https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCOMSantos.br" tvg-logo="https://i.imgur.com/KX3fner.png" group-title="CANAIS ABERTOS TV FAX",TV COM Santos (416p)
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCordeiro.br" tvg-logo="https://i.imgur.com/wNULjux.png" group-title="CANAIS ABERTOS TV FAX",TV Cordeiro (360p)
+https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCorreio.br" tvg-logo="https://i.imgur.com/FSnGAaZ.png" group-title="CANAIS ABERTOS TV FAX",TV Correio (720p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="CANAIS ABERTOS TV FAX",TV Cultura Nacional
+https://d28367vmhj4ljz.cloudfront.net/out/v1/f26e176ce67244de862cd9b21d823934/index.m3u8
+#EXTINF:-1 tvg-id="TVCuruca.br" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="CANAIS ABERTOS TV FAX",TV Curuça (360p)
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVdasArtes.br" tvg-logo="https://i.imgur.com/fSWaiKt.png" group-title="CANAIS ABERTOS TV FAX",TV das Artes (360p)
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDestak.br" tvg-logo="https://i.imgur.com/YoCVrav.png" group-title="CANAIS ABERTOS TV FAX",TV Destak (360p)
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1 tvg-id="TVDiariodoSertao.br" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="CANAIS ABERTOS TV FAX",TV Diário do Sertão (720p)
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDiarioMacapa.br" tvg-logo="https://i.imgur.com/yAW2Z5j.jpg" group-title="CANAIS ABERTOS TV FAX",TV Diário Macapá (1080p) [Not 24/7]
+https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDifusoraLeste.br" tvg-logo="https://i.imgur.com/hEd25Cr.png" group-title="CANAIS ABERTOS TV FAX",TV Difusora Leste (1080p)
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://i.imgur.com/kQpZy8h.png" group-title="CANAIS ABERTOS TV FAX",TV Difusora São Luis (432p)
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-logo="https://i.imgur.com/B5ZTMzY.png" group-title="CANAIS ABERTOS TV FAX",TV Digital Biriguí (640p)
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDiversa.br" tvg-logo="https://i.imgur.com/b3hMu5h.png" group-title="CANAIS ABERTOS TV FAX",TV Diversa (1080p)
+https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
+#EXTINF:-1 tvg-id="TVdoPovo.br" tvg-logo="https://i.imgur.com/58EQ5qX.png" group-title="CANAIS ABERTOS TV FAX",TV do Povo (540p)
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEmpire.br" tvg-logo="https://i.imgur.com/tT1NVfV.png" group-title="CANAIS ABERTOS TV FAX",TV Empire Magazine (720p)
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="CANAIS ABERTOS TV FAX",TV Evangelizar (480p)
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFuturo.br" tvg-logo="https://i.imgur.com/xonrNBf.png" group-title="CANAIS ABERTOS TV FAX",TV Futuro (1080p)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-logo="https://i.imgur.com/xwfxS9N.png" group-title="CANAIS ABERTOS TV FAX",TV Galega Blumenau (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="CANAIS ABERTOS TV FAX",TV Gazeta (720p)
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGerais.br" tvg-logo="https://i.imgur.com/6qs1obj.png" group-title="CANAIS ABERTOS TV FAX",TV Gerais (720p)
+https://video01.kshost.com.br:4443/humberto3322/humberto3322/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGideoes.br" tvg-logo="https://i.imgur.com/dDomKND.png" group-title="CANAIS ABERTOS TV FAX",TV Gideoes (1080p) [Not 24/7]
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGramado.br" tvg-logo="https://i.imgur.com/5558bMI.png" group-title="CANAIS ABERTOS TV FAX",TV Gramado (720p)
+https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="CANAIS ABERTOS TV FAX",TV Grande Natal (1080p)
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVGraoPara.br" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="CANAIS ABERTOS TV FAX",TV Grao Pará (720p)
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="CANAIS ABERTOS TV FAX",TV Guará (720p) [Not 24/7]
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGuarapari.br" tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="CANAIS ABERTOS TV FAX",TV Guaraparí (720p)
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF:-1 tvg-id="TVInforBahia.br" tvg-logo="https://i.imgur.com/KdNQfza.png" group-title="CANAIS ABERTOS TV FAX",TV InforBahía (720p)
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVInterlagos.br" tvg-logo="https://i.imgur.com/iuQVDpq.jpg" group-title="CANAIS ABERTOS TV FAX",TV Interlagos (360p)
+https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIracema.br" tvg-logo="https://i.imgur.com/IzdIiys.png" group-title="CANAIS ABERTOS TV FAX",TV Iracema (360p)
+https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJSID.br" tvg-logo="https://i.imgur.com/yy8uBPW.png" group-title="CANAIS ABERTOS TV FAX",TV J.SID (360p)
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+#EXTINF:-1 tvg-id="TVJapi.br" tvg-logo="https://i.imgur.com/dnmzIhF.png" group-title="CANAIS ABERTOS TV FAX",TV Japi (720p)
+https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS ABERTOS TV FAX",TV Justiça (720p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+
+
+#EXTINF:-1 tvg-id="TVLaVerdad.br" tvg-logo="https://i.imgur.com/I3iMwnY.png" group-title="CANAIS ABERTOS TV FAX",TV La Verdad (720p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCS5n5q3lJBXom3wVbOiUl9Q.m3u8
+#EXTINF:-1 tvg-id="TVLiberdade.br" tvg-logo="https://i.imgur.com/W6bHHqE.png" group-title="CANAIS ABERTOS TV FAX",TV Liberdade (720p) [Not 24/7]
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaceio.br" tvg-logo="https://i.imgur.com/zZ9LEOZ.png" group-title="CANAIS ABERTOS TV FAX",TV Maceió (360p)
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/512px-TV_Mackenzie_logo.svg.png" group-title="CANAIS ABERTOS TV FAX",TV Mackenzie (480p)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaisBrasil.br" tvg-logo="https://i.imgur.com/CUHZhGc.png" group-title="CANAIS ABERTOS TV FAX",TV Mais Brasil (1080p)
+http://sevensp.homelinux.com/live/index.m3u8
+#EXTINF:-1 tvg-id="TVMaisMarica.br" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="CANAIS ABERTOS TV FAX",TV Mais Maricá (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarajoara.br" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="CANAIS ABERTOS TV FAX",TV Marajoara (720p)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="CANAIS ABERTOS TV FAX",TV MAX (720p)
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMetropole.br" tvg-logo="https://i.imgur.com/bJyjLpg.png" group-title="CANAIS ABERTOS TV FAX",TV Metropole (720p) [Not 24/7]
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMon.br" tvg-logo="https://i.imgur.com/Gjan8rl.png" group-title="CANAIS ABERTOS TV FAX",TV Mon (720p)
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMundoMaior.br" tvg-logo="https://i.imgur.com/aneHeMz.png" group-title="CANAIS ABERTOS TV FAX",TV Mundo Maior (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UC5-IOBnk-mFdQgKS-niajYg.m3u8
+#EXTINF:-1 tvg-id="TVNovaPlay.br" tvg-logo="https://i.imgur.com/MhoHk6I.png" group-title="CANAIS ABERTOS TV FAX",TV Nova Play (480p)
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOmindare.br" tvg-logo="https://i.imgur.com/naZZUIT.png" group-title="CANAIS ABERTOS TV FAX",TV Omindaré (360p)
+https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOsorioNews.br" tvg-logo="https://i.imgur.com/cmgM4nA.png" group-title="CANAIS ABERTOS TV FAX",TV Osório News (480p)
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPadreCicero.br" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="CANAIS ABERTOS TV FAX",TV Padre Cicero (720p)
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="CANAIS ABERTOS TV FAX",TV Pai Eterno (480p)
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVPampaNorte.br" tvg-logo="https://i.imgur.com/R7P5tcF.png" group-title="CANAIS ABERTOS TV FAX",TV Pampa Norte (720p)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPantanalMS.br" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="CANAIS ABERTOS TV FAX",TV Pantanal MS (360p) [Not 24/7]
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="CANAIS ABERTOS TV FAX",TV Paraná Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="TVPassoFundo.br" tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="CANAIS ABERTOS TV FAX",TV Passo Fundo (720p)
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlan.br" tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="CANAIS ABERTOS TV FAX",TV Plan (720p)
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlanaltoNorte.br" tvg-logo="https://i.imgur.com/I7VwA4s.png" group-title="CANAIS ABERTOS TV FAX",TV Planalto Norte (720p)
+https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPocos.br" tvg-logo="https://i.imgur.com/UMPz1vl.png" group-title="CANAIS ABERTOS TV FAX",TV Poços (192p) [Not 24/7]
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPontadoSeixas.br" tvg-logo="https://i.imgur.com/7QHFC24.png" group-title="CANAIS ABERTOS TV FAX",TV Ponta do Seixas (720p)
+https://livefocamundo.com:8081/tvpontadoseixascanal9/index.m3u8
+#EXTINF:-1 tvg-id="TVPrecabura.br" tvg-logo="https://i.imgur.com/yI1nk3G.png" group-title="CANAIS ABERTOS TV FAX",TV Precabura (720p) [Not 24/7]
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+#EXTINF:-1 tvg-id="TVRioGrande.br" tvg-logo="https://i.imgur.com/nlDNDu3.png" group-title="CANAIS ABERTOS TV FAX",TV Rio Grande (360p)
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRioPreto.br" tvg-logo="https://i.imgur.com/9EqSKLc.png" group-title="CANAIS ABERTOS TV FAX",TV Rio Preto (720p)
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSandegi.br" tvg-logo="https://i.imgur.com/vJ6ZQSG.png" group-title="CANAIS ABERTOS TV FAX",TV Sandegi (360p)
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSantaCruz.br" tvg-logo="https://i.imgur.com/Jyw5BB2.png" group-title="CANAIS ABERTOS TV FAX",TV Santa Cruz (720p) [Not 24/7]
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSaoRaimundo.br" tvg-logo="https://i.imgur.com/f34CQIG.png" group-title="CANAIS ABERTOS TV FAX",TV São Raimundo (268p)
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS ABERTOS TV FAX",TV Senado (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
+#EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="CANAIS ABERTOS TV FAX",TV Series 2 Mulher Bionica (480p)
+https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSeteLagoas.br" tvg-logo="https://i.imgur.com/Na64Q2M.png" group-title="CANAIS ABERTOS TV FAX",TV Sete Lagoas (720p)
+https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="CANAIS ABERTOS TV FAX",TV Sim Cachoeiro (720p)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimColatina.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="CANAIS ABERTOS TV FAX",TV Sim Colatina (720p)
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="CANAIS ABERTOS TV FAX",TV Sim São Mateus (720p)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSolComunidade.br" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="CANAIS ABERTOS TV FAX",TV Sol Comunidade (480p) [Not 24/7]
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br" tvg-logo="https://i.imgur.com/qM6nMWm.png" group-title="CANAIS ABERTOS TV FAX",TV Sul Bahia (320p)
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSuldeMinas.br" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="CANAIS ABERTOS TV FAX",TV Sul de Minas (720p)
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="CANAIS ABERTOS TV FAX",TV Terceiro Anjo (360p)
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 tvg-id="TVThathi.br" tvg-logo="https://tv.thathi.com.br/wp-content/uploads/2021/02/tv-thathi-150x150.png" group-title="CANAIS ABERTOS TV FAX",TV Thathi (720p) [Not 24/7]
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTropical.br" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="CANAIS ABERTOS TV FAX",TV Tropical (720p)
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTudoBH.br" tvg-logo="https://i.imgur.com/5SKSkUQ.png" group-title="CANAIS ABERTOS TV FAX",TV Tudo BH (720p)
+https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUFG.br" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="CANAIS ABERTOS TV FAX",TV UFG (720p) [Not 24/7]
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://i.imgur.com/Ec90iw0.png" group-title="CANAIS ABERTOS TV FAX",TV União Natal (1080p)
+https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="CANAIS ABERTOS TV FAX",TV Universal (480p)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVValedoUruara.br" tvg-logo="https://i.imgur.com/WgXsfIa.png" group-title="CANAIS ABERTOS TV FAX",TV Vale do Uruará (614p)
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVicosa.br" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="CANAIS ABERTOS TV FAX",TV Viçosa (480p)
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVilaReal.br" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="CANAIS ABERTOS TV FAX",TV Vila Real (720p)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="TVWebCamocim.br" tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="CANAIS ABERTOS TV FAX",TV Web Camocim (720p)
+https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-id="TVWebParana.br" tvg-logo="https://i.imgur.com/HRfKUzS.png" group-title="CANAIS ABERTOS TV FAX",TV Web Paraná (720p)
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
+#EXTINF:-1 tvg-id="TVWTJMINAS.br" tvg-logo="https://i.imgur.com/e53513E.png" group-title="CANAIS ABERTOS TV FAX",TV WTJMINAS (720p)
+https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+#EXTINF:-1 tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="CANAIS ABERTOS TV FAX",TV Zoom (720p)
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBEJoinville.br" tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="CANAIS ABERTOS TV FAX",TV Joinville (720p)
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCRio.br" tvg-logo="https://i.imgur.com/WDiikWv.png" group-title="CANAIS ABERTOS TV FAX",TV Rio (1080p)
+https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-id="TVComunitaria.br" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="CANAIS ABERTOS TV FAX",TV COM DF (360p)
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="TVCOMMaceio.br" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="CANAIS ABERTOS TV FAX",TV COM Maceió (480p)
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="CANAIS ABERTOS TV FAX",TV E RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="CANAIS ABERTOS TV FAX",TV E RS (1080p) [Not 24/7]
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVideoNews.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="CANAIS ABERTOS TV FAX",TV (720p) [Not 24/7]
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="CANAIS ABERTOS TV FAX",TV itapé (720p)
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-id="TVMaster.br" tvg-logo="https://i.imgur.com/fTgGvNJ.png" group-title="CANAIS ABERTOS TV FAX",TVMaster (720p)
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaticComedy.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS ABERTOS TV FAX",TVMatic Comedy (720p)
+http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:-1 tvg-id="TVMaticCrafts.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS ABERTOS TV FAX",TVMatic Crafts (720p)
+http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:-1 tvg-id="TVMaticFacebook.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS ABERTOS TV FAX",TVMatic Facebook (720p)
+http://cdn.tvmatic.net/facebook.m3u8
+#EXTINF:-1 tvg-id="TVMaticFight.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS ABERTOS TV FAX",TVMatic Fight (720p)
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 tvg-id="TVMaticFunny.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS ABERTOS TV FAX",TVMatic Funny (720p)
+http://cdn.tvmatic.net/funny.m3u8
+#EXTINF:-1 tvg-id="TVMaticTikTok.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS ABERTOS TV FAX",TVMatic TikTok (720p)
+http://cdn.tvmatic.net/tiktok.m3u8
+#EXTINF:-1 tvg-id="TVNBrasil.br" tvg-logo="https://i.imgur.com/XZS13xD.png" group-title="CANAIS ABERTOS TV FAX",TVN Brasil (720p) [Not 24/7]
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNBN.br" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="CANAIS ABERTOS TV FAX",TVNBN (720p)
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-id="UnisulTV.br" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="CANAIS ABERTOS TV FAX",UNISUL TV (720p)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-logo="https://i.imgur.com/GmA5uuk.png" group-title="CANAIS ABERTOS TV FAX",UniTV Porto Alegre (480p)
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:-1 tvg-id="UrbanTV.br" tvg-logo="https://i.imgur.com/RBcvj3Q.png" group-title="CANAIS ABERTOS TV FAX",Urban TV (720p) [Not 24/7]
+https://video01.logicahost.com.br/urbantvlive/urbantvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="VirtualTV.br" tvg-logo="https://i.imgur.com/e1b0TTP.png" group-title="CANAIS ABERTOS TV FAX",Virtual TV (720p)
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
+#EXTINF:-1 tvg-id="VRTChannel.br" tvg-logo="https://i.imgur.com/crszh3d.png" group-title="CANAIS ABERTOS TV FAX",VRT Channel (720p)
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+#EXTINF:-1 tvg-id="VV8TV.br" tvg-logo="https://i.imgur.com/TxHWAeD.png" group-title="CANAIS ABERTOS TV FAX",VV8 TV (720p)
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
+#EXTINF:-1 tvg-id="WebTVAguaBoa.br" tvg-logo="https://i.imgur.com/XrFoTDv.png" group-title="CANAIS ABERTOS TV FAX",Web TV Água Boa (720p)
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="WTVBrasil.br" tvg-logo="https://i.imgur.com/4T8z1Ni.png" group-title="CANAIS ABERTOS TV FAX",WTV Brasil (720p)
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS SBT TV FAX.xml "
+ ############## CANAIS SBT TV FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS SBT TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="SBTCuiaba.br" tvg-logo="https://i.imgur.com/EZJWQ3i.png" group-title="CANAIS SBT TV FAX",SBT Cuiabá (720p)
+https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="CANAIS SBT TV FAX",SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/iV1Ib7L.png" group-title="CANAIS SBT TV FAX",SBT Pará (720p)
+https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/yFRqXIx.png" group-title="CANAIS SBT TV FAX",SBT Rede Massa (720p) [Not 24/7]
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="CANAIS SBT TV FAX",SBT Rio (720p) [Not 24/7] [Geo-blocked]
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:-1 tvg-id="SBTRioGrande.br" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="CANAIS SBT TV FAX",SBT RS (720p) [Not 24/7] [Geo-blocked]
+https://ythlsgo.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
+#EXTINF:-1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://i.imgur.com/M8NilvY.png" group-title="CANAIS SBT TV FAX" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",SBT TV Jornal Caruaru (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJornaldoNordeste.br" tvg-logo="https://i.imgur.com/8JDixEE.png" group-title="CANAIS SBT TV FAX" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",SBT TV Jornal Recife (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV.br" tvg-logo="https://i.imgur.com/bATJ4zB.jpg" group-title="CANAIS SBT TV FAX",SBT VTV (720p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS Record TV FAX.xml "
+ ############## CANAIS Record TV FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS Record TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAIS Record TV FAX",Record News (720p) [Geo-blocked]
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-logo="https://i.imgur.com/gEEiN10.png" group-title="CANAIS Record TV FAX",Record TV Belem (720p) [Geo-blocked]
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVBrasilia.br" tvg-logo="https://i.imgur.com/PZMas8Y.png" group-title="CANAIS Record TV FAX",Record TV Brasilia (720p) [Geo-blocked]
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVGoias.br" tvg-logo="https://i.imgur.com/Fdoax1M.png" group-title="CANAIS Record TV FAX",Record TV Goias (720p) [Geo-blocked]
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVItapoan.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/512px-Logotipo_da_RecordTV_Itapoan.png" group-title="CANAIS Record TV FAX",Record TV Itapoan (720p) [Geo-blocked]
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-logo="https://i.imgur.com/6HT6QMV.png" group-title="CANAIS Record TV FAX",Record TV Minas (720p) [Geo-blocked]
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/512px-Logotipo_da_RecordTV_Rio.png" group-title="CANAIS Record TV FAX",Record TV Rio (720p) [Geo-blocked]
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVRS.br" tvg-logo="https://i.imgur.com/JLQWoNc.png" group-title="CANAIS Record TV FAX",Record TV RS (720p) [Geo-blocked]
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="CANAIS Record TV FAX",Record TV SP (720p) [Geo-blocked]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="CANAIS Record TV FAX",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS Sports TV FAX.xml "
+ ############## CANAIS Sports TV FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS Sports TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="CANAIS Sports TV FAX",TNT Sports 1 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="CANAIS Sports TV FAX",TNT Sports 2 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="CANAIS Sports TV FAX",TNT Sports 3 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="CANAIS Sports TV FAX",TNT Sports 4 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS Sports TV FAX",TNT Sports 5 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-TV FAX Michael Jackson.xml "
  ############## TV FAX Michael Jackson ############## ### 
@@ -263,39 +870,21 @@ https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%2
 #EXTINF:-1 tvg-id=" iddocanaldeCanais SBT" group-title="
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+https://live-brasilweb.yamyday.com/live/m3_Ezf6VNvIW51wZLG8xT274n3X_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3D8JAtzB9pAFhR%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697735970%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D1BE3DA32D4E1846AC25A69183A7EFCC0&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm3_Ezf6VNvIW51wZLG8xT274n3X_480p%26expired%3D1698319996%26token%3DD4F5526DBE395EB14967E269E26BDD17&timestamp=1697721986091
+
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - 4K" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/54298
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="Rede Massa (PR)" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - FHD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83669
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - h265²" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - h265²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83668
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83666
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - SD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83665
-#EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA - HD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT BRASILIA - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781367
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARA -HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT PARA -HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1385357
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANÁ" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT PARANÁ
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138767949
-#EXTINF:-1 tvg-id="" tvg-name="SBT RECIFE TV JORNAL - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT RECIFE TV JORNAL - H264
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781368
-#EXTINF:-1 tvg-id="" tvg-name="SBT REDE MASSA" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT REDE MASSA
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138761814
-#EXTINF:-1 tvg-id="" tvg-name="SBT SC - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT SC - H264
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774685
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT SP - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/320223
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - SD²" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT SP - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83671
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS RECORD.xml "
  ############## CANAIS RECORD ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS RECORD" group-title="
+
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP tv fax" tvg-logo="https://media3.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif" group-title="CANAIS RECORD",Record SP tv fax
+https://live-brasilweb.yamyday.com/live/pt_CAEC69A1456C34D1F6F1_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3D8JAtzB9pAFhR%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697735970%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D1BE3DA32D4E1846AC25A69183A7EFCC0&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_CAEC69A1456C34D1F6F1_480p%26expired%3D1698319996%26token%3D328629E2B8DEEF605348073625B3DEBE&timestamp=1697722197020
 
 #EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP 4K" tvg-logo="https://media3.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif" group-title="CANAIS RECORD",Record SP 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151036
@@ -367,6 +956,127 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138101
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TYuF1nt90Lm-8C9Slc24bpB7Ly-bHmCwmsSqtuiUR8M.png" group-title="Canais  JOVEM PAN NEWS",JOVEM PAN NEWS - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138102
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS  FECHADOS tv FAX.xml "
+ ############## CANAIS  FECHADOS tv FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  FECHADOS tv FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  FECHADOS tv FAX",A&E
+https://live-brasilweb.yamyday.com/live/m1_PwsKRjIegyASUaYBiH3ou5LT_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_PwsKRjIegyASUaYBiH3ou5LT_480p%26expired%3D1698401923%26token%3D971ED04B1AF464B5EEA85746B5B36738&timestamp=1697798074713
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC tv FAX",AMC - FHD
+https://live-brasilweb.yamyday.com/live/pt_85F9CD7B5F17F60F0C3A_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_85F9CD7B5F17F60F0C3A_480p%26expired%3D1698401923%26token%3D7F7BA80E4CD131E667F02FD002C63CC0&timestamp=1697798199740
+#EXTINF:-1 tvg-id="" tvg-name="animal planet "tvg-logo="https://i.pinimg.com/originals/a3/a2/e0/a3a2e0ed38bcbf9a789810976d1b9688.gif" group-title="CANAIS  FECHADOS tv FAX",animal planet 
+https://live-brasilweb.yamyday.com/live/m1_ZJTh6oMdeOURwWyiA9cHgYQk_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_ZJTh6oMdeOURwWyiA9cHgYQk_480p%26expired%3D1698401923%26token%3DC02427176536FA4FA74F4C70CCAD8856&timestamp=1697798264649
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD"tvg-logo="https://media4.giphy.com/media/l49JQnkXTUoEI0H6w/giphy.gif" group-title="CANAIS  FECHADOS tv FAX",AXN HD
+https://live-brasilweb.yamyday.com/live/m3_OHAJwrM6poGAZu6Uj_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm3_OHAJwrM6poGAZu6Uj_480p%26expired%3D1698401923%26token%3D9A83F1B311B0891244056F69B6A48379&timestamp=1697798402891
+#EXTINF:-1 tvg-id="" tvg-name="art 1"tvg-logo="https://i.ytimg.com/vi/NMmW0WMu-qQ/maxresdefault.jpg" group-title="CANAIS  FECHADOS tv FAX",art 1
+https://live-brasilweb.yamyday.com/live/m1_ozc7SQ9BcRT2MOBhxmpk_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_ozc7SQ9BcRT2MOBhxmpk_480p%26expired%3D1698401923%26token%3D43386D03BC9DC3B100A0316BFE59F712&timestamp=1697798488202
+#EXTINF:-1 tvg-id="" tvg-name="Anime TV"tvg-logo="https://media.tenor.com/AtXbqlrwklIAAAAC/anime-tv.gif" group-title="CANAIS  FECHADOS tv FAX",Anime TV
+https://live-brasilweb.yamyday.com/live/m2_CJjAsNvIhMaEqTvV_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm2_CJjAsNvIhMaEqTvV_480p%26expired%3D1698401923%26token%3DB8AA16C1E743AC47CC7336D4AFD355B9&timestamp=1697798572407
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV"tvg-logo="https://media.tenor.com/X_CgE5B6H8MAAAAC/baby-tv-laugh.gif" group-title="CANAIS  FECHADOS tv FAX",BABY TV
+https://live-brasilweb.yamyday.com/live/m3_aEZNYVBM7gwkXuemhyKdcC62_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm3_aEZNYVBM7gwkXuemhyKdcC62_480p%26expired%3D1698401923%26token%3D1F2BB43000B10FBF9EB66625B4AFB532&timestamp=1697798665551
+#EXTINF:-1 tvg-id="" tvg-name="BBC"tvg-logo="https://media1.giphy.com/media/kyzXz7P8KyOvJWar48/200w.gif?cid=6c09b952ltpw30zisg2jrfh9xg5pua40f4zzsy9fedd88xuz&ep=v1_gifs_search&rid=200w.gif&ct=g" group-title="CANAIS  FECHADOS tv FAX",BBC
+https://live-brasilweb.yamyday.com/live/m4_iRKYdW4pMQjJHEho6OXvmCwq_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm4_iRKYdW4pMQjJHEho6OXvmCwq_480p%26expired%3D1698401923%26token%3DD6C572D37948C962B3653898AE874903&timestamp=1697798738975
+#EXTINF:-1 tvg-id="" tvg-name="BISS"tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEUAAAD///+SkpLR0dHh4eHu7u4fHx+np6cbGxv6+vqvr6/ExMTT09Pz8/O6urrZ2dkXFxd5eXmenp40NDRCQkIqKiovLy9paWliYmLl5eURERGIiIiBgYFZWVnCwsJQUFBJSUmgoKBycnJUVFQ9PT2WlpbRg4L4AAAEG0lEQVR4nO2c2XraQAxGM6wxYAgJJDFZcNPk/V+xaS7aepE80Qbl+889oznGy0gj++oKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFwWy3JKUm2Wt4/ZI62oYcon3RQP9XY0f12uNtWt5OerNMT4OW+kihxhJJnYF/fbxab8O9BcMsZ40DClIuvYTawNXxbT1kBuhp+O2+GRbA0Pt209X8PPc3VwJEvD2bp3IFfDVN7FGc6JgXwNUzoGGR5LaiBvw7QLMfygJ+BuWEQY9l+BQYZp42/IPp/9Ddm5mhjyC5AAw3TwNRyYTYTh2tWQuwajDNPM0ZC5iwYa/vAzfBkMHmJYuhkehoOHGKbayzBjJjGG5HSVhtuM2DGGSyfD4mwMKx9DKp04gSG5OFUZ3mTFjjFMLoaLizfMC/0fGz5dvCH92xMYTh0M95mxYwzJLFhhOMqMvQgxJKMoDIcmsZk/PRx3u919iOGbgyEf8ZXO2FwMySxfblizAUWnpsJwRY4kN3zmArLVLw/DBwdDdkGzDzYk190aQ24O2nP0+/8hHVFu2LPL9AfR7VNlmCrqtJEbMqnhRC0oWLWln8aGXIGGLnx5GhJ3G7Eht2bLbyMwNexXFBu+M5H0l6HMsHefTWx4ZALpBYWGfaUMsSFTCeb38zwN+1YaHobM49fbMHW7gMSGj3QUg4eF2DDdXLxhZ5/t4gxTu/vEw1CdWKgM23+i2PDhXA3bzyqxIbMnQ2ejIYat26nYkKlDkdtAMYatAyw2ZDZlTmzYOk3FhswU9PmvzrC58BcbMunhx4kNmyVoqSHzsEiZ7cluhs2rRGrIzaA+sWFzXSw0fOMiGAiqDJu5jczwjgtAt7YEGTYPschwzzYoDLden71hzXdgiN6vOCfDu6Hde6Kq9x8YHva7x9GaKwR/YVHDOIHhqChymoN+83pyw+aGd65h/vgGxVKlYTN7Mzc0eVboDJs5sLmhQUVfa9hMEM0NbQRVhu+uhhaZk9Kw1Vljbci8FhBl2DrIxoYWqaHWsLU9Y2tItl4FGrartbaG9RkYtluHTA1N1txKw85pZGloUQlWG3aWVIaGRqsZnWE3OTU0HHohN8Sw+7SyMxx4HTfGsKdD0czwxVRQaNjXrGtlaCwoM+zdTjAyrI0FRYb9e14mhlN1K6KFIbEhZGFoU7fQGlIN8waGGV/fCDAkW2jVhsw7xoGG406TiZXhmP9iQ5BhRfdAKw3XXn7fMpyQLyIoDXO/YuRrOF0MHWWZ4WTBnRcWDH8nqig36+eMx1Tmd6K+XrovirIarz+2pktsgutZg+sGN59kF4RaI/1DY4jD7Jq+WwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgil9XdTw4vVxaggAAAABJRU5ErkJggg==" group-title="CANAIS  FECHADOS tv FAX",BISS
+https://live-brasilweb.yamyday.com/live/m4_AHRTkrZ8VGUFaC1ctW0db5O6_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm4_AHRTkrZ8VGUFaC1ctW0db5O6_480p%26expired%3D1698401923%26token%3D5C4EFBDE5D6AFE60BC7CA32AAE2B9700&timestamp=1697798813713
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX"tvg-logo="https://cdn.dribbble.com/users/1593269/screenshots/15348237/cinemax-tv.gif" group-title="CANAIS  FECHADOS tv FAX",CINEMAX
+https://live-brasilweb.yamyday.com/live/m2_2bJRKdayBWQpTsZ8gPwq6iX0_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm2_2bJRKdayBWQpTsZ8gPwq6iX0_480p%26expired%3D1698401923%26token%3D3CE0AD1EFC9C66AC2D649ABE89E4A138&timestamp=1697798897734
+#EXTINF:-1 tvg-id="" tvg-name="CN CARTOON"tvg-logo="https://media.tenor.com/awSb1e1YF1oAAAAC/cartoon-network-cn.gif" group-title="CANAIS  FECHADOS tv FAX",CN CARTOON
+https://live-brasilweb.yamyday.com/live/pt_37F86C215309C4665F62_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_37F86C215309C4665F62_480p%26expired%3D1698401923%26token%3D489770C00DCD61EE2F5A27BA14B4943B&timestamp=1697798962578
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL"tvg-logo="https://i0.wp.com/media1.giphy.com/media/l41lJVpfmeR8Ynm1y/giphy.gif" group-title="CANAIS  FECHADOS tv FAX",COMEDY CENTRAL
+https://live-brasilweb.yamyday.com/live/m1_XypHPFmzuIfLK41oZNncQelA_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_XypHPFmzuIfLK41oZNncQelA_480p%26expired%3D1698401923%26token%3DAEB83378E58358DB99A324E52D18F981&timestamp=1697799061900
+#EXTINF:-1 tvg-id="" tvg-name="CURTA HD"tvg-logo="https://telaviva.com.br/wp-content/uploads/2016/11/producoes.png" group-title="CANAIS  FECHADOS tv FAX",CURTA HD
+https://live-brasilweb.yamyday.com/live/pt_F54038CB2ADB66D8C175810_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_F54038CB2ADB66D8C175810_480p%26expired%3D1698401923%26token%3D8D7D1861209C50E94B199DBF2538CDF0&timestamp=1697799147411
+#EXTINF:-1 tvg-id="" tvg-name="CINE CANAL"tvg-logo="https://www.tvcine.pt/TVCine-PLUS-pattern.gif" group-title="CANAIS  FECHADOS tv FAX",CINE CANAL
+https://live-brasilweb.yamyday.com/live/m1_QYRhDvNfrwCkWyG6K9BSHmPZ_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_QYRhDvNfrwCkWyG6K9BSHmPZ_480p%26expired%3D1698401923%26token%3D3102DDB20D4454825FD909DAAE5F4DD1&timestamp=1697799314909
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK"tvg-logo="https://i.gifer.com/4fpq.gif" group-title="CANAIS  FECHADOS tv FAX",CARTOON NETWORK 
+https://live-brasilweb.yamyday.com/live/pt_A955E3C5D2DBD503958_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_A955E3C5D2DBD503958_480p%26expired%3D1698401923%26token%3D5E66C2C46BF78E9E1A6E9B9E3A064881&timestamp=1697799403973
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD"tvg-logo="https://images.axios.com/Sz6lyM8wPHX5IOL6yt-bFjNCe3c=/0x0:1280x720/1920x1080/2022/02/23/1645656090458.gif" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY WORLD
+https://live-brasilweb.yamyday.com/live/m3_E3D2EB66-67DF-49EC-8eea_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm3_E3D2EB66-67DF-49EC-8eea_480p%26expired%3D1698401923%26token%3DBABA01B228CBBFA8C27A3C216BD3BC1D&timestamp=1697799521888
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HEH"tvg-logo="https://yt3.googleusercontent.com/g2yWVS0d89CjIng4zx_-unQomxCVwsVreSvMk1fBkE_U4Tq9evplFFYfEUz2pb2CPCBd8B_-WQ=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY HEH
+https://live-brasilweb.yamyday.com/live/pt_ZXA86A65D9118C7E632DCEB_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXA86A65D9118C7E632DCEB_480p%26expired%3D1698401923%26token%3DACD23467A947A06684D8F7817BC4D622&timestamp=1697799644949
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HIDS"tvg-logo="https://media0.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95295y0yd4qdhtpgtrzmeeod6higk76ezmalsqxwvy2&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY KIDS
+https://live-brasilweb.yamyday.com/live/m2_afy44nd1fdEvCQ38kIuMe_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm2_afy44nd1fdEvCQ38kIuMe_480p%26expired%3D1698401923%26token%3DBEF31552E7300AD4DFA77B9B140A653C&timestamp=1697799721688
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCES"tvg-logo="https://media0.giphy.com/media/SFIxisidxlLqUSyutF/200w.gif?cid=6c09b952yr15jeujkwhnhbym4zlcugjyxf5l63uyyor4nud1&ep=v1_gifs_search&rid=200w.gif&ct=g" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY SCIENCES
+https://live-brasilweb.yamyday.com/live/pt_ZX132E83E41F2C6737163E1_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX132E83E41F2C6737163E1_480p%26expired%3D1698401923%26token%3D0F72EE046DB947C70E5413519FA0E0D4&timestamp=1697799808004
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER"tvg-logo="https://media3.giphy.com/media/1oF276wTq8czuIjUtu/giphy.gif?cid=6c09b952ntlcuyrj0ce0ab97nbm0w1bdv0rzsheiwg8jeelr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY THEATER
+https://live-brasilweb.yamyday.com/live/pt_ZXEC92F0AB931294_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXEC92F0AB931294_480p%26expired%3D1698401923%26token%3D21CD45F5EB072DC275F1391AB1DE037E&timestamp=1697799933431
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO"tvg-logo="https://i.gifer.com/DJag.gif" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY TURBO
+https://live-brasilweb.yamyday.com/live/m1_NpfZjjxzoFwepkuEspTet_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_NpfZjjxzoFwepkuEspTet_480p%26expired%3D1698401923%26token%3D78935581C6B6B9D546BED9E5109C2954&timestamp=1697800017468
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD"tvg-logo="https://media1.giphy.com/headers/discoveryeurope/0fS7IXbFMoaj.gif" group-title="CANAIS  FECHADOS tv FAX",DISCOVERY WORLD
+https://live-brasilweb.yamyday.com/live/pt_ZXBE033871693023A8EBED_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXBE033871693023A8EBED_480p%26expired%3D1698401923%26token%3D268B779803FD72482BAE74D52BD60150&timestamp=1697800118210
+#EXTINF:-1 tvg-id="" tvg-name="dragon ball SUPER"tvg-logo="https://i.pinimg.com/originals/86/68/d9/8668d99b7fd5e3855ef8881b7000b98f.gif" group-title="CANAIS  FECHADOS tv FAX",dragon ball SUPER
+https://live-brasilweb.yamyday.com/live/pt_ZX5FF688D3FB90B99A4460E_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX5FF688D3FB90B99A4460E_480p%26expired%3D1698401923%26token%3D2D5FD49F8974FCED93A14D30BE45A03B&timestamp=1697800212751
+#EXTINF:-1 tvg-id="" tvg-name="dragon ball Z"tvg-logo="https://media.tenor.com/4e-jzGFTnxwAAAAC/goku-dragon-ball-z.gif" group-title="CANAIS  FECHADOS tv FAX",dragon ball Z
+https://live-brasilweb.yamyday.com/live/pt_ZX00F68C5F56CAF1D368A19_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX00F68C5F56CAF1D368A19_480p%26expired%3D1698401923%26token%3D56E71AE14796DF623AEA7119D4B164B1&timestamp=1697800296991
+#EXTINF:-1 tvg-id="" tvg-name="dragon ball"tvg-logo="https://media.tenor.com/4e-jzGFTnxwAAAAC/goku-dragon-ball-z.gif" group-title="CANAIS  FECHADOS tv FAX",dragon ball
+https://live-brasilweb.yamyday.com/live/pt_818B01CAE88367DF559557C6_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_818B01CAE88367DF559557C6_480p%26expired%3D1698401923%26token%3DC3D306A0ED5D8C0B4D18C29B3600AE1A&timestamp=1697800449964
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY"tvg-logo="https://i.gifer.com/WPi0.gif" group-title="CANAIS  FECHADOS tv FAX",DISNEY
+https://live-brasilweb.yamyday.com/live/pt_ZX8FBB5A8E54A6BAF3DD800_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX8FBB5A8E54A6BAF3DD800_480p%26expired%3D1698401923%26token%3D6B1E569206DABFD86FE646F28A1532C0&timestamp=1697800387468
+#EXTINF:-1 tvg-id="" tvg-name="DON"tvg-logo="https://i.pinimg.com/originals/58/d4/ba/58d4bac43176361a94bf976d9195dd6b.gif" group-title="CANAIS  FECHADOS tv FAX",DON
+https://live-brasilweb.yamyday.com/live/pt_95C13EEB476F9E65DB66E434_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_95C13EEB476F9E65DB66E434_480p%26expired%3D1698401923%26token%3D8C5DE8DBCF625622A5BF87C736FB05A7&timestamp=1697800494588
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV"tvg-logo="https://i.gifer.com/g24B.gif" group-title="CANAIS  FECHADOS tv FAX",FISH TV
+https://live-brasilweb.yamyday.com/live/pt_ZX37577FBBEFFCBD2A37_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX37577FBBEFFCBD2A37_480p%26expired%3D1698401923%26token%3D27E35CA0A648BCACBEAFF53E7077D667&timestamp=1697800567112
+#EXTINF:-1 tvg-id="" tvg-name="EMPREENDER TV"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdQKLi_EjiQShLbBPf0-ibBblDUPlJSLiTb-f-QQ3P0OXMLzKgtTGvYRng1pLb4TT_lpc&usqp=CAU" group-title="CANAIS  FECHADOS tv FAX",EMPREENDER TV
+https://live-brasilweb.yamyday.com/live/pt_187E1CC75CBC15C96F_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_187E1CC75CBC15C96F_480p%26expired%3D1698401923%26token%3DE2CD9724A94414E378386C61C6CA7A45&timestamp=1697800670756
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK"tvg-logo="https://media.tenor.com/fZaFqrXCCdYAAAAC/cooking-food-network.gif" group-title="CANAIS  FECHADOS tv FAX",FOOD NETWORK
+https://live-brasilweb.yamyday.com/live/pt_ZXC026BB3CC86478C4_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXC026BB3CC86478C4_480p%26expired%3D1698401923%26token%3D37433C0AB2F3D596E859DA5679895ED5&timestamp=1697800767584
+#EXTINF:-1 tvg-id="" tvg-name="FX"tvg-logo="https://media3.giphy.com/media/Yt4O1DVRpyxR6/giphy.gif" group-title="CANAIS  FECHADOS tv FAX",FX
+https://live-brasilweb.yamyday.com/live/m2_iXSj9zHqmOdwcYFuCLTb0MNK_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm2_iXSj9zHqmOdwcYFuCLTb0MNK_480p%26expired%3D1698401923%26token%3D9F3CC3FD34DAE2E03E000D804C997993&timestamp=1697800888908
+#EXTINF:-1 tvg-id="" tvg-name="FILM E ART"tvg-logo="https://imagem.natelinha.uol.com.br/original/filmartscanal_38cc3731cf5337129c4110d12776f57d2ab54bd3.jpeg" group-title="CANAIS  FECHADOS tv FAX",FILM E ART
+https://live-brasilweb.yamyday.com/live/m1_O6XM9VxNUHITLDryQnEmeFPq_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm1_O6XM9VxNUHITLDryQnEmeFPq_480p%26expired%3D1698401923%26token%3D184DE3FF86B7E0B8AC2E5FF7C53987F9&timestamp=1697800976570
+#EXTINF:-1 tvg-id="" tvg-name="GNT"tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3f06f279623251.5cc8ee09266a3.gif" group-title="CANAIS  FECHADOS tv FAX",GNT
+https://live-brasilweb.yamyday.com/live/pt_7F272B95272713ED83C6E48D_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_7F272B95272713ED83C6E48D_480p%26expired%3D1698401923%26token%3D51F3E599A9EC21407A797A243DDDFBD0&timestamp=1697801068410
+#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES"tvg-logo="https://i.pinimg.com/originals/9b/17/d0/9b17d05b12fdf46744ade9dc6f985c75.gif" group-title="CANAIS  FECHADOS tv FAX",GAME OF THRONES
+https://live-brasilweb.yamyday.com/live/pt_ZXC59F4B2E393D5D81_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXC59F4B2E393D5D81_480p%26expired%3D1698401923%26token%3D21F06CB1C6ED8A19DF9AC944B91C084A&timestamp=1697801159669
+#EXTINF:-1 tvg-id="" tvg-name="HG"tvg-logo="https://media4.giphy.com/media/51aWjHtarqPGMl8bnw/giphy-downsized.gif" group-title="CANAIS  FECHADOS tv FAX",HG
+https://live-brasilweb.yamyday.com/live/pt_ZXCD7B56959FC4E7_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZXCD7B56959FC4E7_480p%26expired%3D1698401923%26token%3D0AB305E74F667E6629CAB29D6840E724&timestamp=1697801247313
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD"tvg-logo="https://i.gifer.com/origin/fa/fa5ffd06e3ba500cac21a5808882dd4b.gif" group-title="CANAIS  FECHADOS tv FAX",HISTORY HD
+https://live-brasilweb.yamyday.com/live/pt_05902805A4BC3C040F86C000_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_05902805A4BC3C040F86C000_480p%26expired%3D1698401923%26token%3D2E44189BF1B05556B911C974E7155E9E&timestamp=1697801319825
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD"tvg-logo="https://i.gifer.com/origin/fa/fa5ffd06e3ba500cac21a5808882dd4b.gif" group-title="CANAIS  FECHADOS tv FAX",HISTORY HD
+https://live-brasilweb.yamyday.com/live/pt_ZX4B6A8A14A79CCF0_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX4B6A8A14A79CCF0_480p%26expired%3D1698401923%26token%3D3EDE0AA539C9682962ADD6C61AB01CF1&timestamp=1697801745369
+#EXTINF:-1 tvg-id="" tvg-name="HBO DUB"tvg-logo="https://i.gifer.com/CYgW.gif" group-title="CANAIS  FECHADOS tv FAX",HBO DUB 
+https://live-brasilweb.yamyday.com/live/pt_2110E2313FCB72F8FB8525B7_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_2110E2313FCB72F8FB8525B7_480p%26expired%3D1698401923%26token%3DCA096FFC8476805B1CA94DF93434D535&timestamp=1697801407633
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD"tvg-logo="https://media2.giphy.com/media/3o7bucr5ExuJo6khrO/giphy.gif?cid=6c09b9529z7w37xzltsqa74nqowtou647bbriz19j5v2srsz&ep=v1_gifs_search&rid=giphy.gif&ct=g" group-title="CANAIS  FECHADOS tv FAX",HBO HD
+https://live-brasilweb.yamyday.com/live/pt_7698E857D0871BD961F90013_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_7698E857D0871BD961F90013_480p%26expired%3D1698401923%26token%3DAAF06C05ADCA730D667DAC68946E0319&timestamp=1697801554649
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY"tvg-logo="https://media.tenor.com/f29CRDwJDL8AAAAM/famhbo04.gif" group-title="CANAIS  FECHADOS tv FAX",HBO FAMILY 
+https://live-brasilweb.yamyday.com/live/pt_AD87F27CBB5E766FC66E78C5_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_AD87F27CBB5E766FC66E78C5_480p%26expired%3D1698401923%26token%3DE4654942C3B22C501FEA7A1369879BC8&timestamp=1697801618572
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS"tvg-logo="https://33.media.tumblr.com/4c7ced99ed72f7a551c7c8d0c6acb04e/tumblr_ns9gu7mNW61qdjbb7o1_500.gif" group-title="CANAIS  FECHADOS tv FAX",HBO PLUS 
+https://live-brasilweb.yamyday.com/live/pt_3A0B1A7F7EB0E062A0EE467D_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_3A0B1A7F7EB0E062A0EE467D_480p%26expired%3D1698401923%26token%3D5B78F29D511DFC4A6CD55084F7C1D6EF&timestamp=1697801676672
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI"tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="CANAIS  FECHADOS tv FAX",HBO MUNDI
+https://live-brasilweb.yamyday.com/live/pt_BE6D7F06B97642EC56D7C70E_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_BE6D7F06B97642EC56D7C70E_480p%26expired%3D1698401923%26token%3D70D3E2A87AAAB5653CF8B051E767BC09&timestamp=1697801779570
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP"tvg-logo="https://i.ytimg.com/vi/fKdNLwyyqic/maxresdefault.jpg" group-title="CANAIS  FECHADOS tv FAX",HBO POP
+https://live-brasilweb.yamyday.com/live/pt_EBD2C41E950165E2CC375025_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_EBD2C41E950165E2CC375025_480p%26expired%3D1698401923%26token%3D6BA393185A732686D489E72C444C518B&timestamp=1697801863257
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME"tvg-logo="https://tv0800.tv/wp-content/uploads/2022/07/hboextreme.webp" group-title="CANAIS  FECHADOS tv FAX",HBO XTREME
+https://live-brasilweb.yamyday.com/live/m4_QlfKVdFeENbB8wAhXUWnrTkD_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm4_QlfKVdFeENbB8wAhXUWnrTkD_480p%26expired%3D1698401923%26token%3D07806BFCCC81580364A63F4597312792&timestamp=1697801947628
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX"tvg-logo="https://media1.giphy.com/media/QsyqaXXBdEXnFgg4ck/giphy.gif?cid=6c09b952jyacpug90hsd3adkvj431twpurbp63edbpultz9p&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",HBO MX
+https://live-brasilweb.yamyday.com/live/pt_D9E313C2721070E45A77F4A5_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_D9E313C2721070E45A77F4A5_480p%26expired%3D1698401923%26token%3D6EE2E31D07D0735C5A9D658538F5D2D2&timestamp=1697802035166
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2"tvg-logo="https://media1.giphy.com/media/QsyqaXXBdEXnFgg4ck/giphy.gif?cid=6c09b952jyacpug90hsd3adkvj431twpurbp63edbpultz9p&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",HBO MX 2
+https://live-brasilweb.yamyday.com/live/pt_2AE647EA79A72D10EE49FB57_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_2AE647EA79A72D10EE49FB57_480p%26expired%3D1698401923%26token%3D956297C12B8014286517F93816CA16BB&timestamp=1697802110443
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3"tvg-logo="https://media1.giphy.com/media/QsyqaXXBdEXnFgg4ck/giphy.gif?cid=6c09b952jyacpug90hsd3adkvj431twpurbp63edbpultz9p&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",HBO MX 3
+https://live-brasilweb.yamyday.com/live/pt_36588AEE36353F4B60A9CD58_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_36588AEE36353F4B60A9CD58_480p%26expired%3D1698401923%26token%3D9A16F4BFA0DAE1ABDE96167296FFE641&timestamp=1697802166460
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4"tvg-logo="https://media1.giphy.com/media/QsyqaXXBdEXnFgg4ck/giphy.gif?cid=6c09b952jyacpug90hsd3adkvj431twpurbp63edbpultz9p&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",HBO MX 4
+https://live-brasilweb.yamyday.com/live/pt_57D8FE8963E19DC7B72878A5_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_57D8FE8963E19DC7B72878A5_480p%26expired%3D1698401923%26token%3D468588ECF2461C66DBE5F279453F3EBE&timestamp=1697802301638
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5"tvg-logo="https://media1.giphy.com/media/QsyqaXXBdEXnFgg4ck/giphy.gif?cid=6c09b952jyacpug90hsd3adkvj431twpurbp63edbpultz9p&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",HBO MX 5
+https://live-brasilweb.yamyday.com/live/pt_362FE217A8170A0FD339221C_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_362FE217A8170A0FD339221C_480p%26expired%3D1698401923%26token%3D4616FC16531085CA04A253D9AFCE5B3B&timestamp=1697802280808
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER"tvg-logo="https://i.pinimg.com/originals/fb/63/e8/fb63e8f9bbc2e96563e15fb5ed9ef40b.gif" group-title="CANAIS  FECHADOS tv FAX",HARRY POTTER
+https://live-brasilweb.yamyday.com/live/pt_572363BAA55F99D0B344CF73_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_572363BAA55F99D0B344CF73_480p%26expired%3D1698401923%26token%3D71168418DC444A49902CDD907A2A0769&timestamp=1697802319596
+#EXTINF:-1 tvg-id="" tvg-name="ID HD"tvg-logo="https://media3.giphy.com/avatars/investigationdiscovery/xFACjaIp4FHE.jpg" group-title="CANAIS  FECHADOS tv FAX",ID HD
+https://live-brasilweb.yamyday.com/live/m2_4NBa1dLVoRqQuEisXnlh5tge_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dm2_4NBa1dLVoRqQuEisXnlh5tge_480p%26expired%3D1698401923%26token%3D6C0BC6006DF3F3001DA1C94A9FABA40A&timestamp=1697802411399
+#EXTINF:-1 tvg-id="" tvg-name="LIF TIME"tvg-logo="https://media2.giphy.com/media/cn39JOm5hjoL3FTIX3/giphy.gif?cid=6c09b952prat1we0bxjl7o2t3cuh3n965hx9glllp644ab35&ep=v1_stickers_related&rid=giphy.gif&ct=s" group-title="CANAIS  FECHADOS tv FAX",LIF TIME
+https://live-brasilweb.yamyday.com/live/pt_5441044173D530DDDE8E308D_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_5441044173D530DDDE8E308D_480p%26expired%3D1698401923%26token%3D2599B52AA3DBB0DF36ADECE2CB572CBE&timestamp=1697802503952
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX"tvg-logo="https://koifactory.com/wp-content/uploads/2019/11/MEGAPIX_STORYBOARD_COMEDIA_03_gif_anim.gif" group-title="CANAIS  FECHADOS tv FAX",MEGAPIX
+https://live-brasilweb.yamyday.com/live/pt_F8198CBA0DBAB7C810C2D1E6_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_F8198CBA0DBAB7C810C2D1E6_480p%26expired%3D1698401923%26token%3D43D2B2D42730CA7413D4AE9B8012BC7B&timestamp=1697802603903
+#EXTINF:-1 tvg-id="" tvg-name="MTV"tvg-logo="https://i.gifer.com/Yf9o.gif" group-title="CANAIS  FECHADOS tv FAX",MTV
+https://live-brasilweb.yamyday.com/live/pt_75AA17385B13ACC655B032AA_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_75AA17385B13ACC655B032AA_480p%26expired%3D1698401923%26token%3DC664E1533ECF2B6C5DD837C293BAFD3E&timestamp=1697802709279
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE"tvg-logo="https://i.gifer.com/Yf9o.gif" group-title="CANAIS  FECHADOS tv FAX",MTV LIVE
+https://live-brasilweb.yamyday.com/live/pt_4BEC1D8AB1A508406722FB27_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_4BEC1D8AB1A508406722FB27_480p%26expired%3D1698401923%26token%3DA76AEDAEC6833B41D24AB0C96478AB82&timestamp=1697802868441
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW"tvg-logo="https://www.radiografico.com.br/wp-content/uploads/2023/05/67100898948d5382b19639c6fd07a6ce.gif" group-title="CANAIS  FECHADOS tv FAX",MULTISHOW
+https://live-brasilweb.yamyday.com/live/pt_39B7156FD6DF278DEC0D29DB_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_39B7156FD6DF278DEC0D29DB_480p%26expired%3D1698401923%26token%3D556C9272B84715E32DE010171B1BA9CD&timestamp=1697802771241
+#EXTINF:-1 tvg-id="" tvg-name="MEGA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3mLoenBW0ukD2Pd_ZabTueViDoriZ1obo9OgvgqhO7sAbVIUNgOl1yT09VD6XeTjCm2U&usqp=CAU" group-title="CANAIS  FECHADOS tv FAX",MEGA
+https://live-brasilweb.yamyday.com/live/pt_F3D2E9A613B67B239C16FCC3_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_F3D2E9A613B67B239C16FCC3_480p%26expired%3D1698401923%26token%3D34FAC158C7CB586EEB15CE4568C3A0B6&timestamp=1697802938577
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO"tvg-logo="https://media4.giphy.com/media/35R7hcNPNS6KoU0yM2/200.gif" group-title="CANAIS  FECHADOS tv FAX",NATGEO
+https://live-brasilweb.yamyday.com/live/pt_DD902642AF97BAFB68809888_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26dev_id%3D66f75646%26sign_type%3D%26app_ver%3D20001%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26media_encrypted%3D0%26client_ip%3D168.227.218.11%26user_id%3D74412828%26session_id%3DFQVnxEUcUORq%26expired%3D1697812469%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3DA8ABFD95D54D4D40E4A48B898C629C5F&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_DD902642AF97BAFB68809888_480p%26expired%3D1698401923%26token%3DE5A1815AF8358E39C1E01FC71A6C233C&timestamp=1697803033028
+
 #EXTM3U url-tvg=" http://grade-de-CANAIS  FECHADOS.xml "
  ############## CANAIS  FECHADOS ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  FECHADOS" group-title="
@@ -381,14 +1091,6 @@ http://45.58.126.146:14296/
 http://45.58.126.146:14305/
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CANAIS | FECHADOS", CINEMAX HD
 http://45.58.126.146:14305/
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon"tvg-logo="https://media.giphy.com/headers/nickjr/BoVyfvyX6fHb.gif" group-title="CANAIS | FECHADOS",Nickelodeon (H265)
-http://pbrz.xyz:80/67531382/36606924/1724
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon"tvg-logo="https://media.giphy.com/headers/nickjr/BoVyfvyX6fHb.gif" group-title="CANAIS | FECHADOS",NICKELODEON FHD
-http://pbrz.xyz:80/67531382/36606924/1725
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon"tvg-logo="https://media.giphy.com/headers/nickjr/BoVyfvyX6fHb.gif" group-title="CANAIS | FECHADOS",NICKELODEON HD
-http://pbrz.xyz:80/67531382/36606924/1726
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon"tvg-logo="https://media.giphy.com/headers/nickjr/BoVyfvyX6fHb.gif" group-title="CANAIS | FECHADOS",NICKELODEON SD
-http://pbrz.xyz:80/67531382/36606924/1727
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central"tvg-logo="https://thumbs.gfycat.com/AlarmedLinearAsp-max-1mb.gif" group-title="CANAIS | FECHADOS",Comedy Central
 http://45.58.126.146:14308/   
 #EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL"tvg-logo="https://media.giphy.com/avatars/canalsony/15tJJMKaaLzf.gif" group-title="CANAIS | FECHADOS",SONY CHANNEL
@@ -435,48 +1137,7 @@ http://15.235.10.31:14365
 http://15.235.10.31:14412
 #EXTINF:-1 tvg-id="" tvg-name="MEGAPIX"tvg-logo="https://media.giphy.com/avatars/abrahaomendes/4L8KS5CpAx47.png" group-title="CANAIS | FECHADOS",MEGAPIX
 http://45.58.126.146:14317
-#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS | FECHADOS",MEGAPIX FULLHD
-http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31278
-#EXTINF:-1 tvg-id="" tvg-name="HITS "tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" group-title="CANAIS | FECHADOS",HITS
-https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 FOZ"tvg-logo="https://play-lh.googleusercontent.com/3UjbihgsKD16QUEd5f6jd9znJ4_b3WIvMWPjfAtCsIPAd40wlZG4ZAgWBbviRydpyu0" group-title="CANAIS | FECHADOS",CANAL 10 FOZ
-http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ZOOM"tvg-logo="https://media1.giphy.com/media/H11yMATDcaj5K/200w.gif?cid=6c09b952ulayv4lw8s4c6hubsdtghbr4dbo4p9tng430a7rw&rid=200w.gif&ct=g" group-title="CANAIS | FECHADOS",TV ZOOM
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV MAIS MARICA"tvg-logo="https://4.bp.blogspot.com/-DPCKdzWQqDw/XU5KkPXtNBI/AAAAAAAABa4/l0uoUyfZv8kJ-jBSAsNYKaIe0XoZZW-wgCLcBGAs/s320/Screenshot_2019-08-10-01-33-09.png" group-title="CANAIS | FECHADOS",TV MAIS MARICA
-https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RICOS"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f8a3fa9e42936215fde3bd04bb0f35a6.webp" group-title="CANAIS | FECHADOS",CANAL RICOS
-https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAO RAIMUNDO TV"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eb1538f8a908c5aad023c2e87021d302.webp" group-title="CANAIS | FECHADOS",SAO RAIMUNDO TV
-https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV GRANDE NATAL"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14c5a66a88c83606956bfad56ce0e085.webp" group-title="CANAIS | FECHADOS",TV GRANDE NATAL
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE CANAL 9"tvg-logo="https://gcmais.com.br/wp-content/uploads/2022/07/tv-cidade.png" group-title="CANAIS | FECHADOS",TV CIDADE CANAL 9
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="LIDER DO VALE"tvg-logo="https://pbr-str.srvsite.com/arquivos/7431/cabecalho-7431-20200117195006.png" group-title="CANAIS | FECHADOS",LIDER DO VALE
-https://5d82644094cc0.streamlock.net/liderdovaletv/liderdovaletv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAM NEWS WEB TV"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXrQOMkGdWkMLWdN1ETSBIrMHTpK4PIQoxmNhOvF-SyZ5UCr-smfRI9VlA73UP4-FH2c&usqp=CAU" group-title="CANAIS | FECHADOS", MAM NEWS WEB TV
-https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAMOCIM WEB TV"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74eeb2765564dd79d85e4d9c11431a87.webp" group-title="CANAIS | FECHADOS",CAMOCIM WEB TV
-https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV PARANA"tvg-logo="https://www.paranaeducativafm.pr.gov.br/sites/fm/arquivos_restritos/files/styles/escala_e_corta_360x225_/public/imagem/2021-12/banner_lateral_padrao_tv.png.jpg?itok=mZVVxFxt" group-title="CANAIS | FECHADOS",TV PARANA
-https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SRTV PB"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/017fd721088105092c54513b07ac61d0.webp" group-title="CANAIS | FECHADOS",SRTV PB
-https://livefocamundo.com:8081/srtvpb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CARAVELAS"tvg-logo="https://fb.paineladm.com/arquivos/4506/cabecalho-4506-20190507094833.png" group-title="CANAIS | FECHADOS",TV CARAVELAS
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINEC"tvg-logo="https://www.portalolhardinamico.com.br/uploads/img/posts/2727/0d7b630b871df09934da9b2d7d831a73.jpg" group-title="CANAIS | FECHADOS",TV CINEC
-https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV MASTER PB"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJ4VEPFheQFyBOB5E2Gn4LbZCVsc13CzAAV-jrch9mtEItYmSJUYZjtjngDv_NlHOQLw&usqp=CAU" group-title="CANAIS | FECHADOS",TV MASTER PB
-https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV PRECABURA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv-JcwSrULKe7Pfdojug1q21Og8-GkdlfhiayzZLahZ3kw00R2042VwRrNmWfcA0yB5Y&usqp=CAU" group-title="CANAIS | FECHADOS",TV PRECABURA
-http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CN AGITOS"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/48aff45b0e145a414185f8e79bd8fc49.webp" group-title="CANAIS | FECHADOS",TV CN AGITOS
-http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Feiticeira"tvg-logo="https://i1.wp.com/blog.jovempan.com.br/paulacarvalho/wp-content/uploads/sites/14/2018/08/A-Feiticeira-73985.gif?fit=400%2C220&ssl=1" group-title="CANAIS | FECHADOS",A Feiticeira
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:-1 tvg-id="" tvg-name="CNN"tvg-logo="https://media.tenor.com/qPJP0H2E1TIAAAAM/cnn-philippines.gif" group-title="CANAIS | FECHADOS",CNN
-http://45.58.126.146:14234
+
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME"tvg-logo="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGfDIuZfBxwvQ1UBR4Pjn65ruuIMvNodVeO17LxduNlkYv96qsdiDsKeDIwsKkg_q5TsA&usqp=CAU" group-title="CANAIS | FECHADOS",LIFETIME
 http://45.58.126.146:14314
 #EXTINF:-1 tvg-id="" tvg-name="FURURA"tvg-logo="https://i.ytimg.com/vi/9lSBxzYz1t8/maxresdefault.jpg" group-title="CANAIS | FECHADOS",FURURA
@@ -491,22 +1152,6 @@ http://62.176.77.22:9781/play/a00f
 http://45.58.126.146:14510
 #EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS"tvg-logo="https://64.media.tumblr.com/tumblr_lkpki0i2qQ1qiebmoo1_500.gif" group-title="CANAIS | FECHADOS",TODO MUNDO ODEIA O CHRIS
 http://45.58.126.146:14510
-#EXTINF:-1 tvg-id="" tvg-name="AniTV - geekdot online"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpr5gE9I9QO-lnpJ884o3ZQido8L8NsMqmdjjgF4QBHuuRvIO7k8Cl6lhNuQtkUlt-ikc&usqp=CAU" group-title="CANAIS | FECHADOS",AniTV - geekdot online
-https://stream.ichibantv.ga:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLN TV"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="CANAIS | FECHADOS",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w810338217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede NGT online"tvg-logo="http://2.bp.blogspot.com/-L_temn2uDLo/UpzFZI2oY1I/AAAAAAAAAk0/dWMoHVZv6RI/s1600/Rede-NGT.jpg" group-title="CANAIS | FECHADOS",Rede NGT online
-https://acesso.ecast.site:3922/live/redengtlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede Mundial Curitiba"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rede_Mundial_logo.png/800px-Rede_Mundial_logo.png" group-title="CANAIS | FECHADOS",Rede Mundial Curitiba
-https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/chunklist_w1565482821_b1096000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Aldeia online "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/29a2d34a7175d55ebe0c3a98704cf3be.webp" group-title="CANAIS | FECHADOS",TV Aldeia online 
-https://stmv1.samcast.com.br/giovane7843/giovane7843/chunklist_w2065430735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tv Confiego online"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc4f4fddc2330b377037d229aee44942.webp" group-title="CANAIS | FECHADOS",Tv Confiego online
-https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w931016835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Cidade Canal 9"tvg-logo="https://dexaketo.files.wordpress.com/2015/09/logo-tv-cidade-canal-8-2.jpg" group-title="CANAIS | FECHADOS",TV Cidade Canal 9
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1107842431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Nova Nordeste"tvg-logo="http://i.imgur.com/YpKsKuG.png" group-title="CANAIS | FECHADOS",TV Nova Nordeste
-https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Vila Real"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/03/Logotipo_da_TV_Vila_Real.png" group-title="CANAIS | FECHADOS",TV Vila Real
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/chunklist_w1043133689.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Osório News"tvg-logo="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/132559470_211738763901502_6862080702324885254_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHNza34g6EnN5Pfky3j0iWnb6jmON-6O61vqOY437o7rfeObrjizn47Od8hfIVVmdYvbMwDknzZqB22uPtm_oG9&_nc_ohc=DNLo8xBWs4MAX9qn98m&_nc_ht=scontent-gru2-2.xx&oh=00_AfCf_e_7op8Xf5S4m_CxbDwBMCOBOII70GjVG7xXCd3Yiw&oe=64444D44" group-title="CANAIS | FECHADOS",Tv Osório News
@@ -517,634 +1162,280 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_
 https://canalteste.duckdns.org:4433/hls/tvgrandenatalhdtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Curuça"tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/beaa1d89838a77d51155ce6b0b6b4f47.webp" group-title="CANAIS | FECHADOS",TV Curuça 
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Destak"tvg-logo="https://i.ytimg.com/vi/qXLHQEP1XYA/hqdefault_live.jpg" group-title="CANAIS | FECHADOS",TV Destak 
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teleweb TV"tvg-logo="https://image.roku.com/developer_channels/prod/144118251c3c0cb8ab63cb39242d3fae58fd213c21a2650761d8a2078e99d526.png" group-title="CANAIS | FECHADOS",Teleweb TV 
-https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8 | 
-#EXTINF:-1 tvg-id="" tvg-name="TV Jornal do Nordeste"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="CANAIS | FECHADOS",TV Jornal do Nordeste 
-https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Infor Bahia"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_TV_Bahia.png" group-title="CANAIS | FECHADOS",TV Infor Bahia 
-https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Digital Birigui"tvg-logo="https://i.ytimg.com/vi/TmrNbbnH3VU/hqdefault_live.jpg" group-title="CANAIS | FECHADOS",TV Digital Birigui 
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TV Difusora"tvg-logo="https://lh4.googleusercontent.com/-KMqjnysAOIs/UUyMaJiXyqI/AAAAAAAFuU0/T_xWgnurs3k/s336/difusora-ok.jpg" group-title="CANAIS | FECHADOS",TV Difusora 
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-
-#EXTM3U url-tvg=" http://grade-deCANAIS HBO.xml "
- ############## CANAIS HBO ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO" group-title="
-
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - FHD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - FHD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - FHD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS | FECHADOS",HBO - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83958
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - HD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - HD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - HD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS | FECHADOS",HBO - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83956
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - HD²" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - HD²
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - HD²" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS | FECHADOS",HBO - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83957
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - SD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - SD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - SD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS | FECHADOS",HBO - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83954
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - SD²" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - SD²
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - SD²" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS | FECHADOS",HBO - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83955
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - FHD" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - FHD
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - FHD" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS | FECHADOS",HBO 2 - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83964
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - h265²" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - h265²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83963
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - HD" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83961
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - HD²" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83962
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - SD" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83959
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 - SD²" tvg-logo="https://tinyurl.com/u9hbo2" group-title="CANAIS HBO",HBO 2 - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83960
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  HBO.xml "
- ############## CANAIS  HBO FAMILY ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  HBO" group-title="
-
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO FAMILY - FHD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS  HBO FAMILY",HBO FAMILY - FHD
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO FAMILY - FHD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS | FECHADOS",HBO FAMILY - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83967
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY - HD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS  HBO FAMILY",HBO FAMILY - HD
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY - HD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS | FECHADOS",HBO FAMILY - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83966
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY - SD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS  HBO FAMILY",HBO FAMILY - SD
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY - SD" tvg-logo="https://tinyurl.com/u9hbofa" group-title="CANAIS | FECHADOS",HBO FAMILY - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83965
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO MAIS - FHD" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS  HBO FAMILY",HBO MAIS - FHD
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO MAIS - FHD" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS | FECHADOS",HBO MAIS - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83972
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO MAIS - HD" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS  HBO FAMILY",HBO MAIS - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83970
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO MAIS - HD²" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS  HBO FAMILY",HBO MAIS - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83971
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO MAIS - SD" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS  HBO FAMILY",HBO MAIS - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83968
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO MAIS - SD²" tvg-logo="https://tinyurl.com/u9hbopl" group-title="CANAIS  HBO FAMILY",HBO MAIS - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83969
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS HBO MAX CHAMPIONS LEAGUE.xml "
- ############## CANAIS HBO MAX CHAMPIONS LEAGUE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO MAX CHAMPIONS LEAGUE" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 2 - HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="CANAIS | FECHADOS",HBO MAX 2 - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136708
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 2 - SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="CANAIS | FECHADOS",HBO MAX 2 - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136707
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 3 - HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="CANAIS | FECHADOS",HBO MAX 3 - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136710
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 3 - SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="CANAIS | FECHADOS",HBO MAX 3 - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136709
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 4 - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136712
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 4 - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136711
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO Max 5 - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138765330
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 5 - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136713
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO Max 6 - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138765332
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 -SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dNTJKkbgV3aix9JwHxornSDrBALpEifAc8BzY89luXs.jpg" group-title="HBO MAX CHAMPIONS LEAGUE",HBO Max 6 -SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138765331
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS HBO Mundi.xml "
- ############## CANAIS HBO Mundi ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO Mundi" group-title="
-
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - FHD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS HBO Mundi",HBO Mundi - FHD
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - FHD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS | FECHADOS",HBO Mundi - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83556
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - HD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS HBO Mundi",HBO Mundi - HD
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - HD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS | FECHADOS",HBO Mundi - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83554
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - HD²" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS HBO Mundi",HBO Mundi - HD²
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - HD²" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS | FECHADOS",HBO Mundi - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83555
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - SD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS HBO Mundi",HBO Mundi - SD
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - SD" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS | FECHADOS",HBO Mundi - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83552
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi - SD²" tvg-logo="https://tinyurl.com/u0hbom" group-title="CANAIS HBO Mundi",HBO Mundi - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83553
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS HBO POP .xml "
- ############## CANAIS HBO POP ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO POP " group-title="
-
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - FHD" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS HBO POP ",HBO POP - FHD
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - FHD" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS | FECHADOS",HBO POP - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83565
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - FHD²" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS HBO POP ",HBO POP - FHD²
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - FHD²" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS | FECHADOS",HBO POP - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83566
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - HD²" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS HBO POP ",HBO POP - HD²
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - HD²" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS | FECHADOS",HBO POP - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83564
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - SD" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS HBO POP ",HBO POP - SD
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP - SD" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS | FECHADOS",HBO POP - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83562
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP -HD" tvg-logo="https://tinyurl.com/u9hbop" group-title="CANAIS HBO POP ",HBO POP -HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83563
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS HBO SIGNATURE .xml "
- ############## CANAIS HBO SIGNATURE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO SIGNATURE " group-title="
-
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - FHD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS HBO SIGNATURE",HBO SIGNATURE - FHD
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - FHD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS | FECHADOS",HBO SIGNATURE - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82711
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - FHD²" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS HBO SIGNATURE",HBO SIGNATURE - FHD²
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - FHD²" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS | FECHADOS",HBO SIGNATURE - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/12875
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - HD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS HBO SIGNATURE",HBO SIGNATURE - HD
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - HD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS | FECHADOS",HBO SIGNATURE - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83974
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - SD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS HBO SIGNATURE",HBO SIGNATURE - SD
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE - SD" tvg-logo="https://tinyurl.com/u9hbos" group-title="CANAIS | FECHADOS",HBO SIGNATURE - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83973
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS HBO Xtreme .xml "
- ############## CANAIS HBO Xtreme ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO Xtreme " group-title="
-
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - FHD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS HBO Xtreme",HBO Xtreme - FHD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - FHD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS | FECHADOS",HBO Xtreme - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83561
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - HD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS HBO Xtreme",HBO Xtreme - HD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - HD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS | FECHADOS",HBO Xtreme - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83558
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - SD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS HBO Xtreme",HBO Xtreme - SD
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - SD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS | FECHADOS",HBO Xtreme - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83557
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS | TELECINE.xml "
- ############## CANAIS | TELECINE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | TELECINE" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="TLC"tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CANAIS | TELECINE",TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC"tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CANAIS | FECHADOS",TLC
 http://45.58.126.146:14270/
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD"tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CANAIS | TELECINE",TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD"tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CANAIS | FECHADOS",TLC HD
 http://45.58.126.146:14270
-
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE premium"tvg-logo="https://conteudofilmes.com.br/wp-content/uploads/2021/12/Telecine-Premium.png" group-title="CANAIS | TELECINE",TELECINE premium
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE premium"tvg-logo="https://conteudofilmes.com.br/wp-content/uploads/2021/12/Telecine-Premium.png" group-title="CANAIS | FECHADOS",TELECINE premium
 https://live.embedflix.net/p2p/tlcpremium/chunks.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
-http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31593
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS | TELECINE",Telecine Fun HD+
-http://xcui.vitvabc.xyz:8880/287994003720/287994003720/16756
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31583
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="CANAIS | TELECINE", TELECINE PIPOCA
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="CANAIS | FECHADOS", TELECINE PIPOCA
 http://51.83.238.223:16763/
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA 2"tvg-logo="https://minhaseriefavorita.com/wp-content/uploads/2021/11/programacao-telecine-pipoca-da-semana.jpg" group-title="CANAIS | TELECINE", TELECINE PIPOCA 2
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA 2"tvg-logo="https://minhaseriefavorita.com/wp-content/uploads/2021/11/programacao-telecine-pipoca-da-semana.jpg" group-title="CANAIS | FECHADOS", TELECINE PIPOCA 2
 https://live.embedflix.net/p2p/tlcpipoca/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION"tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | TELECINE", TELECINE ACTION
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION"tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | FECHADOS", TELECINE ACTION
 http://51.83.238.223:16703/
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION"tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | TELECINE", TELECINE ACTION
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION"tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CANAIS | FECHADOS", TELECINE ACTION
 http://45.58.126.146:14354
 
-#EXTM3U url-tvg=" http://grade-de-CINE COMEDIA.xml "
- ############## CINE COMEDIA ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCINE COMEDIA" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 1" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 1
-http://grtsvk.life:80/661282206/318344838/87944
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 2" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 2
-http://grtsvk.life:80/661282206/318344838/87945
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 3" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 3
-http://grtsvk.life:80/661282206/318344838/87946
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 4" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 4
-http://grtsvk.life:80/661282206/318344838/87947
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 5" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 5
-http://grtsvk.life:80/661282206/318344838/87948
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 6" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 6
-http://grtsvk.life:80/661282206/318344838/87949
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS Studio Universal.xml "
- ############## CANAIS Studio Universal ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS Studio Universal" group-title="
-
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS | FECHADOS",STUDIO UNIVERSAL - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83585
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD²
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS | FECHADOS",STUDIO UNIVERSAL - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83586
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - HD
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS | FECHADOS",STUDIO UNIVERSAL - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83584
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83582
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - SD²
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS | FECHADOS",STUDIO UNIVERSAL - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83583
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal FHD
-http://piglo.re:80/14957348417/2839302i178101/54429
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal HD
-http://piglo.re:80/14957348417/2839302i178101/54430
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal SD
-http://piglo.re:80/14957348417/2839302i178101/54431
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="Canais STUDIO UNIVERSAL",STUDIO UNIVERSAL - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83585
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="Canais STUDIO UNIVERSAL",STUDIO UNIVERSAL - FHD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83586
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="Canais STUDIO UNIVERSAL",STUDIO UNIVERSAL - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83584
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="Canais STUDIO UNIVERSAL",STUDIO UNIVERSAL - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83582
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="Canais STUDIO UNIVERSAL",STUDIO UNIVERSAL - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83583
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV FHD"tvg-logo="https://i.gifer.com/origin/cd/cd9611c99d97df8e6d9e289c7e3e8d6d.gif" group-title="Canais STUDIO UNIVERSAL", UNIVERSAL TV FHD
-http://45.58.126.146:14348/universal
-#EXTINF:-1 tvg-id="" tvg-name="universal-studios"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="Canais STUDIO UNIVERSAL", studios
+#EXTINF:-1 tvg-id="" tvg-name="universal-studios"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CANAIS | FECHADOS", studios
 http://45.58.126.146:14332
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="Canais STUDIO UNIVERSAL", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CANAIS | FECHADOS", STUDIO UNIVERSAL
 http://45.58.126.146:14332
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL - 4K H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="Canais STUDIO UNIVERSAL",UNIVERSAL - 4K H265
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL - 4K H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS | FECHADOS",UNIVERSAL - 4K H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99907
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="Canais STUDIO UNIVERSAL",UNIVERSAL CHANNEL - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83599
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="Canais STUDIO UNIVERSAL",UNIVERSAL CHANNEL - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83596
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL -HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="Canais STUDIO UNIVERSAL",UNIVERSAL CHANNEL -HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83597
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL -HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="Canais STUDIO UNIVERSAL",UNIVERSAL CHANNEL -HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83598
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  NATIONAL GEOGRAFIC.xml "
- ############## CANAIS  NATIONAL GEOGRAFIC ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  NATIONAL GEOGRAFIC" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name=" NATGEO"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATGEO
+#EXTINF:-1 tvg-id="" tvg-name=" NATGEO"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | FECHADOS",NATGEO
 http://45.58.126.146:14287
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | FECHADOS",NATIONAL GEOGRAPHIC HD
 http://45.58.126.146:14287/
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | FECHADOS",NATIONAL GEOGRAPHIC HD
 http://84.17.44.179:14635
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | FECHADOS",NATIONAL GEOGRAPHIC HD
 http://45.58.126.146:14287/
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC "tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC "tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="CANAIS | FECHADOS",NATIONAL GEOGRAPHIC
 http://84.17.44.179:14635
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAPHIC HD
-http://84.17.44.179:14635
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAFIC UHD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAFIC UHD
-http://84.17.44.179:14635/
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS | SPACE.xml "
- ############## CANAIS | SPACE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | SPACE" group-title="
-
-#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE H.265" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef537f5e1b335fb801b835682d8adade.png" group-title="CANAIS | SPACE",SPACE H.265
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31282
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef537f5e1b335fb801b835682d8adade.png" group-title="CANAIS | SPACE",SPACE HD*
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31284
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/22/e0/b7/22e0b782-17ac-5be7-a3ec-6e97dfc95837/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | SPACE",SPACE - FHD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/22/e0/b7/22e0b782-17ac-5be7-a3ec-6e97dfc95837/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | FECHADOS",SPACE - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83580
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="https://play-lh.googleusercontent.com/ZXjpB_IUBlKIaWY22gkA-E8IR_x3Tb1kZFohKSbNSeSd5YSrND9w-8kIgqWkrSjKrH0" group-title="CANAIS | SPACE",SPACE - FHD²
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="https://play-lh.googleusercontent.com/ZXjpB_IUBlKIaWY22gkA-E8IR_x3Tb1kZFohKSbNSeSd5YSrND9w-8kIgqWkrSjKrH0" group-title="CANAIS | FECHADOS",SPACE - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83581
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - H265" tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2021/08/Space.png" group-title="CANAIS | SPACE",SPACE - H265
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - H265" tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2021/08/Space.png" group-title="CANAIS | FECHADOS",SPACE - H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72580
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD" tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="CANAIS | SPACE",SPACE - HD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD" tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="CANAIS | FECHADOS",SPACE - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83578
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD²" tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE - HD²
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD²" tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | FECHADOS",SPACE - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83579
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="https://i.ytimg.com/vi/VFzizEkscrQ/mqdefault.jpg" group-title="CANAIS | SPACE",SPACE - SD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="https://i.ytimg.com/vi/VFzizEkscrQ/mqdefault.jpg" group-title="CANAIS | FECHADOS",SPACE - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83577
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - FHD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83581
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - H265
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72580
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83578
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83579
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83577
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://cm.cinemax.tv/assets/7dd96132-2b89-433c-8f32-f73cb26b8eb5" group-title="CANAIS | SPACE",SPACE
-http://195.181.163.144:14730/space
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://cm.cinemax.tv/assets/7dd96132-2b89-433c-8f32-f73cb26b8eb5" group-title="CANAIS | SPACE",SPACE
-http://195.181.163.144:14730/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg" group-title="CANAIS | SPACE",SPACE
-http://195.181.163.144:14730/space
-#EXTINF:-1 tvg-id="" tvg-name=" SPACE"tvg-logo="http://3.bp.blogspot.com/_CzYC0vTttYs/R_9mlNAV5DI/AAAAAAAAANg/7Jbu7rB21Xs/w1200-h630-p-k-no-nu/49640_image9.jpg" group-title="CANAIS | SPACE",SPACE
-http://45.58.126.146:14323
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd93a7-2WB8_NpP7RnlO9LTLeA9wnt6_vQeg&usqp=CAU" group-title="CANAIS | SPACE",SPACE
-http://51.159.54.153:14408/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD"tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="CANAIS | SPACE",SPACE HD
-http://51.159.54.153:14408/ 
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
-http://51.159.54.153:14408/space
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD"tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE HD
-http://51.159.54.153:14408/space
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4k" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | SPACE",SPACE 4k
-http://meuplay.shop:80/Adminn8/6646885468/80568
-#EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE
-http://45.58.126.146:14323
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
-http://195.181.163.144:14730/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD 2"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD 2
-http://195.181.163.144:14730/
-#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD"tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CANAIS | SPACE",SPACE UHD
-http://195.181.163.144:14730/
-#EXTINF:-1 tvg-id="Space FHD" tvg-name="Space FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="CANAIS | SPACE",Space FHD
-http://piglo.re:80/14957348417/2839302i178101/54422
-#EXTINF:-1 tvg-id="Space FHD" tvg-name="Space HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="CANAIS | SPACE",Space HD
-http://piglo.re:80/14957348417/2839302i178101/54423
-#EXTINF:-1 tvg-id="Space FHD" tvg-name="Space SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="CANAIS | SPACE",Space SD
-http://piglo.re:80/14957348417/2839302i178101/54424
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS WARNER CHANNE.xml "
- ############## CANAIS WARNER CHANNE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS WARNER CHANNE" group-title="
-
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - FHD
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS | FECHADOS",WARNER CHANNEL - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83603
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - FHD H265
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS | FECHADOS",WARNER CHANNEL - FHD H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/154313
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - HD
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS | FECHADOS",WARNER CHANNEL - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83601
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83602
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83600
-
-#EXTM3U url-tvg=" http://grade-de-Canais  STAR +.xml "
- ############## Canais  STAR + ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  STAR +" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 1 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 1 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="CANAIS | FECHADOS",STAR + 1 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136762
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 1 SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 1 SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="CANAIS | FECHADOS",STAR + 1 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136393
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 2 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 2 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="CANAIS | FECHADOS",STAR + 2 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138758715
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 3 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 3 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="CANAIS | FECHADOS",STAR + 3 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766176
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 4 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR + 4 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="CANAIS | FECHADOS",STAR + 4 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766179
-
-#EXTM3U url-tvg=" http://grade-de-Canais Star Channel.xml "
- ############## Canais Star Channel ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais Star Channel" group-title="
-
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - FHD
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="CANAIS | FECHADOS",Star Channel - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83539
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - FHD²
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="CANAIS | FECHADOS",Star Channel - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83540
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - H265
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="CANAIS | FECHADOS",Star Channel - H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99905
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - HD
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="CANAIS | FECHADOS",Star Channel - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83538
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - SD
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="CANAIS | FECHADOS",Star Channel - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83537
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  A&E.xml "
- ############## CANAIS  A&E ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  A&E" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | FECHADOS",A&E
 http://199.127.60.83:16002/
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | FECHADOS",A&E
 http://45.58.126.146:14293/A&E
 #EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD(ALT)"tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="CANAIS  A&E",A&E FULL HD(ALT)
 http://199.127.60.83:16002/
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS | FECHADOS",A&E
 http://45.58.126.146:14293
-#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD"tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="CANAIS  A&E",A&E FULL HD
-http://45.58.126.146:14293
-#EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
-http://45.58.126.146:14293/A&E
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83514
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - HD
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS | FECHADOS",A&E - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83512
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83513
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83510
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83511
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  AXN.xml "
- ############## CANAIS  AXN ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  AXN" group-title="
-
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD"tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="CANAIS  AXN",AXN HD 
 http://45.58.126.146:14299/axn
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - FHD
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS | FECHADOS",AXN - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83524
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - SD²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS | FECHADOS",AXN - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83522
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - HD²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS | FECHADOS",AXN - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83523
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - SD
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS | FECHADOS",AXN - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83520
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - SD²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS | FECHADOS",AXN - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83521
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS AMC.xml "
- ############## CANAIS AMC ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS AMC" group-title="
-
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - FHD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS | FECHADOS",AMC - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83519
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - HD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS | FECHADOS",AMC - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83517
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - HD²
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS | FECHADOS",AMC - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83518
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - SD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS | FECHADOS",AMC - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83515
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - SD²
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS | FECHADOS",AMC - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83516
-
-#EXTM3U url-tvg=" http://grade-de-Canais FX.xml "
- ############## Canais FX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais FX" group-title="
-
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - FHD
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="CANAIS | FECHADOS",FX - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83536
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - HD
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="CANAIS | FECHADOS",FX - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83535
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - HD²
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="CANAIS | FECHADOS",FX - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83534
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - SD
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="CANAIS | FECHADOS",FX - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83533
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS | TNT.xml "
- ############## CANAIS | TNT ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | TNT" group-title="
-
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHDR" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - FHDR
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHDR" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | FECHADOS",TNT - FHDR
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83589
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - FHD²
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | FECHADOS",TNT - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88861
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - HD
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | FECHADOS",TNT - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83588
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88880
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83587
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88879
-#EXTINF:-1 tvg-id="" tvg-name="WEW TNT Sports 5"tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="CANAIS | TNT",WEW TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 WEW Brasil"tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS | TNT",TNT Sports 5 WEW Brasil 
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT 2 SÉRIES HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="CANAIS | TNT",TNT 2 SÉRIES HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16761
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | FECHADOS",TNT HD
 http://45.58.126.146:14341
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | FECHADOS",TNT HD
 http://45.58.126.146:14270
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT 
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | FECHADOS",TNT 
 http://45.58.126.146:14342
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | TNT",TNT SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | FECHADOS",TNT SERIES
 http://45.58.126.146:14345
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | TNT",TNT SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | FECHADOS",TNT SERIES
 http://45.58.126.146:14345
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
-http://45.58.126.146:14341
 
-#EXTM3U url-tvg=" http://grade-de-Canais | TNT  Filmes e Séries.xml "
- ############## Canais | TNT  Filmes e Séries ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | TNT  Filmes e Séries" group-title="
-
-#EXTINF:-1 tvg-id="Example" tvg-name="TNT FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31299
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="Canais | TNT  Filmes e Séries",TNT HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31300
-#EXTINF:-1 tvg-id="Example" tvg-name="TNT SERIES FHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="Canais | TNT  Filmes e Séries",TNT SERIES FHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31301
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT 4K
-http://apkwuv.xyz:80/cristina2021/graniptv2005/151053
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [H265]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD [H265]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83423
-#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83822
-#EXTINF:-1 tvg-id="TNT FHD [Alt]" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147715
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT HD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83268
-#EXTINF:-1 tvg-id="TNT HD [Alt]" tvg-name="TNT HD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT HD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147716
-#EXTINF:-1 tvg-id="TNT SD" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT SD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83638
-#EXTINF:-1 tvg-id="TNT Series FHD" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series FHD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136806
-#EXTINF:-1 tvg-id="TNT Series FHD [Alt]" tvg-name="TNT Series FHD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series FHD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147717
-#EXTINF:-1 tvg-id="TNT Series HD" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series HD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83269
-#EXTINF:-1 tvg-id="TNT Series HD [Alt]" tvg-name="TNT Series HD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series HD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147718
-#EXTINF:-1 tvg-id="TNT Series SD" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series SD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83639
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS MEGAPIX.xml "
- ############## CANAIS MEGAPIX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS MEGAPIX" group-title="
-
-#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS MEGAPIX",MEGAPIX FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31278
-#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS MEGAPIX",MEGAPIX FULLHD
-http://vivo.10initiatived.uk:8880/287994003365/287994003365/31278
-
-#EXTM3U url-tvg=" http://grade-de-title="CANAIS CINEMAX.xml "
- ############## CANAIS CINEMAX ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldetitle="CANAIS CINEMAX" group-title="
-
-#EXTINF:-1 tvg-id="Example" tvg-name="CINEMAX FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS CINEMAX",CINEMAX FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31274
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS CINEMAX",CINEMAX HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31275
-
-#EXTM3U url-tvg=" http://grade-de-title="Canais  Sony.xml "
- ############## Canais  Sony ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldetitle="Canais  Sony" group-title="
-
-#EXTINF:-1 tvg-id="SONYCH" tvg-name="CANAL SONY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - FHD
+#EXTINF:-1 tvg-id="SONYCH" tvg-name="CANAL SONY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAIS | FECHADOS",CANAL SONY - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83527
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - FHD²
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAIS | FECHADOS",CANAL SONY - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83528
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - HD
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAIS | FECHADOS",CANAL SONY - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83526
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - SD
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAIS | FECHADOS",CANAL SONY - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83525
-
-#EXTM3U url-tvg=" http://grade-de-Canais SYFY.xml "
- ############## Canais SYFY ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais SYFY" group-title="
-
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - FHD
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="CANAIS | FECHADOS",SYFY - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/28191
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - HD
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="CANAIS | FECHADOS",SYFY - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/8177
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - HD²
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="CANAIS | FECHADOS",SYFY - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/12946
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - SD
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="CANAIS | FECHADOS",SYFY - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/8014
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - SD²
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="CANAIS | FECHADOS",SYFY - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/53020
-
-#EXTM3U url-tvg=" http://grade-de-Canais CINE UNION.xml "
- ############## Canais CINE UNION ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais CINE UNION" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE ACAO" tvg-logo="https://i.ibb.co/h1VxNjB/cineunion.png" group-title="Canais CINE UNION",CINE ACAO
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACAO" tvg-logo="https://i.ibb.co/h1VxNjB/cineunion.png" group-title="CANAIS | FECHADOS",CINE ACAO
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/152723
-#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE DISNEY
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE DISNEY
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766190
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE MARVEL
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE MARVEL
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766191
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 01
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 01
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155499
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 02
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 02
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155500
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 03
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 03
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155501
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 04
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 04
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155502
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 05
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 05
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155503
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 06
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 06
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155504
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 07
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 07
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155505
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 10
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766192
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 11
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766193
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 8
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766197
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 9
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 9
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766198
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 10
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766192
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="CANAIS | FECHADOS",CINE SKY 11
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766193
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS | DISCOVERY.xml "
- ############## CANAIS | DISCOVERY ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | DISCOVERY" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS | FECHADOS.xml "
+ ############## CANAIS | FECHADOS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | FECHADOS" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | FECHADOS",DISCOVERY TURBO
 http://45.58.126.146:14267/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | FECHADOS",DISCOVERY TURBO HD
 http://45.58.126.146:14267/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | DISCOVERY",DISCOVERY ID
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANAIS | FECHADOS",DISCOVERY ID
 http://45.58.126.146:14258/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media4.giphy.com/media/SFIxisidxlLqUSyutF/200w.gif?cid=6c09b952gxwjazyi0rgeau459j5rnuyciflrjo6lawi6apz6&rid=200w.gif&ct=g" group-title="CANAIS | DISCOVERY",DISCOVERY 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media4.giphy.com/media/SFIxisidxlLqUSyutF/200w.gif?cid=6c09b952gxwjazyi0rgeau459j5rnuyciflrjo6lawi6apz6&rid=200w.gif&ct=g" group-title="CANAIS | FECHADOS",DISCOVERY 
 http://45.58.126.146:14261
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY WORD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjJ0mNQYkMU_s-SFoBUuftIotVsr25icwTdXd-xse2UPWY7aGotK981FufeWJOR0T9-A&usqp=CAU" group-title="CANAIS | DISCOVERY",DISCOVERY WORD
+#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY WORD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjJ0mNQYkMU_s-SFoBUuftIotVsr25icwTdXd-xse2UPWY7aGotK981FufeWJOR0T9-A&usqp=CAU" group-title="CANAIS | FECHADOS",DISCOVERY WORD
 http://45.58.126.146:14273
-#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY id"tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="CANAIS | DISCOVERY",DISCOVERY id
+#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY id"tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="CANAIS | FECHADOS",DISCOVERY id
 http://45.58.126.146:14258/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY 
 http://45.58.126.146:14252/   
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY 
 http://45.58.126.146:14258/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY THEATER HD
 http://45.58.126.146:14264/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY H&H HD
 http://45.58.126.146:14255/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY H&H HD
 http://45.58.126.146:14255/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY THEATER
 http://45.58.126.146:14264/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | FECHADOS",DISCOVERY CHANNEL HD
 http://45.58.126.146:14252/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVER"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_efeCgIAMAh6W76x0ztDm0Ix-aLKy0zRvGixKlpEI_PVaxmfRxKEjEjYmHiuJQF32pyM&usqp=CAU" group-title="CANAIS | DISCOVERY",DISCOVERY 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVER"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_efeCgIAMAh6W76x0ztDm0Ix-aLKy0zRvGixKlpEI_PVaxmfRxKEjEjYmHiuJQF32pyM&usqp=CAU" group-title="CANAIS | FECHADOS",DISCOVERY 
 http://45.58.126.146:14267/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER HD
-http://45.58.126.146:14264/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY DISCOVERY H&H HD
-http://45.58.126.146:14255/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD
-http://45.58.126.146:14255/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD"tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
-http://45.58.126.146:14252/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H"tvg-logo="https://3.bp.blogspot.com/-9GZJEcGclHE/W3LaujjGVlI/AAAAAAABLM4/OmvRnCPl-MUEAqVn4ImQ4ZSTxU36wB1ZQCLcBGAs/w1200-h675-p-k-no-nu/discovery-home-and-health-tv-logo-1.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H
-http://45.58.126.146:14255/
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"tvg-logo="https://media3.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95233b1a438abdc799f132c782cda160e674d5a1066&rid=giphy.gif&ct=s" group-title="CANAIS | DISCOVERY",DISCOVERY Kids (H265)
-http://pbrz.xyz:80/67531382/36606924/1340
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"tvg-logo="https://media3.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95233b1a438abdc799f132c782cda160e674d5a1066&rid=giphy.gif&ct=s" group-title="CANAIS | DISCOVERY",DISCOVERY KIDS FHD
-http://pbrz.xyz:80/67531382/36606924/1341
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"tvg-logo="https://media3.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95233b1a438abdc799f132c782cda160e674d5a1066&rid=giphy.gif&ct=s" group-title="CANAIS | DISCOVERY",DISCOVERY KIDS HD
-http://pbrz.xyz:80/67531382/36606924/1342
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"tvg-logo="https://media3.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95233b1a438abdc799f132c782cda160e674d5a1066&rid=giphy.gif&ct=s" group-title="CANAIS | DISCOVERY",DISCOVERY KIDS SD
-http://pbrz.xyz:80/67531382/36606924/1343
 
 #EXTM3U url-tvg=" http://grade-de-Canais ESPORTES JIU JITSU.xml "
  ############## Canais ESPORTES JIU JITSU ############## ### 
@@ -1152,106 +1443,6 @@ http://pbrz.xyz:80/67531382/36606924/1343
 
 #EXTINF:-1 tvg-id="" tvg-name="FLOGRAPPLING JIU JITSU - HD" tvg-logo="https://images.tapology.com/logos/2715/profile/FloGrappling-logo.jpg" group-title="Canais ESPORTES JIU JITSU",JIU JITSU
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138777563
-
-#EXTM3U url-tvg=" http://grade-de-Canais | ESPN.xml "
- ############## Canais | ESPN ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | ESPN" group-title="
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 4K" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN",ESPN 1 4K
-http://apkwuv.xyz:80/cristina2021/graniptv2005/155420
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN",Fox Sports ESPN 1 FHD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83809
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD [Alt]" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN",Fox Sports ESPN 1 FHD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147541
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD [H265]" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN",ESPN 1 FHD [H265]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83385
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN",Fox Sports ESPN 1 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83208
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD [Alt]" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN",Fox Sports ESPN 1 HD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147542
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="Canais | ESPN",Fox Sports ESPN 1 SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162796
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN",Fox Sports ESPN 2 FHD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83807
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN",Fox Sports ESPN 2 FHD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147545
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN",Fox Sports ESPN 2 FHD [H265]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83383
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN",Fox Sports ,ESPN 2 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83209
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN",Fox Sports ESPN 2 HD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147546
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn2.png" group-title="Canais | ESPN",Fox Sports ,ESPN 2 SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83552
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN",Fox Sports ESPN 3 4K
-http://apkwuv.xyz:80/cristina2021/graniptv2005/151048
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN",Fox Sports ESPN 3 FHD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83808
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD [Alt]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN",Fox Sports ESPN 3 FHD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147539
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD [H265]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN",Fox Sports ESPN 3 FHD [H265]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83384
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN",Fox Sports ESPN 3 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83207
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD [Alt]" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN",Fox Sports ESPN 3 HD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147540
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 SD" tvg-logo="https://i.imgur.com/L0cvG86.png" group-title="Canais | ESPN",Fox Sports ESPN 3 SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83553
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN",Fox Sports ESPN 4 4K
-http://apkwuv.xyz:80/cristina2021/graniptv2005/151039
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN",Fox Sports ESPN 4 FHD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83811
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD [Alt]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN",Fox Sports ESPN 4 FHD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147568
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN",Fox Sports ESPN 4 FHD [H265]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83388
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN",Fox Sports ESPN 4 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83217
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD [Alt]" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN",Fox Sports ESPN 4 HD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147565
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 SD" tvg-logo="https://i.imgur.com/BB03Uwr.png" group-title="Canais | ESPN",Fox Sports ESPN 4 SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83560
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN",Fox Sports ESPN Extra FHD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83810
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD [Alt]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN",Fox Sports ESPN Extra FHD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147543
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD [H265]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN",Fox Sports ESPN Extra FHD [H265]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83382
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra HD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN",Fox Sports ESPN Extra HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83210
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra HD [Alt]" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN",Fox Sports ESPN Extra HD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147544
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra SD" tvg-logo="https://i.imgur.com/vky3gZv.png" group-title="Canais | ESPN",Fox Sports ESPN Extra SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162802
-
-#EXTM3U url-tvg=" http://grade-de-Canais  Esportes PPV.xml "
- ############## Canais  Esportes PPV ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  Esportes PPV" group-title="
-
-#EXTINF:-1 tvg-id="Agro+" tvg-name="Prime Esportes 1 HD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 1 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83795
-#EXTINF:-1 tvg-id="Like" tvg-name="Prime Esportes 1 SD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 1 SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83334
-#EXTINF:-1 tvg-id="SescTV" tvg-name="Prime Esportes 2 FHD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 2 FHD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83348
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Prime Esportes 2 HD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 2 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83773
-#EXTINF:-1 tvg-id="Agro+" tvg-name="Prime Esportes 2 SD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 2 SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83347
-#EXTINF:-1 tvg-id="CAMPEONATO CARIOCA 1" tvg-name="Prime Esportes 3 FHD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 3 FHD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/169534
-#EXTINF:-1 tvg-id="AXN" tvg-name="Prime Esportes 3 HD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 3 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83790
-#EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="Prime Esportes 3 SD" tvg-logo="https://i.imgur.com/c7KNYUP.png" group-title=" Canais | Esportes PPV",Prime Esportes 3 SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83452
-#EXTINF:-1 tvg-id="" tvg-name="TV NSports 1 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title=" Canais | Esportes PPV",TV NSports 1 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83716
-#EXTINF:-1 tvg-id="" tvg-name="TV NSports 2 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title=" Canais | Esportes PPV",TV NSports 2 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83717
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="TV NSports 3 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title=" Canais | Esportes PPV",TV NSports 3 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/169539
-#EXTINF:-1 tvg-id="" tvg-name="TV NSports 4 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title=" Canais | Esportes PPV",TV NSports 4 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/272
 
 #EXTM3U url-tvg=" http://grade-de-Canais SPORTS WORLD.xml "
  ############## Canais SPORTS WORLD ############## ### 
@@ -1285,23 +1476,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766206
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766209
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 SD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="Canais SPORTS WORLD",SPORT TV 6 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766208
-
-#EXTM3U url-tvg=" http://grade-de-Canais | BAND Sports.xml "
- ############## Canais | BAND Sports ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | BAND Sports" group-title="
-
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports FHD
-http://apkwuv.xyz:80/judeva/deva10ju/83806
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [Alt]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147446
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [H265]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports FHD [H265]
-http://apkwuv.xyz:80/judeva/deva10ju/83371
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports HD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports HD
-http://apkwuv.xyz:80/judeva/deva10ju/83189
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports HD [Alt]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147447
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports SD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports SD
-http://apkwuv.xyz:80/judeva/deva10ju/83529
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  SPORTV.xml "
  ############## CANAIS  SPORTV ############## ### 
@@ -1347,75 +1521,15 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82745
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82746
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD - h265²" tvg-logo="https://tinyurl.com/u9sptv" group-title="CANAIS SPORTV",SPORTV FHD - h265²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/12815
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 1 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/39ba71210c63301ed9b037b9d22e77d7.png" group-title="CANAIS SPORTV",SPORTV 1 4K
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38529
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/b6a098a9f9c56632a1c1f742a9cd3ef3.png" group-title="CANAIS SPORTV",SPORTV 2 4K
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38530
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/a458f0cd0e35383bfeecfa09512559b9.png" group-title="CANAIS SPORTV",SPORTV 3 4K
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38531
-#EXTINF:-1 tvg-id="" tvg-name="SporTV3 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/a458f0cd0e35383bfeecfa09512559b9.png" group-title="CANAIS SPORTV",SporTV3 HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35973
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS | ESPORTES.xml "
- ############## CANAIS | ESPORTES ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | ESPORTES" group-title="
-
-#EXTINF:-1 tvg-id="OFF" tvg-name="MMA" tvg-logo="https://pbs.twimg.com/profile_images/74705538/mmatv_400x400.jpg" group-title="CANAIS | ESPORTES",MMA
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="OFF" tvg-name="XFC TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNMM82URjVGV4SnTJp0sD2LYGUHWhQcsvvMnXdb=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ESPORTES",XFC TV
-https://stream-us-east-1.getpublica.com/cl/230722cituo89em6dbap5eo2b0/1280x720_3067851_0_f.m3u8?i=513_2351
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/139108
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [Alt]" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147625
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [H265]" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD [H265]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83404
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83243
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD [Alt]" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF HD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147626
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83596
-#EXTINF:-1 tvg-id="" tvg-name="OneFootball 1" tvg-logo="https://i.imgur.com/u1MD3Fl.png" group-title="CANAIS | ESPORTES",OneFootball 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/139472
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS | ESPORTES espn extra.xml "
- ############## CANAIS | ESPORTES espn extra ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | ESPORTES espn extra" group-title="
-
-#EXTINF:-1 tvg-id="Example" tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn
-https://tvcanais.xyz/espn1/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Example" tvg-name="espn extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn extra
-https://server101.online/espn-extra/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=c30aa8195d9e30aaab7e05514b22db19ac7aa627-72818f32836786b3506ec9ab94830850-1689647533-1689643933
-#EXTINF:-1 tvg-id="Example" tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn
-https://tvcanais.xyz/espn1/tracks-v1/index.fmp4.m3u8?token=69df07286d5af835da2ce52f266fab61a55af5e6-86cdfb788cd177afbaf68311e94b4d83-1689644410-1689644230
-#EXTINF:-1 tvg-id="Example" tvg-name="espn 2" tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/espn2-min.png" group-title="CANAIS | ESPORTES espn extra",espn 2
-https://tvcanais.xyz/espn2/tracks-v1/index.fmp4.m3u8?token=a1439e88070d9fa2c67ce9aca5b2708b8967fb85-c85059bfa514f51854cc2c339085f035-1689644967-1689644787
-
-#EXTM3U url-tvg=" http://grade-de-Canais | ESPN/Fox Sports.xml "
- ############## Canais | ESPN/Fox Sports ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais | ESPN/Fox Sports" group-title="
-
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 4K
-http://apkwuv.xyz:80/cristina2021/graniptv2005/151046
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 FHD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83812
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 FHD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147566
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [H265]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 FHD [H265]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83389
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83216
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 HD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147567
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83561
 
 #EXTM3U url-tvg=" http://grade-de-Canais FOX SPORTS 2.xml "
  ############## Canais FOX SPORTS 2 ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais FOX SPORTS 2" group-title="
 
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 4K
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2"tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2
+https://live-brasilweb.yamyday.com/live/pt_ZX4257952D1AF68944_480p.m3u8?content_auth2=main_addr%3Dhttps://live-brasilweb.yamyday.com/v3/youshi/%26media_encrypted%3D0%26sign_type%3D%26session_id%3DjcykVie4wikL%26dev_id%3Da9466368%26app_id%3Dcom.global.brasiltvweb%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26spared_addr%3Dhttps://live-brweb.yamyday.com/v3/youshi/%26link%3Dicdn%26app_ver%3D20001%26client_ip%3D168.227.218.11%26expired%3D1697734038%26tag%3DF8B19D%26check_play_ip%3Dtrue%26token%3D925E74F77694A8E297A3CCBF28339BD7&content_license2=app_id%3Dcom.global.brasiltvweb%26tag%3DF8B19D%26scheme%3Dmd5-01%26media_code%3Dpt_ZX4257952D1AF68944_480p%26expired%3D1698319996%26token%3DF5F5A6C3D08072D485F661D2B4B10D50&timestamp=1697720439003
+
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72584
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82759
@@ -1443,41 +1557,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82756
 http://liontv.me:80/mgfb2ed/mgf239161/34
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 SD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83561
-
-#EXTM3U url-tvg="http://grade-de-CANAIS  INFANTIL.xml"
-############## CANAIS  INFANTIL ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  INFANTIL" group-title="
-
-#EXTINF:-1 tvg-id="DKNB" tvg-name="DISC KIDS HD" tvg-logo="https://lh3.googleusercontent.com/-LFrB2aCc_2I/YB7RLQSQyoI/AAAAAAAAKAQ/PAanDOSwv0ILQHX-7HnFDjUA6bVeMjErgCLcBGAsYHQ/DISCOVERY%2BKIDS.png" group-title="CANAIS | INFANTIL",DISC KIDS HD
-http://grtsvk.life:80/661282206/318344838/71325
-#EXTINF:-1 tvg-id="DKNB" tvg-name="DISC KIDS SD" tvg-logo="https://lh3.googleusercontent.com/-LFrB2aCc_2I/YB7RLQSQyoI/AAAAAAAAKAQ/PAanDOSwv0ILQHX-7HnFDjUA6bVeMjErgCLcBGAsYHQ/DISCOVERY%2BKIDS.png" group-title="CANAIS | INFANTIL",DISC KIDS SD
-http://grtsvk.life:80/661282206/318344838/71077
-#EXTINF:-1 tvg-id="DKNB" tvg-name="DISC KIDS SD" tvg-logo="https://lh3.googleusercontent.com/-LFrB2aCc_2I/YB7RLQSQyoI/AAAAAAAAKAQ/PAanDOSwv0ILQHX-7HnFDjUA6bVeMjErgCLcBGAsYHQ/DISCOVERY%2BKIDS.png" group-title="CANAIS | INFANTIL",DISC KIDS SD
-http://grtsvk.life:80/661282206/318344838/71183
-#EXTINF:-1 tvg-id="DISHD" tvg-name="DISNEY HD" tvg-logo="https://lh3.googleusercontent.com/-l8qSYbsahzo/YB7SfCeAXOI/AAAAAAAAKAc/SRPV0CHM67k8RVhZBLosjHooNrp8lv6fgCLcBGAsYHQ/DISNEY%2BCHANNEL.png" group-title="CANAIS | INFANTIL",DISNEY HD
-http://grtsvk.life:80/661282206/318344838/71330
-#EXTINF:-1 tvg-id="DISHD" tvg-name="DISNEY SD" tvg-logo="https://lh3.googleusercontent.com/-l8qSYbsahzo/YB7SfCeAXOI/AAAAAAAAKAc/SRPV0CHM67k8RVhZBLosjHooNrp8lv6fgCLcBGAsYHQ/DISNEY%2BCHANNEL.png" group-title="CANAIS | INFANTIL",DISNEY SD
-http://grtsvk.life:80/661282206/318344838/71689
-#EXTINF:-1 tvg-id="" tvg-name="Donald Duck" tvg-logo="https://4.bp.blogspot.com/-Q5meIAtfZcU/Xn9UOExewSI/AAAAAAAACdM/Y_sFRQnwHSUA88eadqnTFJzZvcNvqQt-gCK4BGAYYCw/s320/8tvm898c.png" group-title="CANAIS | INFANTIL",Donald Duck
-http://grtsvk.life:80/661282206/318344838/16944
-#EXTINF:-1 tvg-id="" tvg-name="Donkey Kong" tvg-logo="https://lh3.googleusercontent.com/-KScoSIhtiBo/YcIgHl90OPI/AAAAAAAAK2A/Ccoqyd6nyjwuQSLdcEejD6Juxz85iWdgwCNcBGAsYHQ/Donkey%2BKong.png" group-title="CANAIS | INFANTIL",Donkey Kong
-http://grtsvk.life:80/661282206/318344838/143030
-#EXTINF:-1 tvg-id="" tvg-name="dora aventureira" tvg-logo="https://3.bp.blogspot.com/-yF9DWl5_I1A/XtbySE4S8_I/AAAAAAAAGBc/ncZQsmrsrZ0xkBC7z702MWLAej4yzhzhwCK4BGAYYCw/s1600/dora%2Baventureira.png" group-title="CANAIS | INFANTIL",dora aventureira
-http://grtsvk.life:80/661282206/318344838/28755
-#EXTINF:-1 tvg-id="" tvg-name="Doug" tvg-logo="https://2.bp.blogspot.com/-EyW7Ao4Mlwc/XsP15IrIRJI/AAAAAAAAF3Y/aRxb1XV1iwEJIZNqA56rX33rdtUMc55igCK4BGAYYCw/s1600/Doug.png" group-title="CANAIS | INFANTIL",Doug
-http://grtsvk.life:80/661282206/318344838/23315
-#EXTINF:-1 tvg-id="" tvg-name="Doug funnie" tvg-logo="https://lh3.googleusercontent.com/-0xeCOkv5q14/X9lNkwVXVrI/AAAAAAAAHeY/mEl838zwTF0Vk0_RDyP34gkmK2kywlL1ACLcBGAsYHQ/doug%2Bfunnie.png" group-title="CANAIS | INFANTIL",Doug funnie
-http://grtsvk.life:80/661282206/318344838/56500
-#EXTINF:-1 tvg-id="" tvg-name="DOUTORA BRINQUEDO " tvg-logo="https://lh3.googleusercontent.com/-uT79UYGI7U4/YH3OdUdkRFI/AAAAAAAAKQ0/yyptGQWdcWUUBF99tqwny1oxLpF3SgyOwCLcBGAsYHQ/doutora%2Bbrinquedo.png" group-title="CANAIS | INFANTIL",DOUTORA BRINQUEDO 
-http://grtsvk.life:80/661282206/318344838/90188
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="https://lh3.googleusercontent.com/-IHsOe1mqbAA/YTE7EnLLclI/AAAAAAAAKhw/3Wcqbt-3lQcgnx769I7uNvmhgeTJZG9BQCLcBGAsYHQ/dragon%2Bboll.png" group-title="CANAIS | INFANTIL",Dragon Ball
-http://grtsvk.life:80/661282206/318344838/119824
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="https://2.bp.blogspot.com/-XVlP4s9tTvY/XuTUgYtWDJI/AAAAAAAAGQk/a3Ps3YeVk6gn1SarnMzPv9K_PVmmcY5zQCK4BGAYYCw/s1600/dragon%2Bball%2Bgt.png" group-title="CANAIS | INFANTIL",Dragon Ball GT
-http://grtsvk.life:80/661282206/318344838/30009
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Heroes" tvg-logo="https://lh3.googleusercontent.com/-V9wMdO-nvtA/X2tnzACUxYI/AAAAAAAAHDY/0zKDp4biuIo4BYBXM0yxXEFuGngVQMpqwCLcBGAsYHQ/heroes.png" group-title="CANAIS | INFANTIL",Dragon Ball Heroes
-http://grtsvk.life:80/661282206/318344838/48845
-#EXTINF:-1 tvg-id="" tvg-name="dragon ball super" tvg-logo="https://1.bp.blogspot.com/-cMAvhFrdiIE/XuESjx9uj7I/AAAAAAAAGOA/j4LqJvURlIouynes7CpJSVHjYC7h66zZgCK4BGAYYCw/s1600/dragon%2Bball%2Bsuper.png" group-title="CANAIS | INFANTIL",dragon ball super
-http://grtsvk.life:80/661282206/318344838/29994
 
 #EXTM3U url-tvg="http://grade-de-Filme O Gordo e o Magro.xml"
 ############## Filme O Gordo e o Magro  ################# 
@@ -2195,9 +2274,6 @@ https://ia902702.us.archive.org/31/items/a-mulher-milagrosa-tv-fax/A%20Mulher%20
 https://ia802705.us.archive.org/27/items/a-garota-no-trem-tv-fax/A%20Garota%20no%20Trem%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",365 Dias Finais"tvg-logo="https://engenhariadocinema.com.br/wp-content/uploads/2022/08/365-Dias-Finais-Poster.jpg"group-title="FILMES | TV FAX",365 Dias Finais
 https://ia902603.us.archive.org/9/items/365-dias-finais-filmes-tv-fax-hd/365%20Dias%20Finais%20Filmes%20TV%20FAX%20HD.mp4
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name=",Destruição Final O Último Refúgio"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0lz-NRK_wz4qb57xG5kI1ePmyqhZxgDfWtiobIi0ofuk0o8BywrH-X1xrnbAxboFJiY&usqp=CAU"group-title="FILMES | TV FAX",Destruição Final O Último Refúgio 
 https://ia902604.us.archive.org/35/items/destruicao-final-o-ultimo-refugio-tv-fax/Destrui%C3%A7%C3%A3o%20Final%20O%20%C3%9Altimo%20Ref%C3%BAgio%20%20TV%20FAX%20%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Cabras Da Peste"tvg-logo="https://i.ytimg.com/vi/jxTC0ZUE6XQ/maxresdefault.jpg"group-title="FILMES | TV FAX",Cabras Da Peste
@@ -2782,7 +2858,6 @@ https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls
 #EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="FILMES TV FAX GOSPEL",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
 
-
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX |  ONLINE.xml"
 ############## FILME TV FAX |  ONLINE ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  ONLINE" group-title="
@@ -2953,7 +3028,6 @@ https://ia801607.us.archive.org/28/items/arraste-me-para-o-inferno-2009-drag-me-
 #EXTINF:-1 tvg-id="" tvg-name="Amor Bandido 2012 "tvg-logo="https://i.ytimg.com/vi/aBBuMfBtI5Q/maxresdefault.jpg"group-title="FILME TV FAX | VARIADOS",Amor Bandido 2012 
 https://ia801608.us.archive.org/34/items/amor-bandido-2012-mud/Amor%20Bandido%202012%20%28Mud%29.mp4
 
-
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX | RAMBO.xml"
 ############## FILME TV FAX |  RAMBO  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX | RAMBO" group-title="
@@ -2977,7 +3051,6 @@ https://dn902605.us.archive.org/0/items/rota-de-fuga-2-3-tv-fax/Rota%20de%20Fuga
 https://dn802605.us.archive.org/0/items/rota-de-fuga-2-3-tv-fax/Rota%20de%20Fuga%203%20O%20Resgate%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Rota De Fuga TV FAX"tvg-logo="https://imagem.natelinha.uol.com.br/original/tela-de-sucessos-bomba-ibope_3874.jpeg"group-title="FILME TV FAX | Rota De Fuga",Rota De Fuga TV FAX
 https://dn802605.us.archive.org/0/items/rota-de-fuga-2-3-tv-fax/Rota%20de%20Fuga%20TV%20FAX.mp4
-
 
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX | Rocky Balboa.xml"
 ############## FILME TV FAX |  Rocky Balboa  ################# 
@@ -3046,6 +3119,20 @@ https://ia902700.us.archive.org/0/items/banana-joe-terence-hill-e-bud-spencer-tv
 #EXTINF:-1 tvg-id="" tvg-name="Par Ou Ímpar"tvg-logo="https://i.ytimg.com/vi/gvihYUXqGsw/mqdefault.jpg"group-title="FILME TV FAX |  Terence Hill E Bud Spencer",Par Ou Ímpar
 https://ia802701.us.archive.org/18/items/par-ou-impar-terence-hill-e-bud-spencer-tv-fax/Par%20ou%20%C3%8Dmpar%20-%20Terence%20Hill%20e%20Bud%20Spencer%20TV%20FAX%20.mp4
 
+#EXTM3U url-tvg="http://grade-de-Brasil TV FAX.xml"
+############## Brasil TV FAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeBrasil TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Espiã Vermelha" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18nFuvaE2NNq8Kxkd8jghRgU8Hgd8C_PVLVE629aViLns1ht3f0FR1JbNWrS9-2t6SDo&usqp=CAU" group-title="Brasil TV FAX",A Espiã Vermelha
+https://vod-brasilweb.yamyday.com/vod/59020429E9E442E29FC5D14C50EBF322_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DamSd2E8OmSfP_NYEtq0fl5HsC%26app_version%3D20001%26client_ip%3D168.227.218.11%26dev_id%3D8108ac1566f20ce3e7c943aaa9466368%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26expired%3D1697732407%26token%3Db065b2208bec33f7251a213a74f0be1a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D59020429E9E442E29FC5D14C50EBF322%26expired%3D1697732407%26token%3D9794034f33d3fd0fb96deb53606bd31b&timestamp=1697718010263
+#EXTINF:-1 tvg-id="" tvg-name="Coração de Cowboy" tvg-logo="https://i.ytimg.com/vi/sOtmykBObcI/hqdefault.jpg" group-title="Brasil TV FAX",Coração de Cowboy
+https://vod-brasilweb.yamyday.com/vod/9E4CDEE79CCB48EF8023A2CB067DEFB9_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DHINY6xvoctd_Pjy89lXeptOM%26app_version%3D20001%26client_ip%3D168.227.218.11%26dev_id%3D8108ac1566f20ce3e7c943aaa9466368%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26expired%3D1697732927%26token%3D6537c59eacaf75ec622ce553b3c32c85&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D9E4CDEE79CCB48EF8023A2CB067DEFB9%26expired%3D1697732927%26token%3D21d2a69de20a7081ad40dd77f6966fed&timestamp=1697718528828
+#EXTINF:-1 tvg-id="" tvg-name="Heróis de Guerra" tvg-logo="https://i.ytimg.com/vi/oCp-kCIycKE/sddefault.jpg" group-title="Brasil TV FAX",Heróis de Guerra
+https://vod-brasilweb.yamyday.com/vod/1B4C0A717AA84EBBADA7B36B98C7DDE0_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DPHfzfcdvtrLg_H211gxzqjq2x%26app_version%3D20001%26client_ip%3D168.227.218.11%26dev_id%3D8108ac1566f20ce3e7c943aaa9466368%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26expired%3D1697733085%26token%3Dc2c59a06c0e746a38139233b0b8b840b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D1B4C0A717AA84EBBADA7B36B98C7DDE0%26expired%3D1697733085%26token%3Dae204202e8decf47549de27936ad3087&timestamp=1697718691913
+#EXTINF:-1 tvg-id="" tvg-name="Confusão em Profusão" tvg-logo="https://media.fstatic.com/pcVFr6-v0j4jVrlozU_kL_kifDI=/322x478/smart/filters:format(webp)/media/movies/covers/2014/01/another-fine-mess_tNone.jpg" group-title="Brasil TV FAX",Confusão em Profusão
+https://vod-brasilweb.yamyday.com/vod/93C28466F44C470FA41F2D4D4EB9217B_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DmatkftnJEaET_QJQzybadBRuP%26app_version%3D20001%26client_ip%3D168.227.218.11%26dev_id%3D8108ac1566f20ce3e7c943aaa9466368%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26expired%3D1697733173%26token%3Df50a55068e3ead4a68db7043648e2d0d&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D93C28466F44C470FA41F2D4D4EB9217B%26expired%3D1697733173%26token%3D558f2d3f93452c23dc1e1e5c9d9b2757&timestamp=1697718774971
+#EXTINF:-1 tvg-id="" tvg-name="Hercules in New York" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShuuBHh862OLZddHKZ_I4dNdtVvX4oCBX8MJuaV4z6atsH9RgodYnMvZvZT7T1mogEUSk&usqp=CAU" group-title="Brasil TV FAX",Hercules in New York
+https://vod-brasilweb.yamyday.com/vod/3D40F1620BA348C5A0A593407ED9688D_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3Dvod-brasilweb.yamyday.com%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DchDpwFDNDLJx_tEq9TyypQaK%26app_version%3D20001%26client_ip%3D168.227.218.11%26dev_id%3D8108ac1566f20ce3e7c943aaa9466368%26auth_id%3D74412828_com.global.brasiltvweb_local-uncloud-redis_0%26user_id%3D74412828%26expired%3D1697733328%26token%3Dde8738469fe4763d1460fc65eb93dc24&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D3D40F1620BA348C5A0A593407ED9688D%26expired%3D1697733328%26token%3De2f943d39da77107bbfab484a7c2d9ef&timestamp=1697718929313
 
 #EXTM3U url-tvg="http://grade-de-Portuguese.xml"
 ############## Portuguese ################# 
@@ -5806,348 +5893,6 @@ http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/13804.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Longa Caminhada de Billy Lynn (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGdBDL8l2ZMHqIUVlwTn7Exg6qJ.jpg" group-title="Portuguese",A Longa Caminhada de Billy Lynn (2016)
 http://xcui.vitvabc.xyz:8880/movie/DQ-NOVO500/ziqDdRRQ6c/13805.mkv
 
-#EXTM3U url-tvg="http://grade-de-Filmes TV FAX | Romance.xml"
-############## Filmes TV FAX | Romance ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes TV FAX | Romance" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="(Des)encontro Perfeito (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tzWSEM6yNll5x0kQHuoeizPbGq.jpg" group-title="Filmes TV FAX | Romance",(Des)encontro Perfeito (2015)
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/183572.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Corrente do Bem - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FnBPFZ9DJO20ZbvNq0VavgskHA.jpg" group-title="Filmes TV FAX | Romance",A Corrente do Bem - 2000
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/24668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TbFTREtgpTOMpxQ5ZJjiZIlVS1.jpg" group-title="Filmes TV FAX | Romance",A Barraca do Beijo - 2018
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/12124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 2 - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUafkafJiFKkXuzROaAY8N9gGq.jpg" group-title="Filmes TV FAX | Romance",A Barraca do Beijo 2 - 2020
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/175462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnxc5X7r2KQtkK3ZLuve4Qbvdz.jpg" group-title="Filmes TV FAX | Romance",A Barraca do Beijo 3 (2021)
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/175672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arte da Paixão - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kPtzxEyikQEE2wuA1klSsJdLV9.jpg" group-title="Filmes TV FAX | Romance",A Arte da Paixão - 2013
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/24563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Acompanhante - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OuCrhu0VktCJQbSeuXvWa1o5jw.jpg" group-title="Filmes TV FAX | Romance",A Acompanhante - 2015
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/24553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="9 ½ Semanas de Amor (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGD5GE2dmhZ13aZsj5oxCj5WKOL.jpg" group-title="Filmes TV FAX | Romance",9 ½ Semanas de Amor (1986)
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/259903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="72 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nToxNOxfRZONNTSoKHIVWWqRNTR.jpg" group-title="Filmes TV FAX | Romance",72 Horas (2010)
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/202367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Dias para o Natal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qkUG6UcUXwkrobQOtWfjcPQr76.jpg" group-title="Filmes TV FAX | Romance",100 Dias para o Natal (2021)
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/246412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lagoa Azul (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JsrBPjD3vbQLj6TGx5m4Qv4gcO.jpg" group-title="Filmes TV FAX | Romance",A Lagoa Azul (1980)
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/182682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Incrível História de Adaline (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gU84OUm9c4R44Zx8U1YPbCzKqIo.jpg" group-title="Filmes TV FAX | Romance",A Incrível História de Adaline (2015)
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/258075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fotografia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvYG779bmPFwZMqSQo4NmbFeqoG.jpg" group-title="Filmes TV FAX | Romance",A Fotografia (2020)
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/195489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do Chefe - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ZwrTG9U0mjxFTh1cBFTuKCo74.jpg" group-title="Filmes TV FAX | Romance",A Filha do Chefe - 2003
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/24764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escala - Amizade em Segundo Lugar - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kudgA66DV7q66eAyC9h6PVIiAPj.jpg" group-title="Filmes TV FAX | Romance",A Escala - Amizade em Segundo Lugar - 2017
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/24710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escalada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxmnYUawdlSUctpN1JJ9wvE47ZH.jpg" group-title="Filmes TV FAX | Romance",A Escalada (2017)
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/246206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnBl7huZPEPsxD2ZmqZqRBI3efr.jpg" group-title="Filmes TV FAX | Romance",A Dama e o Vagabundo - 2019
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/24686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Culpa é das Estrelas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEbSB6eCozhIZZORPAlNQLDDPDG.jpg" group-title="Filmes TV FAX | Romance",A Culpa é das Estrelas - 2014
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/24678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do Meu Melhor Amigo - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HDjhip7qzvEAb5A0AiJfcUBo22.jpg" group-title="Filmes TV FAX | Romance",A Filha do Meu Melhor Amigo - 2011
-http://apkwuv.xyz:80/movie/jefeari1/jefar321/24765.mp4
-
-#EXTM3U url-tvg="http://grade-de-Filmes TV FAX | Terror.xml"
-############## Filmes TV FAX | Terror ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes TV FAX | Terror" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite 2: Dias Sombrios - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3B9y2KRlBCveMKuQERbajuJzRK.jpg" group-title="Filmes TV FAX | Terror",30 Dias de Noite 2: Dias Sombrios - 2010
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/163008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos - 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw2bAlJ8zIH9hkkrD6M657tI33J.jpg" group-title="Filmes TV FAX | Terror",A Volta dos Mortos Vivos - 1985
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/154265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos 2 - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bn0bdRqRnxI7xcVkEPqh5frSblm.jpg" group-title="Filmes TV FAX | Terror",A Volta dos Mortos Vivos 2 - 1988
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/154266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos 3 - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxZLoZkXqBtygqPwYXjNIVn1uHM.jpg" group-title="Filmes TV FAX | Terror",A Volta dos Mortos Vivos 3 - 1993
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/154267.mp4
-
-#EXTM3U url-tvg="http://grade-de-Filmes: Lancamentos 2022.xml"
-############## Filmes: Lancamentos 2022 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Lancamentos 2022" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Verão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" group-title="Filmes: Lancamentos 2022",A Caminho do Verão (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/230568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Camisa Mais Pesada do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKKB3S6FUi1NYjfok1SOyYieSBs.jpg" group-title="Filmes: Lancamentos 2022",A Camisa Mais Pesada do Mundo (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bravura de Molly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg" group-title="Filmes: Lancamentos 2022",A Bravura de Molly (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="Filmes: Lancamentos 2022",A Bolha (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="9 Dias Acordado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0OT5BxI64iww8lytXDHXlLvALD.jpg" group-title="Filmes: Lancamentos 2022",9 Dias Acordado (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmUiGNvKTDwic273opiVednbQA8.jpg" group-title="Filmes: Lancamentos 2022",45 do Segundo Tempo (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg" group-title="Filmes: Lancamentos 2022",365 Dias Finais (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Comvocê: Volume 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiY4nI6HPAqnpGt5cPmszC6pTR7.jpg" group-title="Filmes: Lancamentos 2022",Comvocê: Volume 2 (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/249404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PartiuFama: Cancelado no Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg" group-title="Filmes: Lancamentos 2022",PartiuFama: Cancelado no Amor (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/258731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13: O Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ndpRWh8iOvckVtHptIsD4OtayN.jpg" group-title="Filmes: Lancamentos 2022",13: O Musical (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="14 Cartas de Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg" group-title="Filmes: Lancamentos 2022",14 Cartas de Amor (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/240301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 Medos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg" group-title="Filmes: Lancamentos 2022",100 Medos (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg" group-title="Filmes: Lancamentos 2022",365 Dias: Hoje (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg" group-title="Filmes: Lancamentos 2022",A Fera (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Noel 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg" group-title="Filmes: Lancamentos 2022",A Família Noel 2 (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg" group-title="Filmes: Lancamentos 2022",A Família Perfeita (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/231581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Estação da Alegria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg" group-title="Filmes: Lancamentos 2022",A Estação da Alegria (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/257935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espera de Liz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38ETcccsn0QjBlzo91bKgbFitS6.jpg" group-title="Filmes: Lancamentos 2022",A Espera de Liz (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escola do Bem e do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="Filmes: Lancamentos 2022",A Escola do Bem e do Mal (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="Filmes: Lancamentos 2022",A Era do Gelo: As Aventuras de Buck (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/201946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dupla Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg" group-title="Filmes: Lancamentos 2022",A Dupla Explosiva (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cozinheira Curiosa: Receita Assassina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43PkvE2c5YQTPMpeHXemiZJbD3Q.jpg" group-title="Filmes: Lancamentos 2022",A Cozinheira Curiosa: Receita Assassina (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Civil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4rzOXBNN09qvSCm2RZfJvmELnH.jpg" group-title="Filmes: Lancamentos 2022",A Civil (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/258718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa da Morte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg" group-title="Filmes: Lancamentos 2022",A Casa da Morte (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/269276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera do Mar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg" group-title="Filmes: Lancamentos 2022",A Fera do Mar (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/245485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg" group-title="Filmes: Lancamentos 2022",A Filha do Rei (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/195630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Bridge Hollow (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg" group-title="Filmes: Lancamentos 2022",A Maldição de Bridge Hollow (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plS7R81TAtIJxCIW7PIze5vmy5A.jpg" group-title="Filmes: Lancamentos 2022",A Maldição (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Madrasta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx3s9HORABYz3F3ZVPtomSANpYu.jpg" group-title="Filmes: Lancamentos 2022",A Madrasta (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Luz do Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg" group-title="Filmes: Lancamentos 2022",A Luz do Demônio (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/269277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Luta de uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg" group-title="Filmes: Lancamentos 2022",A Luta de uma Vida (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Liga de Monstros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeSfVBkewd75xMK2K9XH4BWxHRO.jpg" group-title="Filmes: Lancamentos 2022",A Liga de Monstros (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/203818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lista de Assassinatos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AXzOkcdlAgVqtA7wUyxm4dwxGq.jpg" group-title="Filmes: Lancamentos 2022",A Lista de Assassinatos (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Cavaleiro Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg" group-title="Filmes: Lancamentos 2022",A Lenda do Cavaleiro Negro (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Lantern’s Lane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJXC8tRAUKZeS7YoFK9UvEx8hb.jpg" group-title="Filmes: Lancamentos 2022",A Lenda de Lantern’s Lane (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda da Befana: O Início (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v98CBfkfBdgZFnMyX2z6tpbvg7.jpg" group-title="Filmes: Lancamentos 2022",A Lenda da Befana: O Início (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Lei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pep83sKsypHJZwwGeAUHxAmXiyQ.jpg" group-title="Filmes: Lancamentos 2022",A Lei (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg" group-title="Filmes: Lancamentos 2022",A Jaula (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ira de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg" group-title="Filmes: Lancamentos 2022",A Ira de Deus (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/241816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Invasão - Ocupação Alienígena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4PqKV5M9lIxrFreEIRmo3f5WEd.jpg" group-title="Filmes: Lancamentos 2022",A Invasão - Ocupação Alienígena (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/237616.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Desespero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt3sIBS3Fy39JewUWJi9itj66pw.jpg" group-title="Filmes: Lancamentos 2022",A Hora do Desespero (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/240022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gestora (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg" group-title="Filmes: Lancamentos 2022",A Gestora (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/252176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Garota da Foto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpSCTm48XkH6npoioVqaUjmcJfM.jpg" group-title="Filmes: Lancamentos 2022",A Garota da Foto (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/245448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg" group-title="Filmes: Lancamentos 2022",A Floresta Do Escalpe (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg" group-title="Filmes: Lancamentos 2022",A Princesa (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/244149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Primeira-Dama do Estado Islâmico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbg5ZE3zNmMcdyN1ILiJjYSIaf9.jpg" group-title="Filmes: Lancamentos 2022",A Primeira-Dama do Estado Islâmico (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Porta ao Lado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Afw9DcdGLNsMHal2GkvJviLjdm.jpg" group-title="Filmes: Lancamentos 2022",A Porta ao Lado (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Oitava Cláusula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tc8eMFAX2SDC1TRu987qFQy8Cl.jpg" group-title="Filmes: Lancamentos 2022",A Oitava Cláusula (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/229533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Novata (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZgdsGk8Oo7bwhVBtg43pM3hbM5.jpg" group-title="Filmes: Lancamentos 2022",A Novata (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg" group-title="Filmes: Lancamentos 2022",A Mulher Rei (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Máquina Infernal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="Filmes: Lancamentos 2022",A Máquina Infernal (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Menina que Acredita em Milagres (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg" group-title="Filmes: Lancamentos 2022",A Menina que Acredita em Milagres (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/199144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Matriarca (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg" group-title="Filmes: Lancamentos 2022",A Matriarca (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Matéria Noturna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg" group-title="Filmes: Lancamentos 2022",A Matéria Noturna (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/237617.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Megera Domada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/murrfrqgaetHayjBmA0V1SMFFyh.jpg" group-title="Filmes: Lancamentos 2022",A Megera Domada (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição: Despertar dos Mortos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3IgF9W8ZD6BBdz2bljQAHydFCe.jpg" group-title="Filmes: Lancamentos 2022",A Maldição: Despertar dos Mortos (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/267799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Quarto 203 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVMZU956t7UASJ564shWckwFboJ.jpg" group-title="Filmes: Lancamentos 2022",A Maldição do Quarto 203 (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/273712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Rose (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg" group-title="Filmes: Lancamentos 2022",A Maldição de Rose (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento Intergaláctico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm77tBJy28DA1DzP7qExKOPWsEL.jpg" group-title="Filmes: Lancamentos 2022",Acampamento Intergaláctico (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G7EaPTocE0ok3YNxo972woo9EP.jpg" group-title="Filmes: Lancamentos 2022",Abracadabra 2 (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="About Fate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fabZkaVHYJ67KbZx7oFoitauX34.jpg" group-title="Filmes: Lancamentos 2022",About Fate (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/266608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abercrombie & Fitch: Ascensão e Queda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Zi3lyy7hOw2VGeLJ0A813oSGis.jpg" group-title="Filmes: Lancamentos 2022",Abercrombie & Fitch: Ascensão e Queda (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/229408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abaixo o Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j96pQXRWtfaP6EfGZw600f8Ofxm.jpg" group-title="Filmes: Lancamentos 2022",Abaixo o Rei (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abandonada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRNZ6aNoYWJcpt5xsVzy36lFHL6.jpg" group-title="Filmes: Lancamentos 2022",Abandonada (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/269545.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Vítima (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoJ4G6JVJL8OEB37mRr4t1jn8l0.jpg" group-title="Filmes: Lancamentos 2022",A Última Vítima (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/249423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Última Coisa que Mary Viu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVFwfzPXfUcRI3mpb6rSX1LYtMj.jpg" group-title="Filmes: Lancamentos 2022",A Última Coisa que Mary Viu (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vila dos Suicídios (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ArHhi0AzjSFYrp1m0xZVjdhws5.jpg" group-title="Filmes: Lancamentos 2022",A Vila dos Suicídios (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida é Agora (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neKaddWZOH6elKQRjI49avgSGfY.jpg" group-title="Filmes: Lancamentos 2022",A Vida é Agora (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/238191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Verdadeira História do Roubo do Século (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrYVZ5b0p0BKg6vZ3scU4iyOwC3.jpg" group-title="Filmes: Lancamentos 2022",A Verdadeira História do Roubo do Século (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Viagem de Pedro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAeRtuhOYLCslGRkbfJlf1XaJ29.jpg" group-title="Filmes: Lancamentos 2022",A Viagem de Pedro (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ursa Polar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mJhqONvdgUMz8rOMO5NZdn8HQS.jpg" group-title="Filmes: Lancamentos 2022",A Ursa Polar (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/231582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg" group-title="Filmes: Lancamentos 2022",A Ressurreição de Jesus (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Queda (2022)" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThhjAv6Y9BKKrJyczESuQQwW7MSBJbWuWtUiN3e5MgEv5op-ZF" group-title="Filmes: Lancamentos 2022",A Queda (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/255049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Profissional (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0jGhri9AjtX3s9ldyyG6MGJfS0.jpg" group-title="Filmes: Lancamentos 2022",A Profissional (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/201922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg" group-title="Filmes: Lancamentos 2022",A Princesa da Yakuza (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Depois (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg" group-title="Filmes: Lancamentos 2022",A Vida Depois (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/201923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida de Togo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qkl34olpFVM9nAuYeveO6uKpaA.jpg" group-title="Filmes: Lancamentos 2022",A Vida de Togo (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Eletrizante de Louis Wain (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lihTkVk0yoS6wZTLBYqsAkKbpsz.jpg" group-title="Filmes: Lancamentos 2022",A Vida Eletrizante de Louis Wain (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/206072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Accidentally in Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wv3tn1a00EgyoOjeBwqfZQps5nr.jpg" group-title="Filmes: Lancamentos 2022",Accidentally in Love (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/267800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acelerando Para O Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JNDLdLXMoM9cKmMsKsMyN2JXYQ.jpg" group-title="Filmes: Lancamentos 2022",Acelerando Para O Amor (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/245459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amarração do Amor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yTpx1nE5PM8DhVxWVIq4ikKZc2.jpg" group-title="Filmes: Lancamentos 2022",Amarração do Amor (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/195491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ambulância: Um Dia de Crime (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg" group-title="Filmes: Lancamentos 2022",Ambulância: Um Dia de Crime (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/235841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ameaça A Bordo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg" group-title="Filmes: Lancamentos 2022",Ameaça A Bordo (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niRzmV9YdeJvNTQxeEXfSFPm1Sr.jpg" group-title="Filmes: Lancamentos 2022",Amado (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/258078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Além da Realidade (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9ib5aHPM4DV2V8tePev0F6HzkZ.jpg" group-title="Filmes: Lancamentos 2022",Além da Realidade (2016)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alvorada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVlNL8j0qr5ImAGuiEqviAJhFGd.jpg" group-title="Filmes: Lancamentos 2022",Alvorada (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alucinação Fatal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6e0eblwQS11J5ZBb5PNoigCKWGB.jpg" group-title="Filmes: Lancamentos 2022",Alucinação Fatal (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/180468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alienígenas: Contatos Imediatos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WAkQR9REgAyhG9E3DZGIgzYL4L.jpg" group-title="Filmes: Lancamentos 2022",Alienígenas: Contatos Imediatos (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/249402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alice no Mundo da Internet (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TFbrqLvB6eCXSbe208SUVzAyBd.jpg" group-title="Filmes: Lancamentos 2022",Alice no Mundo da Internet (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg" group-title="Filmes: Lancamentos 2022",Alice (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/261476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Algo Azul (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRUsslzgohSMwjJFBMZasUC0jlb.jpg" group-title="Filmes: Lancamentos 2022",Algo Azul (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/258077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alemão 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlVjsMZ5nAlIMUDZztTmxOT73Sw.jpg" group-title="Filmes: Lancamentos 2022",Alemão 2 (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/241900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aileen Wuornos: Mente Assassina (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JqtbHj6TecZzC6JEbgTLFrYCto.jpg" group-title="Filmes: Lancamentos 2022",Aileen Wuornos: Mente Assassina (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ainbo: A Guerreira da Amazônia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGkmm8YB1HzM3GaQ3FBv1NTwWxS.jpg" group-title="Filmes: Lancamentos 2022",Ainbo: A Guerreira da Amazônia (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/195564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ainda Estou Aqui (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5XkAX8k4UO3I1YIx1nW32F3EBk.jpg" group-title="Filmes: Lancamentos 2022",Ainda Estou Aqui (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agência Secreta de Controle de Magias (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/B3Xz48iyIh9ejffVtfCxwzTO7n.jpg" group-title="Filmes: Lancamentos 2022",Agência Secreta de Controle de Magias (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/153987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agente Oculto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg" group-title="Filmes: Lancamentos 2022",Agente Oculto (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agente das Sombras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w12S7LKkabx7pddQzsR3PY30m.jpg" group-title="Filmes: Lancamentos 2022",Agente das Sombras (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/222488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After: Depois do Desencontro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZwC4FW5rFvYa0gzZJIHQwLSgbz.jpg" group-title="Filmes: Lancamentos 2022",After: Depois do Desencontro (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/204372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After: Depois da Promessa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lflvA9oQ3sTfiVttvjSbf6lS9X5.jpg" group-title="Filmes: Lancamentos 2022",After: Depois da Promessa (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adão Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg" group-title="Filmes: Lancamentos 2022",Adão Negro (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Máxima (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPxslVHIse0DNIbUHpHbFAnJ9Gd.jpg" group-title="Filmes: Lancamentos 2022",Adrenalina Máxima (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/255940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Air Force One: A Nova Fortaleza Voadora (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Xn244COn8pmSAQC1BmdwCK20tX.jpg" group-title="Filmes: Lancamentos 2022",Air Force One: A Nova Fortaleza Voadora (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aníkúlápó (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb30hkUpBm23stnVgDJGYGsC0R0.jpg" group-title="Filmes: Lancamentos 2022",Aníkúlápó (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ANNE: O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch6G66SUe80YWEvTFe6mAKAwmdt.jpg" group-title="Filmes: Lancamentos 2022",ANNE: O Filme (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/202681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anjo da Minha Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9FINZQYODQRKKHagLdzsLdS7go.jpg" group-title="Filmes: Lancamentos 2022",Anjo da Minha Vida (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Animais Fantásticos Uma História Natural (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNxONX7C2sIpyj9bRfprdeFgKCs.jpg" group-title="Filmes: Lancamentos 2022",Animais Fantásticos Uma História Natural (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/220478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Andre Matos - Maestro do Rock (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCVPgES70N2Vl8iMNeWm5EQ2Pt5.jpg" group-title="Filmes: Lancamentos 2022",Andre Matos - Maestro do Rock (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/240303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor² (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WaHDLUB8p03Cd6pYGnW4jZDYVX.jpg" group-title="Filmes: Lancamentos 2022",Amor² (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/257486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Proibido (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJEqEuzv2aj455iHoc6zvTYspez.jpg" group-title="Filmes: Lancamentos 2022",Amor Proibido (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor em Verona (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRJIFaCRkZgdwCWCBYchvSx6N6.jpg" group-title="Filmes: Lancamentos 2022",Amor em Verona (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/254806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Com Fetiche (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQaZZ0CFfCmBv5H5Mk11agRZzl2.jpg" group-title="Filmes: Lancamentos 2022",Amor Com Fetiche (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor Artificial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soTOyI7d5vAWSNKv4XonEo0rn5p.jpg" group-title="Filmes: Lancamentos 2022",Amor Artificial (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/203447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor  Gelato (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qXCNa3w1rOZ4w7VXivVxXK4s0l.jpg" group-title="Filmes: Lancamentos 2022",Amor  Gelato (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/242374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor a Toda Prova (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhSnhxf4OjYeyyvxFPPPpeae7LU.jpg" group-title="Filmes: Lancamentos 2022",Amor a Toda Prova (2002)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/246984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor de Redenção (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5qpPwlaAbOH2teRowl9ThzEF2r.jpg" group-title="Filmes: Lancamentos 2022",Amor de Redenção (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/257938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amsterdam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg" group-title="Filmes: Lancamentos 2022",Amsterdam (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Fotos Vazadas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuBXTItPyXQC9FIKwiT2ZV4476a.jpg" group-title="Filmes: Lancamentos 2022",As Fotos Vazadas (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/198452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Faces da Verdade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPrySz5s1lqmw6DAnNWUMr5142Q.jpg" group-title="Filmes: Lancamentos 2022",As Faces da Verdade (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/272449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Confissões de Félix Krull: Cavalheiro de Indústria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inIWJnx0vuJCiXBt4DxnbgSBwQ.jpg" group-title="Filmes: Lancamentos 2022",As Confissões de Félix Krull: Cavalheiro de Indústria (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/259116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tadeo e a Tábua de Esmeralda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KADuZT3KwmCYIrmarPuGyGTriw.jpg" group-title="Filmes: Lancamentos 2022",As Aventuras de Tadeo e a Tábua de Esmeralda (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Gulliver (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEOsByOxmcY5VexXTwqLs9fygYA.jpg" group-title="Filmes: Lancamentos 2022",As Aventuras de Gulliver (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/240305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Agentes 355 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg" group-title="Filmes: Lancamentos 2022",As Agentes 355 (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/216811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arte Negra - Na Ausência da Luz (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCynX6gndPnxZ9owCv88j4qQ8Vd.jpg" group-title="Filmes: Lancamentos 2022",Arte Negra - Na Ausência da Luz (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/202890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arremessando Alto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg" group-title="Filmes: Lancamentos 2022",Arremessando Alto (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/239758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Armadilha Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPzZu5hmNoS3X00ewINA9zQlfGp.jpg" group-title="Filmes: Lancamentos 2022",Armadilha Explosiva (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/252178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ardente Paciência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plSUrCv17GRqFph7qSKfhT0jwcH.jpg" group-title="Filmes: Lancamentos 2022",Ardente Paciência (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/265200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aranhas de Papel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31dpLgUEsF4F4UgH7D3iAqYxteU.jpg" group-title="Filmes: Lancamentos 2022",Aranhas de Papel (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apresentando, Nate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGDKEbrblKMXrHOgPO0w7tDsbzV.jpg" group-title="Filmes: Lancamentos 2022",Apresentando, Nate (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apollo 10 e Meio: Aventura na Era Espacial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OkOOZN5aGj7LjbRdHazGPfGejJ.jpg" group-title="Filmes: Lancamentos 2022",Apollo 10 e Meio: Aventura na Era Espacial (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/218997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ao Leste das Montanhas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Oj2hUfkpiq4qLeQE6k4V2Xv4Is.jpg" group-title="Filmes: Lancamentos 2022",Ao Leste das Montanhas (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ao 3 Dia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLmr2q3ZcQ8pqSUxUkekcRbpuAz.jpg" group-title="Filmes: Lancamentos 2022",Ao 3 Dia (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Argentina, 1985 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="Filmes: Lancamentos 2022",Argentina, 1985 (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/260600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Garotas de Cristal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAmpIPhtvsgWVoMG1ta0DS1tftd.jpg" group-title="Filmes: Lancamentos 2022",As Garotas de Cristal (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/221109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assento Quente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggtT84i2E1URJCyAkaoPxl6Ttke.jpg" group-title="Filmes: Lancamentos 2022",Assento Quente (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/252179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassino Sem Rastro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg" group-title="Filmes: Lancamentos 2022",Assassino Sem Rastro (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/244064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Asking For It (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ro3yvVbzT2zI2KrHWBA81a2x5iR.jpg" group-title="Filmes: Lancamentos 2022",Asking For It (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/250376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Verdades (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5N0BjQGUDTXIQixVBPnNZG618k.jpg" group-title="Filmes: Lancamentos 2022",As Verdades (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/251250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Trambiqueiras (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldo9MFJ2bmA5qKd4sbjUUzJUUa8.jpg" group-title="Filmes: Lancamentos 2022",As Trambiqueiras (2021)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/216160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Nadadoras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0s6z3GTRMyBs7ZBh8mKMP6QZ6V.jpg" group-title="Filmes: Lancamentos 2022",As Nadadoras (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/262962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Linhas Tortas de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7xCXKYkuFxx6UglVbSFaBmrwcO.jpg" group-title="Filmes: Lancamentos 2022",As Linhas Tortas de Deus (2022)
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/266743.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES NECROPSIA TV FAX.xml"
 ############## FILMES NECROPSIA TV FAX ################# 
@@ -6518,327 +6263,9 @@ http://168.205.87.198:8555/live/1052/123456/143.m3u8
 http://51.83.238.223:16274/
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO HD" tvg-logo="https://media0.giphy.com/media/2y98KScHKeaQM/giphy.gif" group-title="FILMES | INFANTIL CINEMA",NARUTO HD
 http://speedapp.uniredes.com.br/amanda123/amanda123/9
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO"tvg-logo="https://static.wixstatic.com/media/ddaa3e_573900c3690c4a9ba68a4a671f9c11a4.gif" group-title="FILMES | INFANTIL CINEMA",GLOOBINHO
-http://15.235.10.31:14361
-#EXTINF:-1 tvg-id="" tvg-name="TV DESTAK"tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862"group-title="FILMES | INFANTIL CINEMA",TV DESTAK
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
 
-#EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
-############## 24 Horas | Desenhos ################# 
-#EXTINF:-1 tvg-id=" iddocanalde24 Horas | Desenhos" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Guarda do Leão" tvg-logo="https://i.imgur.com/f9HyjfJ.png" group-title="24 Horas | Desenhos",[24H] A Guarda do Leão
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83684
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Mansão Foster" tvg-logo="https://i.imgur.com/Sa5rAwp.png" group-title="24 Horas | Desenhos",[24H] A Mansão Foster
-http://apkwuv.xyz:80/cristina2021/graniptv2005/544
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Roda do Ônibus" tvg-logo="https://i.imgur.com/GneRQPV.jpg" group-title="24 Horas | Desenhos",[24H] A Roda do Ônibus
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62967
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Aladdin" tvg-logo="https://i.imgur.com/KbTJCL3.png" group-title="24 Horas | Desenhos",[24H] Aladdin
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83674
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Angry Birds" tvg-logo="https://i.imgur.com/3anMkyr.png" group-title="24 Horas | Desenhos",[24H] Angry Birds
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83702
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Apenas um Show" tvg-logo="https://i.imgur.com/wlDLbCK.png" group-title="24 Horas | Desenhos",[24H] Apenas um Show
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62978
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 01" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="24 Horas | Desenhos",[24H] As Aventuras do Batman 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143688
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 02" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="24 Horas | Desenhos",[24H] As Aventuras do Batman 02
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143798
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="https://i.imgur.com/o8VZkjv.jpg" group-title="24 Horas | Desenhos",[24H] As Meninas Superpoderosas
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83675
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="[24H] Baby Looney Tunes" tvg-logo="https://i.imgur.com/64rTYua.png" group-title="24 Horas | Desenhos",[24H] Baby Looney Tunes
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83240
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 - 01" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="24 Horas | Desenhos",[24H] BEN 10 - 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/140811
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 2" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="24 Horas | Desenhos",[24H] BEN 10 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62972
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bita e os Animais" tvg-logo="https://i.imgur.com/mrdLM42.jpg" group-title="24 Horas | Desenhos",[24H] Bita e os Animais
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83753
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja 01" tvg-logo="https://i.imgur.com/5LiIYws.jpg" group-title="24 Horas | Desenhos",[24H] Bob Esponja 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/140950
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 1" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="24 Horas | Desenhos",[24H] Bob o Trem 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62983
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 2" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="24 Horas | Desenhos",[24H] Bob o Trem 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147829
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 1" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="24 Horas | Desenhos",[24H] Bob Zoom 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147830
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 2" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="24 Horas | Desenhos",[24H] Bob Zoom 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62965
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 1" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="24 Horas | Desenhos",[24H] Booba 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147831
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 2" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="24 Horas | Desenhos",[24H] Booba 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62952
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caillou" tvg-logo="https://i.imgur.com/sA1jMNy.jpg" group-title="24 Horas | Desenhos",[24H] Caillou
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62956
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão A Turma da Monica" tvg-logo="https://i.imgur.com/hOk9met.png" group-title="24 Horas | Desenhos",[24H] Cascão A Turma da Monica
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62964
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83719
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152888
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 3
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152889
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 4" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 4
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152890
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 5" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 5
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152891
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 6" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 6
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152892
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão 1" tvg-logo="https://i.imgur.com/Zfq2vFX.png" group-title="24 Horas | Desenhos",[24H] Caverna do Dragão 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62995
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves Desenho" tvg-logo="https://i.imgur.com/kT1G0Oe.png" group-title="24 Horas | Desenhos",[24H] Chaves Desenho
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83683
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Clarêncio, O Otimista" tvg-logo="https://i.imgur.com/LG8krTe.png" group-title="24 Horas | Desenhos",[24H] Clarêncio, O Otimista
-http://apkwuv.xyz:80/cristina2021/graniptv2005/156574
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 1 " tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="24 Horas | Desenhos",[24H] Coragem o Cão Covarde 1 
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83679
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 2" tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="24 Horas | Desenhos",[24H] Coragem o Cão Covarde 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62987
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83759
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1968" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 1968
-http://apkwuv.xyz:80/cristina2021/graniptv2005/148014
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 2" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/148277
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 3" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 3
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62974
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 1" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83687
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 15º Aniversário" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 15º Aniversário
-http://apkwuv.xyz:80/cristina2021/graniptv2005/153992
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 2" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/153989
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Adventure Zero Two" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Adventure Zero Two
-http://apkwuv.xyz:80/cristina2021/graniptv2005/153991
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Frontier" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Frontier
-http://apkwuv.xyz:80/cristina2021/graniptv2005/153993
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Savers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Savers
-http://apkwuv.xyz:80/cristina2021/graniptv2005/153994
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Tamers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Tamers
-http://apkwuv.xyz:80/cristina2021/graniptv2005/153995
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 01" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="24 Horas | Desenhos",[24H] Dora Aventureira 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/140789
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 2" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="24 Horas | Desenhos",[24H] Dora Aventureira 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/89548
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 1" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="24 Horas | Desenhos",[24H] Doug 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83689
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 2" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="24 Horas | Desenhos",[24H] Doug 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/153996
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 1" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83690
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 2" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/153999
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Heroes" tvg-logo="https://i.imgur.com/xd4GpvA.jpg" group-title="24 Horas | Desenhos",[24H] Dragon Ball Heroes
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152661
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 1" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83692
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 2" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152662
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 3" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 3
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152663
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 1" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Z 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83691
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 2" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Z 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152670
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball [Filmes 1]" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball [Filmes 1]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152664
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Du, Dudu e Edu" tvg-logo="https://i.imgur.com/bwmG2Oz.png" group-title="24 Horas | Desenhos",[24H] Du, Dudu e Edu
-http://apkwuv.xyz:80/cristina2021/graniptv2005/156745
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Em Busca do Vale Encantado" tvg-logo="https://i.imgur.com/xQBr9hE.png" group-title="24 Horas | Desenhos",[24H] Em Busca do Vale Encantado
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62985
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/ysPcVsC.png" group-title="24 Horas | Desenhos",[24H] Futurama
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162900
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://i.imgur.com/uGVl1sW.png" group-title="24 Horas | Desenhos",[24H] Galinha Pintadinha
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83695
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galo e a Pata" tvg-logo="https://i.imgur.com/Gtah0o8.png" group-title="24 Horas | Desenhos",[24H] Galo e a Pata
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62968
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 01" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143799
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 02" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 02
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143805
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 03" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 03
-http://apkwuv.xyz:80/cristina2021/graniptv2005/70685
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 1" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83697
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/154001
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2002" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2002
-http://apkwuv.xyz:80/cristina2021/graniptv2005/154002
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 3" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 3
-http://apkwuv.xyz:80/cristina2021/graniptv2005/156043
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 1" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83700
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 2" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/154003
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 01" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83701
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 02" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 02
-http://apkwuv.xyz:80/cristina2021/graniptv2005/142121
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 1994" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 1994
-http://apkwuv.xyz:80/cristina2021/graniptv2005/142122
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 1" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62994
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 2" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/155389
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jacarelvis" tvg-logo="https://i.imgur.com/VPTO5JH.png" group-title="24 Horas | Desenhos",[24H] Jacarelvis
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62984
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraya" tvg-logo="https://i.imgur.com/ui3ypUK.png" group-title="24 Horas | Desenhos",[24H] Jiraya
-http://apkwuv.xyz:80/cristina2021/graniptv2005/122179
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="https://i.imgur.com/vJlINsZ.png" group-title="24 Horas | Desenhos",[24H] Johnny Bravo
-http://apkwuv.xyz:80/cristina2021/graniptv2005/156744
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Test" tvg-logo="https://i.imgur.com/hlolZdh.png" group-title="24 Horas | Desenhos",[24H] Johnny Test
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62996
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.imgur.com/OTQMEmK.png" group-title="24 Horas | Desenhos",[24H] Kenan e Kel
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83707
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Larva Chiclete" tvg-logo="https://i.imgur.com/GT79fnX.png" group-title="24 Horas | Desenhos",[24H] Larva Chiclete
-http://apkwuv.xyz:80/cristina2021/graniptv2005/63003
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Leo O-Caminhão" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxlby5jYW1pbmhhby5hZHZlbnR1cmVfc2NyZWVuXzFfMTUwNDkwODI1OV8wNzY/screen-1.jpg?fakeurl=1&type=.jpg" group-title="24 Horas | Desenhos",[24H] Leo O-Caminhão
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62981
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="https://i.imgur.com/8C1hkQr.png" group-title="24 Horas | Desenhos",[24H] Liga da Justica
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83754
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://http2.mlstatic.com/pacote-vetores-looney-tunes-para-corel-draw-D_NQ_NP_726158-MLB31610362629_072019-F.jpg" group-title="24 Horas | Desenhos",[24H] Looney Tunes
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62988
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83708
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 2" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62997
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/QbjuwXD.png" group-title="24 Horas | Desenhos",[24H] Masha e o Urso
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62993
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Medabots" tvg-logo="https://i.imgur.com/cBCf4na.png" group-title="24 Horas | Desenhos",[24H] Medabots
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83709
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MegaMan" tvg-logo="https://i.imgur.com/YxasqfX.jpg" group-title="24 Horas | Desenhos",[24H] MegaMan
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83710
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147946
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 2" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/63005
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="24 Horas | Desenhos",[24H] Naruto
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83713
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://i.imgur.com/LKCd5a3.jpg" group-title="24 Horas | Desenhos",[24H] O Clube das Winx
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143685
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Oggy e as Baratas" tvg-logo="https://i.imgur.com/BJNzeBK.png" group-title="24 Horas | Desenhos",[24H] Oggy e as Baratas
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62955
-#EXTINF:-1 tvg-id="" tvg-name="[24H] One Piece East Blue" tvg-logo="https://i.imgur.com/S33PChc.png" group-title="24 Horas | Desenhos",[24H] One Piece East Blue
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162898
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://i.imgur.com/RGNAPZt.png" group-title="24 Horas | Desenhos",[24H] Os Flinstones
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83720
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Jetson" tvg-logo="https://i.imgur.com/1PXyGFx.png" group-title="24 Horas | Desenhos",[24H] Os Jetson
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162897
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 01" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143800
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 02
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143801
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 03" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 03
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143802
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 04" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 04
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143803
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 05" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 05
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143804
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Patos" tvg-logo="https://i.imgur.com/fekua66.png" group-title="24 Horas | Desenhos",[24H] Os Patos
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62992
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83721
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 02
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147155
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 03
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147156
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 04
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147170
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Trapalhões " tvg-logo="https://i.imgur.com/FMRw6QK.jpg" group-title="24 Horas | Séries",[24H] Os Trapalhões 
-http://apkwuv.xyz:80/cristina2021/graniptv2005/263
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 1" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="24 Horas | Desenhos",[24H] Pantera Cor de Rosa 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147949
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 2" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="24 Horas | Desenhos",[24H] Pantera Cor de Rosa 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62990
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 01" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62979
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 02" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 02
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147947
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 03" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="24 Horas | Desenhos",[24H] Patati e Patata 03
-http://apkwuv.xyz:80/cristina2021/graniptv2005/264
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pato Donald" tvg-logo="https://i.imgur.com/AN1JJIE.png" group-title="24 Horas | Desenhos",[24H] Pato Donald
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62991
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 2" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/169538
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 3" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 3
-http://apkwuv.xyz:80/cristina2021/graniptv2005/169536
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 4" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 4
-http://apkwuv.xyz:80/cristina2021/graniptv2005/169535
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 5" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 5
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83733
-#EXTINF:-1 tvg-id="Campeonato Carioca 1" tvg-name="[24H] Patrulha Canina 6" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="24 Horas | Desenhos",[24H] Patrulha Canina 6
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83723
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://i.imgur.com/FNYiVSK.png" group-title="24 Horas | Desenhos",[24H] Peppa Pig
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83724
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pequena Sereia" tvg-logo="https://i.imgur.com/NrXr7QS.png" group-title="24 Horas | Desenhos",[24H] Pequena Sereia
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147948
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 01" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/146926
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 02" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 02
-http://apkwuv.xyz:80/cristina2021/graniptv2005/146927
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83727
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 02" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 02
-http://apkwuv.xyz:80/cristina2021/graniptv2005/148200
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 03" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 03
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62973
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://i.imgur.com/b3SSmrG.png" group-title="24 Horas | Desenhos",[24H] Pink-e-Cerebro
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83728
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 1" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147945
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 2" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62963
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://i.imgur.com/CNpsqgv.png" group-title="24 Horas | Desenhos",[24H] PJ Masks
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62958
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="https://i.imgur.com/RaBjq2T.png" group-title="24 Horas | Desenhos",[24H] Pocoyo
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83722
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 1" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83729
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 2" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147950
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye
-http://apkwuv.xyz:80/cristina2021/graniptv2005/141023
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye 75th" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye 75th
-http://apkwuv.xyz:80/cristina2021/graniptv2005/154892
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Porta dos Fundos 01" tvg-logo="https://i.imgur.com/mKAB0K3.png" group-title="24 Horas | Premium",[24H] Porta dos Fundos 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/140705
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Porta dos Fundos 02" tvg-logo="https://i.imgur.com/mKAB0K3.png" group-title="24 Horas | Premium",[24H] Porta dos Fundos 02
-http://apkwuv.xyz:80/cristina2021/graniptv2005/140813
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Princesa e o Dragão" tvg-logo="https://i.imgur.com/L3Up02X.png" group-title="24 Horas | Desenhos",[24H] Princesa e o Dragão
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62982
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Rambo" tvg-logo="https://i.imgur.com/aTbGjwz.png" group-title="24 Horas | Desenhos",[24H] Rambo
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83731
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Reino Gelado" tvg-logo="https://i.imgur.com/vtkRGJv.png" group-title="24 Horas | Desenhos",[24H] Reino Gelado
-http://apkwuv.xyz:80/cristina2021/graniptv2005/63001
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sakura Card" tvg-logo="https://i.imgur.com/vS0YXXU.png" group-title="24 Horas | Desenhos",[24H] Sakura Card
-http://apkwuv.xyz:80/cristina2021/graniptv2005/280
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai Warriors" tvg-logo="https://i.imgur.com/FdkPiIn.png" group-title="24 Horas | Desenhos",[24H] Samurai Warriors
-http://apkwuv.xyz:80/cristina2021/graniptv2005/269
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 1" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 1
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147951
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 2" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 2
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147991
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 01" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 01
-http://apkwuv.xyz:80/cristina2021/graniptv2005/143686
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 02" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 02
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62976
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83732
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo - 13 Fantasmas 1985" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo - 13 Fantasmas 1985
-http://apkwuv.xyz:80/cristina2021/graniptv2005/156747
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shaman King" tvg-logo="https://i.imgur.com/qvsjN2t.png" group-title="24 Horas | Desenhos",[24H] Shaman King
-http://apkwuv.xyz:80/cristina2021/graniptv2005/270
-#EXTINF:-1 tvg-id="" tvg-name="[24H] She-ra" tvg-logo="https://i.imgur.com/HzBI3gi.png" group-title="24 Horas | Desenhos",[24H] She-ra
-http://apkwuv.xyz:80/cristina2021/graniptv2005/63002
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shinzo" tvg-logo="https://i.imgur.com/taKfZeM.png" group-title="24 Horas | Desenhos",[24H] Shinzo
-http://apkwuv.xyz:80/cristina2021/graniptv2005/281
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://i.imgur.com/YCGbUDc.png" group-title="24 Horas | Desenhos",[24H] Show da Luna
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62957
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shurato" tvg-logo="https://i.imgur.com/OEiRoW3.png" group-title="24 Horas | Desenhos",[24H] Shurato
-http://apkwuv.xyz:80/cristina2021/graniptv2005/271
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Simon" tvg-logo="https://i.imgur.com/ZLDdJmH.png" group-title="24 Horas | Desenhos",[24H] Simon
-http://apkwuv.xyz:80/cristina2021/graniptv2005/62980
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sitio do Pica-Pau Amarelo" tvg-logo="https://i.imgur.com/QoGJNVu.jpg" group-title="24 Horas | Desenhos",[24H] Sitio do Pica-Pau Amarelo
-http://apkwuv.xyz:80/cristina2021/graniptv2005/63000
+
 
 #EXTM3U url-tvg="http://grade-de-Infantil Car City.xml"
 ############## Infantil Car City ################# 
@@ -7462,156 +6889,7 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779732.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779733.mp4
 #EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7xLz6sNiyfJawWhcoTXmJ155Ac.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E10
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0LvYwVcJYOq7YmABqXs41HWBEr.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGsvL1VEcpSirQK9fHmv1IsjUG2.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tge5yBQKktKmsvtqoXWBYndAwxW.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PUXbuhmp39jN5f7miSOWGIBq76.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyAxCf27BFCL3eNaLPiyh44kVMv.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IpMD0EYgQ6nS23tTmoAP2lLAz0.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Raj4r9uG4noZNTb7hYffkmut8.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhaJ4kktv8zFK0D1tov78B2Xxa9.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AjMlbxXVnKyVvPzN2N7kJcZ7Tc.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1twJ2VTnvyUI7IbEZ0nG10YPb9.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/vrvkh02as8iI2dhE4eKmAPkHHch.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/251263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/of5ns2RAOy5S1k5qj9MOPoIHgTe.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chV9Rb5WzmtrqIjucE3e86y369G.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4UjXtw1me8MTgsxGQId8KeFhMG.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cETiblDO5tCGLewlORgiunwquYF.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzCXXtwZ1xDVEdLgmVNjPy3fn3p.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCyfPFqAUdfbr4DX9z61buX3vyr.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIzPtm8KBfhxXN1vVf1D01xHIFX.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWnmjK1vjsU1Yj62b9DQj32iFuj.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83bzir5ERI6OdEid0N76OujTfCn.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQfEDvgLihyHKbNKciWl5f5NFmY.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTIHjXfQoxoBRXrRXlmbk8RuOro.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYV00tmrW8cUn1aaIxVbYPaQAJ1.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdKvAGsHvQXzYZY1lm2NpQtlHEc.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZMNDsir1Y9zgKLQSxoYVU9lIlf.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPOzyS0GJtS0ZgEUV8mWVvSe8AK.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex8JOdHQt219ylaoSW2ytePi1bk.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saElz1bn35n7cwjHekAwZyEwXuy.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YpYQYdYXWGPBnSEOO4UQsSioj7.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E12
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E12
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E13
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E14
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E15
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E16
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E17
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E18
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E19
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E20
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E21
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E22
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E23
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E24
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E25
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E26
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avsFNcBxrzFyFzMpYcSFhOvZaRM.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DuSsBaMV4fVO3m5xTliiAefgtC.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyBgiKzJkDlEfoegD98Z4oE9eZV.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpvgq8kLQRsVPm8rPomU1kbrcHH.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKgDxwm2heXRHoDTtR090T97we3.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7rrhWDr9tMZzHBYbaKOfdnGtzv.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7I9aqFvRMsgQwc5fGkrNRxyv1t7.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcy5CbYBqA8ne32MU6weuBKMEQK.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEndIvxWWCjULd7VJUSQton7LQq.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8NLmdYKa2IfxdVgOpUBFs73sbv.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhrQXxCqD7XBmBsQbmE32TdsmfK.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8BVHdxY7K7G98ZF12gLZOSSRZ1.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E12
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3ccDdvVkMnw1AKttJmWUvriyec.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E13
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30Z4SknZQlWOl5IQ6XrQWWELMbi.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E14
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRP7FElBy4Dgt0ykCRm8yf5kU0H.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E15
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olf1zuL2Rlqb9WV0vCz0ZeStJut.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E16
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i94Pc8JJDXVV36zeTYFen9D2SQk.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E17
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGhJ6QYdGF5UM5nM1jbkMBvYRSb.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E18
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2IxJxxb5utHkOEF5qBmUhiEyVZ.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E19
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvf5nQBiP6QfxUgE2rZ6ykRICFd.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E20
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276847.mp4
+
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | KIDS.xml"
 ############## SÉRIES | KIDS ################# 
@@ -7763,2112 +7041,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777989.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777990.mp4
 #EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJGOah7NjTSv7JNWhAYkgqVIwwm.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E12
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777991.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Animação.xml"
-############## SÉRIES | Animação ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Animação" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNnz0C6LozY58XTTr1HnO2TAl8h.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Iv5itxkEofDjC86nN8lAhDm86.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siQcivhn37nn72hiZcj6GFQne4s.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppINOi8l23qMLr8CBZQFGWbyBu8.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dClfj9L6vXw2TJvIFNcCW4wM7Y.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgQwauFgigPsdzduJfyFhKczLPJ.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTvXGV24uaw9tQtcok91MAenT7P.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXGk30GW24il2RrY1EtfRnIJo7g.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3qL06JgluEySLzKYTbd5rtQfsb.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doQZdyAXyKIcVkGwyERMPQEsnEs.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4hyPFT803DPdnek4IIzg4s9v6Y.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DEvILwCs8oH3SKJ5t2E6Nk0bdP.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flHvwKRMoAk6jyXfW3AR8tvjSql.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmDQi9nhZN9Q1NtGuDvb1Nf0azC.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skT0DLdieItq3JdRxz0Zai3K5JG.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lF7MAF3gBIEBDHTcWFzvkJMRm4j.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBkMaFv1H7ZaokyKKCGTZshLPs4.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebDHQ6QFsyh4HUJJKEl7vzucj98.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQU30uVR9yOQyJMMueqUjVxuaCc.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7rQtGUwkBIrRXDYkfKmtTpZjKJ.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HvuF3lQGsT5jFi9c68cyg8qPuU.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSxH68iXZVWTPR3MPrnGlWkutNN.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E12
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9buzaLtXXuNB5U1herGjxxm2qH.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E13
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV9sSEuAcD5TR0eqMBNS6ESlufG.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E14
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRHqCilRfVUnjXBFHUXyS7iytEM.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E15
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r0QcQzgAQbauX4k6u06WTn0YzA.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E16
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E12
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E13
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E12
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E13
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhl7Zu2TFq0OxAS90m76VFAmGkf.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlCfp7jmn0brCMzvx0k7lDDTpsy.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sopJLtbgM8UatsqifRytff1V5xO.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QCT7FtMsuic2bzSCa7X973hSEY.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svZxppk9PaHh2OIPGnioCnDHbLb.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i12iqyT62iA7eCKVsU60ElR0CJc.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjjwNTsnrz45VzNHKlW0OEJ2mlU.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/el8uG6mL9hrW8bzA0Hlr1vMrRUF.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t90RQ4PhH7lhZHy6S0tW3Op8Rky.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lpzwxwVV7OlSuT393yp7aUTIRH.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cC4K7l31cBsiiFgMjVvGDbhGTF8.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKkeTSvJYtLj9p7vZn1ZXMpfs8P.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E12
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxLtRYMh7WiXoHPZeWUWiFHHvEI.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E13
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285880.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | GloboPlay.xml"
-############## SÉRIES | GloboPlay ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | GloboPlay" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WMhfX56ZW0bkTF4DsGn007MF6I.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt5kdqXMKpKzmoPVp42t4ouOYgu.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmFdwfO0Yc97rHhrKUQK9Htf4ey.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM6Vy42TGeb3144SWC7qeib8MPF.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287332.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZOvSlIjLR470DaBLk28mDdy3hY.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287333.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8ufHEcGGugumrj3DjilpKp9Ahx.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287334.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwAjIBUExppNFZTnpq376F7FgPb.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287335.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbCkdmiLzfQ55WENMHGL9uQERvl.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95GHCif2VYnMlY7Cedfw8RusdCX.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287337.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E12
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E13
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E14
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E15
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E16
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E17
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E18
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287346.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E19
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E20
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E21
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287349.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E22
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287350.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E23
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287351.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E24
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287352.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E25
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E26
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E27
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E28
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E29
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287357.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E30
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287358.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283943.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Telenovela.xml"
-############## SÉRIES | Telenovela ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Telenovela" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E12
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E13
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E14
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E15
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E16
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E17
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E18
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E19
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E20
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E21
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E22
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E23
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E24
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E25
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E26
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E27
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E28
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E29
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E30
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E31
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E32
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E33
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E34
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E35
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E36
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E37
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E38
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E39
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E40
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E41
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E42
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E43
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E44
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E45
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E46
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E47
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E48
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E49
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E50
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E51
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E52
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E53
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E54
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E55
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E56
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E57
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E58
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E59
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E60
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E61
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E62
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E63
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E64
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E65
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E66
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E67
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E68
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E69
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E70
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E71
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E72
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E73
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E74
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E75
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E76
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E77
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E78
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E79
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E80
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E81
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E82
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E83
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E84
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E85
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E86
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E87
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E88
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E89
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E90
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E91
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E92
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E93
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E94
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E95
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E96
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E97
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E98
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E99
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E100
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E101
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E102
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E103
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E104
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E105
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E106
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E107
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E108
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E109
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E110
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E111
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E112
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E113
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E114
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E115
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E116
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E117
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E118
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E119
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E120
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E121
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E122
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E123
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E124
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E125
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E126
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E127
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E128
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E129
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E130" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E130
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E131" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E131
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E132" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E132
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E133" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E133
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E134" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E134
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E135" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E135
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E136" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E136
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E137" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E137
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E138" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E138
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E139" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E139
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E140" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E140
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E141" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E141
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E142" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E142
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E143" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E143
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E144" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E144
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E145" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E145
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E146" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E146
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E147" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E147
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E148" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E148
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E149" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E149
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E150" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E150
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E151" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E151
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E152" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E152
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E153" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E153
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E154" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E154
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E155" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E155
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E156" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E156
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E157" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E157
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E158" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E158
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E159" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E159
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285108.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Ação.xml"
-############## SÉRIES | Ação ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Ação" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nQMJ5o9X3gSTXLtF6azUtXMQ3U.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiL0xbw92OaJf8ZOBVkei9rDW8S.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vezn6ZXas1IcxeG9wCcoHkTZy8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idwhICSRe5a3K8mykKZV3aKeQpg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/du4R9oWAHLfQXfGFebfI2ZKUkZd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5Nn9AZJcypY5rtu17tcm6qM787.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ki7xqZTkdC2zlzzomq97ur46xBn.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAJhjll19qVLP9uTejZ4lUPCX8H.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2zfehFrjJjXpp36W4njJ7GhBOT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEnwTMaERa7BgUlr3ZoDUp0O3re.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMWYMCkGdE3aUTg0UAYkLwv5V27.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLW719NfwlM8RA11X14P2bSlEBS.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yqXFjMAO2i1zG1iIeNPETrbACI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdysX1ucDlu7tjbbXBazVZW2hDo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bZKlRpQ5IeZK7HxeR9HDMwvvPe.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s13tfepNcoy6c72nE79xjbuntiW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l17opF8lneVr5hpya6guw69cFka.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3fYfkx4sJbjB5rnu8uAC2Oqxhd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzHBb9TUZrcBmelZ7uAWstWbEgz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/197732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2Pki0ftndfhsPnIyQSPAGIQ7kD.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/197733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YaHqerTeq7yuXm1zVJQFpdMUVT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/197734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aGgvT2sIuqf4SUpjXINHEp5DiU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/197735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCkNJV9B1BWHWbYQ34u2ao6I1sZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/197736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjTeJvwTMswAVVl4U5TFA98gP3B.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjTeJvwTMswAVVl4U5TFA98gP3B.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQwwwpSY1Ub8XQ5H88X6tpgQsIN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQwwwpSY1Ub8XQ5H88X6tpgQsIN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApdYPp0gz0VM31WaiLJEocDSbWx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApdYPp0gz0VM31WaiLJEocDSbWx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CyBcg8FCg5shib7KHSthWqUBkw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CyBcg8FCg5shib7KHSthWqUBkw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tDvEftJeEwt9MeumZc0vm3SWdy.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tDvEftJeEwt9MeumZc0vm3SWdy.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/so10ph6K6aRJUthkfkbXe45pcwT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/so10ph6K6aRJUthkfkbXe45pcwT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8C7cRkddKHH09KTL2laSWMkyOSz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8C7cRkddKHH09KTL2laSWMkyOSz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgjPo9T9vaMKpiqpk6RlMNhYMqx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgjPo9T9vaMKpiqpk6RlMNhYMqx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xD70qaFE4TgVAJ3YmdDhpfDdoPl.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xD70qaFE4TgVAJ3YmdDhpfDdoPl.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BbSjk60XEwczP5xxmMCRW8X8b1.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/197769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BbSjk60XEwczP5xxmMCRW8X8b1.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/197746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW05qHzN9BlLg3dZIJmkNoS0T2D.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/197747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW05qHzN9BlLg3dZIJmkNoS0T2D.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/197770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Z2fYv7gmflLmkZXyB2Epf8o1i.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/197771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Z2fYv7gmflLmkZXyB2Epf8o1i.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/197748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyIPwElKKSUweoyBuM3uJqbGndW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E25
-http://apkwuv.xyz:80/series/judeva/deva10ju/197772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyIPwElKKSUweoyBuM3uJqbGndW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E26
-http://apkwuv.xyz:80/series/judeva/deva10ju/197749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbfB1vwVUieWwjdQhkRfGUtdlJX.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E27
-http://apkwuv.xyz:80/series/judeva/deva10ju/197773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbfB1vwVUieWwjdQhkRfGUtdlJX.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E28
-http://apkwuv.xyz:80/series/judeva/deva10ju/197750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZewCCBAfmkT2j5m1LI1VkRUEZK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E29
-http://apkwuv.xyz:80/series/judeva/deva10ju/197751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZewCCBAfmkT2j5m1LI1VkRUEZK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E30
-http://apkwuv.xyz:80/series/judeva/deva10ju/197774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqGuvrr9wybB7drNyScSxqUcOzQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E31
-http://apkwuv.xyz:80/series/judeva/deva10ju/197752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqGuvrr9wybB7drNyScSxqUcOzQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E32
-http://apkwuv.xyz:80/series/judeva/deva10ju/197775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUbSj4HxGZF0KptgrvJ6jBYphOa.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E33
-http://apkwuv.xyz:80/series/judeva/deva10ju/197753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUbSj4HxGZF0KptgrvJ6jBYphOa.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E34
-http://apkwuv.xyz:80/series/judeva/deva10ju/197776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hSf8FGTPthQvzQMg3Y6eimhP4s.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E35
-http://apkwuv.xyz:80/series/judeva/deva10ju/197754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hSf8FGTPthQvzQMg3Y6eimhP4s.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E36
-http://apkwuv.xyz:80/series/judeva/deva10ju/197777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h65f50UXgdNgVVB66qvveqMztJq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E37
-http://apkwuv.xyz:80/series/judeva/deva10ju/197778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h65f50UXgdNgVVB66qvveqMztJq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E38
-http://apkwuv.xyz:80/series/judeva/deva10ju/197755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zliz7GH1nRyHlZCUrHP9fBHPvo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E39
-http://apkwuv.xyz:80/series/judeva/deva10ju/197779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zliz7GH1nRyHlZCUrHP9fBHPvo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E40
-http://apkwuv.xyz:80/series/judeva/deva10ju/197756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNt3dUzNfeFtBdr0tDDtwKs71By.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E41
-http://apkwuv.xyz:80/series/judeva/deva10ju/197757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNt3dUzNfeFtBdr0tDDtwKs71By.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E42
-http://apkwuv.xyz:80/series/judeva/deva10ju/197780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsTeNrXxzFMcBL3xMEtx13BaS0F.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E43
-http://apkwuv.xyz:80/series/judeva/deva10ju/197781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsTeNrXxzFMcBL3xMEtx13BaS0F.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E44
-http://apkwuv.xyz:80/series/judeva/deva10ju/197758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWwesh80czKzQaKulIP3CUcy5RT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E45
-http://apkwuv.xyz:80/series/judeva/deva10ju/197782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWwesh80czKzQaKulIP3CUcy5RT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E46
-http://apkwuv.xyz:80/series/judeva/deva10ju/197759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxQUJtawHa8WJxX7IWGaDtfULh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmQ9SQpqMxlgypHh42lcc0kOunY.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWC7L0IFbsjw4GCBFtGlr5bGzTq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOiGUS1uvUeFg9q4TLrvGZhqFvq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGF8BqNWamAl0GIORxSBm1J9wi0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/160NliksaHZCz1uZTQo7J8tz6kM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFlwrCzXqwmhoW03RCoXZr6zxyX.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjhTLx9wreWUiSRgujMJFgCEg6M.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMaUBZBeaheJJZfy1XB65VAYtad.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA98ImwEsAkjCHJWjyGVhWajDfJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6STMw50xyG9h5OpXonqzEVADMLW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rcW3QUyoA0KsajwD8WETegHXfA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrhhfxkEX47ejuWZWyLRPg6qsJA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czbVM8BATl6nU6HpsvblBYJTAlN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1wtZkik3iWHGmwlPg0uJWcDe3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vr0oD7OqDSaInR7wt6idXobf876.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy9bP3jiCnxxDpE6dn8ILQ1LU19.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6llFhg9oPNLGSks57Ujst0LWd87.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDF4r4GB51XouXX7hEyhEW35jfB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/197801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0XHty0dfXdBLUyJPstjCICaNom.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/197802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1seDDmIvaeGxg7WUVCv5j4MPtU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/197803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzttHEfyPHD3TIfMB1vWK9dOPHb.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/197804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iZHPoLecbCkX6NRHRW5II9Ht76.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/197805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbz5kEkw5oss4ytKyikqptW3WXn.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/197806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MzU7xJSLHy2IKRKbyFO32ug5RG.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4vwHj73oPHeXHLmwJeYdbE0AnS.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkxIbvgEtBbPg3fzl8UgRxWbrZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zEi3zTX9EnkMHKg5gyO1GBIQjr.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gB4ZwrwepRlQS7Tnns6DppWcrib.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huUoQySbeFvK9ZRtYW2FbTydTIp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwAlDnIm65svM5fFOpaa9cxTbxF.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSIg9F42dFhBiD3OddS0PWK4Gov.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9z4acuW9FCu9kO9eliCu30Cj87.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqh3BWQIvIjkm0QzUantWfs2Cbk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOA6vcfO9Zvd478qiLWyFofGHWg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKbrpTJDz53PX5xfoTAHI2PLVku.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3j2XsLLR0YfYYjaTVdj6RAOxCcM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncmRylsi5slQ7qkHnYGfOJA0j63.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S4PMQypZ2BZTCb2XqvnrwxPjO7.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fre2wSDXFNJOG9Z35IsSqpXbFtY.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IhG6DYmdkqZqtw0pFgSsyejp4E.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiqXs8wzpNUxlH6QvjJIVuBhX1s.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V24QIA2MNpWHyVVYNGHSwPtiVC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/197825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuqxmu1pnU4odoNdvAwBx2BoaxJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/197826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l7slBoiWvgVUAdq56ojISVRxf1.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/197827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zro9zT4i7LaThs70MWBgYbjaolC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/197828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTifhtpNkjO9JNeosqLFQBtJRfI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/197829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ7FducqFKH3nyMhTJ2jG0vy5vW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/197830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHOXj5Vf7FaoY513Xbv5RP0YFMF.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5z4UxWXEQ4QpiJwFlkRG2Oc6Ei.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBndQ4rZDsNOncvsi7LEnfgrdYE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ATviYwpvJW0WlGGLzx83at0CIw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgoFpQJOZQfr7Sab2F0i8gbvNMQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oU9gTllkeTkMCecvCnbGmby7ETV.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n22NEJYtgQXNchUzXx1XUDNC1sj.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ia4Sqc0pkpgwGl4BZmUDWipXvU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h6iw4cVDXgpGYTwP4DyaYkf5C7.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3REjlteHws47MrvcPycN8zrGFGH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udyWKBAoOJutoSCtgJf4d8jMAks.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmjh6TeRaClY3L22qosbOgl3AcP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFfxjyHRofvVww3Q59K14xzJCHU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IZkGimRgu5YtoGogSciEwQNxvv.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA4TXlrYFwJl3wIjBP3RXfw9nvJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D1CNFql44wZUfzVeeXF9gl7zNk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gupmG0quLGqOjwh5CPkckh9Qhcd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvSgrTYTBnrBGlpPg2QbcpKwJRS.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bV3b2kR6Qu77FqerItgP9kbzeAQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9X7kvMzP43607TTPiuF9I1browe.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1M3VrDnANjWPDnyFS57keGms5a.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmBnfIbWxe4GbqRvDeRs8kp6UCk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXtUKv4d917jZ4AZVxeRaRxXcYK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7Rl5JYgcXbZTHcTLCPnGrLIjUt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNZttdr51VwuN265OLrGuWeDNQK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP6PR2yGkv63vKCqAjMvem5SHZu.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwY1Pl57O9T3zeuctHbMJcisxJK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpIA06jD1PjM4OYl4bux1fW4YJo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXm0ktXApf2nR3z3FKjlx0MXHAh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbDrSWn59SjLbm33S2CoMLjMslr.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdQokfLusnanSReExBcELkR3mi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtpi5ak86PD3V6ARsHHXzdTOSak.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tJFgS3XPU4BBCohdqWsUwhziAE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lprn5kr9cGZkSr7kNwBEOXwl4Mz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TiQ9k3I6IjQ9eTzi5JByT7OJfg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEBzdURgex2xDg5DhcZiCSoS7n.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyLNWOe6hHWuaErjIOEaOZ1Gz7u.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/197867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxkWIvOAC27iRLqlzJnboJzEBB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/197868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNI6lCaR0g5CKkzFfLoJhkgpTbf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/197869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z93AL1CX2rdzQ06PEiq0uTtfmCp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/197870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYrN9bgfkhAZBu0cObmH3b6MYSA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/197871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AhPbuiZaYFURz7ocXhCSG3Z9GX.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/197872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTZgYUM8IZTPB0UHGaVnMCNpWdh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E25
-http://apkwuv.xyz:80/series/judeva/deva10ju/197873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WZJspVtIThloQd8KTjVsvDIul9.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8afO82loxMoYu51MoNBY20gTgQw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emRdBMFpbCgtFmMAGuOGt2pej0c.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2QxPAtz8WJGyV1Ak1vkI5g6Jlj.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9r88mESch8ibUWyaicZRI8foHM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trYIp0yUP31z19jFCMXDDmke0aB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cR5pvpqOcOJREHydOVEtbAfeP3O.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF8UM0Yf4ShobrevsOAWuOn4RAL.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3NdmtDzL0TjeXxLuwD87GdaoON.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqQ9gCMDJZPUVao85NN5CWVjFMW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/S4tG6C3tSkMA3dljzBewREDzFs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NQZ26i6fmBfniQTMBTyhPcKrJA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4bLrOXIEj4clnfv5iVC6rxGKKA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viPSI8JNhLXF7Iupd9rBeAHpnyR.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LjxUf4xfgqZ7zVGYSwbEyaNJfb.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqtP2cH7vk6MoINpWl3OjAcnhM3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6SwbahtxYR38mXgBWR1aJCAvgI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbAsYOp6A12Ua32z0kmbKR3zwUe.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbjizs6j6HhZ1sPrZnGNrQXJagk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/197892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEiBwYQ6HQ6PBsNzuJLyzoRC2a4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/197893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBu5JbYfgaPnK7oRvNpCYRIr9QM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/197894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b48DJjmAXk9cCtfWY0hBY71dgeH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/197895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpZHtMYvau4lyNhaxmgHItiM3RI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/197896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIiOsgfTxNJlIX9k0Z581rj2AY3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/197897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ckLLxdamwtkp9ggTmdAcLlbARQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHvXbFNabshFMrS0m3QN89K7Aix.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TifyFpmzT4SqhshClgrr2Q9K2X.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JX1A4GVZoOI7XeAXTcPyUxk2RB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8ro1El3nFRx47uQQ6tsbSvrGUU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfzVSeOaz7fUhfaEEsmSZCi6fwP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDOvGBdLr1FykOziZoy4gQcy9dP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74EXpaqz5422T8px4eUv3O5zzyQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCMJJNP6qTDnEyWs5IcCHEDJQDQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBXh9L2w1k50TI4G63xcOEl6yUf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGxSer0Jq46GA0RJIDGVlTMiGX9.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGxlSmTqNAZC8xNsKJZ94MTt45f.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEj0yfPv9wVggeNrh9T6fvDdt71.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIF4HN4vm4sWvGy967lAnoylM9x.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wG9Q998DfAxGNFIAvd0XcqERPR4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu8Thaiq9brcBI5huDa4SAIsdbY.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDDuA6XyxjXqXEWhm7vcbyk5Lvw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1eSO7O20io3h5izo2Niv2gyc9N.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pxBBRSEw933vxAlzPja2a8Q6Nt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/197916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcuGJ5erwSL9uM5KGfMs8bj3jLi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/197917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMBtb820wTu2CaWmZfiVZAl3TjH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/197918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6a0dv2Sl8sCAHcFMtNg8d4vW48.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/197919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWx3QYAgEQ00uk2MKybUYXbVdMT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/197920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E6IVfcI6V8qV0Kj0PdV7hzri07.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/197921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOPESjPvnYHkOzoKjEErbCauzh9.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktoyOYttg9zxcO2mbiEq70lZjCt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLaWFgFO2pnC37x75CQm2dSn9XB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZZMVAFT2qJBaVbqCwEtKLXiv1q.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VPG9bvbHZraTVIfZlFPZSBSETm.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZgEVKTMfYz0GY8GYBrQEaA8f5D.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdeV9fcs7LYR9KKh0q1Mcw94dxH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/humv4bBKDeIOLCdJr9d3SGdHHnc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmgRidyEchxUjOmspZqxSa12NFa.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXeRT9nXR9uLxJSElEmW4GuHSti.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO2Rl15jWlSx3XgXCdDP0xc2DLH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flExMGv2puo9JiJTXeIMmYRJwJ3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7NY9Dg8LtQswpBwGV3rkmYz5LG.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lopn9ZzbybIiWVP1Ywaj4wSNbhA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVcJ0g65EuaSqV9bz149M5409ef.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7o41cdjDLX46xTTmIbENg2n6VI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnnPfnnP5SSqAlHWJnVTzf2rS34.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giTwxDmGpgMk5WhBA5WyFHxIF8P.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rokecYkFQbFYGjLiuUupdjJXbVO.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/197940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiEYDOYubej8zMKOYIpfCBTolIU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/197941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN5AMKvfF9dGmYt94PD2LR88DPn.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/197942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMltrptEhkPeCdPnn5Ns4iHCeVU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/197943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atDGA2RXvJoVhFGFmzgvqVOb2Pj.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/197944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sB1mmYSsC8LTgqr8bc8RCFNI0dQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/197945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEEgjx7KjUdSxkhZaKxhRdzY4dU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcbp5hovpNYOgQrumnJ9tKoWZT4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uz3HXs5RVEtrJxwhv56NnZSXIRP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5a6cd4keKDgH4bdEWkDCaCI0Sm.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KtxXoFfyAlKPIHxnPB0U7306Uf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5BZ19aCtw4DbqWmLJnv9VY166O.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3MFQzfJsJJcc3hXm5sELaOM0xa.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/916Izq6EWwutv7MnlWwE0uVbt1K.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85aoWkhHIPbxAWxKQpAeszRzjWc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k45fqbcEUoC0UI4qgG8QHllJxAZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfCI0h7LUnvF6tdC9KWu62kXbJU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQeT9AKjDg5v2CzFLyC2gwb6lEq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y58thwXnoILwZ9ZiX4yaL4rhG0M.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1wfLrY8QxShMNwBomXm1QUOoYd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlOvAnewXAzH9PfliQhAHWrCAzG.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tpiqGhU4TMkLijvWy8vcwD4yYc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRMX614zn7XsykScu1uvAEbVwq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEwZQAPRUKxCedTDp3qBUqwv5e3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp2p1U3IHzKomh6lrzG3XjVBn0m.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/197964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mG9XKVQBDRKxKiWhuIwa7IMhfGi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/197965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzNh9zbotIbWfpMYXe2Zfzijf2W.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/197966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv73xAQYPglppEhlkWrvnrdwTvL.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/197967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovc29iwtyDIaqRD8BjMyyZkYsWi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/197968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GtMVVeyVO8ZjCKZYfSc31AmYhM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/197969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf6PZi2Dw2mg00IL2h6RRJWwrjf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uF3krw93K6bGBdUItaswyJ5Zzcq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3OLrztIaROc5V76PIOfk86ZqBQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ao6rVlJMj5ulGRs0sNmVWoWZnQr.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDEyHlmtGBLqoFZ8fTPtaJaNnQ5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2x3RqvfbwOIUc6k1v9RrP8eZR0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1juXf3G4McWFu6IcZO08w8evoQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/197976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsGVI4pzGGGuV9LkhrWQLgpIYHy.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/197977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niRsDQKUvcGSfKbDD69K0cREAXJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/197978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fCWXuPqjaVu2Ibx6jgB3K3j3Iz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/197979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEtW0jhfFhUM3YSrn08G6g3xpUQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/197980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TsNTxp2fjLQRq32byij95uZV7n.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/197981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znlpwqpBQ43cbgMKum7jBrIbFrg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/197982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo2vxWekJw6D4WfJbdODGUYEL1D.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/197983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS7xo3KK8FUSowiZnUJIrF5yg4O.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/197984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIreXXp6nXyJ9oulJvxqijhmYHV.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/197985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PebjhgYFCSvhXH5OUnjUiYMXR0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/197986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tR8ICZIblwclrvhcVhIgWj0pHHF.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/197987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLSG2Pc7w9v1PfXuiZzQGrmysiH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/197988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjc1hV9ZVQa4dEom9CWljKDUne8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/197989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omKJvTt3HtqFBsMsnJ9dJhdYPHp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/197990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLZkbKv65HkAeGnuUzNWafwR3t.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/197991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acUQyYHUaPrTArhYfd3UijUwrcf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/197992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joYidiWSbnMPuNGRVixmTYUdDP0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/197993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNtjnHjCwjboO9DWTFles6DYGqf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/197994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Zb1Xe5MlZVRLqKjgUKV15NP4W.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/197995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AggE7BOM2SyNT7S6lhdWtkoWS7F.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/197996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIDH0vkKUvbzCUGPBgGVIm9tbdD.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/197997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSo19k3PTe9bxL5dqkYEcn8NPuh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/197998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahX80hVP5Bc1sy6CZrxLvbbLp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/197999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFTHZUiC4fkWxR9tQlVl81LbJg8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/198000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWXQcDqzR2tybkgbWiF66FFBNf5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/198001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GtDAggAxzHRT1cxDdJct6PFrVQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/198002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jy0XidJKXxy2L9e4KOvDE9JnIwA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/198003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixsKT6h1FiQdhBlySoFcRxGcuE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/198004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noSj19STW6UxCxsiYhiTw3zXBwo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/198005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFQAAcloVkwr8rF1YjRHl58NHl2.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/198006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhSBhCBHwnMRrlb3RqRQ1hSC99i.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/198007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUrKguPPmFlbTU26hPHm369Is2W.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/198008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWePFlGzN7FwDWVOcpVpJUFJ29h.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/198009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G89i1SPe29wXIkgS2YI32QC7IY.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/198010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dVXUjILRiz68Y87MwZNCnSq4j3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/198011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDNKlIu7KQ0pGczd0ZDQv7eTw4i.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/198012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEIMiEP34bMC86dkn6xnHdbA5gx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/198013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nskddxxMoIE55RDAJk5zTcTDzs0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/198014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MQkfVOuHhdXkJB1g0RuAYGvTCA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/198015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9iZl0BvOJoO1iMsLU4Mm7639KF.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/198016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CGCdVrr0noWHMzsErgxYVcRAmv.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/198017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo0PS1f4DpjgTVCF9873TIResbR.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/198018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN3qdZ6nGeVPCxvoJ92IbAWp8Cf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/198019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZRHn7ldlnp0GD1uBWsIdk5GEwZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/198020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNOS9Er9RrBhP85RzCcNtxDMegJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/198021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3teMktg1TjAgVztsxNw9vlM0TRJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/198022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHN2mRym1pL56h1KnbrSvx8vsER.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/198023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6rEHwZVVum8l7G3jeKeB0UxR8n.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/198024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAphMArj4OdVKQyr2MFQC8pjTkR.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/198025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIZAp08RaZTA23Zla9cIqFjDQt8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/198026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajc7O9K4yTJ0cepxJnKM7lN6lMw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/198027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNIo1JfupDc032tGLTjhN8MFwZS.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/198028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EQk4vDcGVkwrrkATVGcRg2R1cl.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/198029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1rDtum2F6JzZaYGfSeiCY4I7oM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/198030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVAJzB87Jul5YZcyq1qeDV7viYI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/198031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOqtslt9LkKA0iLjcOUdCAziZ7X.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/198032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6o1N2wJYv89YSYtnzVOjJ0fZahs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/198033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kWYd2QChCT5pjNIJRpW38DLKWk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/198034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waYRubfNb8BUlziEcQ3rE4baFQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/198035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3x8eTGNbqqxyWGzs1mnFL0NXJOx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/198036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlmS4o9ulmmWtswQVMrZchM3xfo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/198037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6oHXYIJWyGbTq2mjcTdnmNOcxo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/198038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6oHXYIJWyGbTq2mjcTdnmNOcxo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/198062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gsssI6cxfbLxCIUKUtBSqSUrlW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/198039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gsssI6cxfbLxCIUKUtBSqSUrlW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/198063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1P5vGXq7ON0nJyzi1XsvOna9HIu.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/198040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1P5vGXq7ON0nJyzi1XsvOna9HIu.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/198064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1E1LcadNZ3j2qDVa3J8Zjwf0g5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/198065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1E1LcadNZ3j2qDVa3J8Zjwf0g5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/198041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqryu7kHVw6XdDVzx5d7t261Csp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/198066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqryu7kHVw6XdDVzx5d7t261Csp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/198042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCW5LAcuTRlhazDazfdoydsvvPZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/198043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCW5LAcuTRlhazDazfdoydsvvPZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/198067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztqEgEHHQCv1zS6zj7nqjJ9M83g.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/198068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztqEgEHHQCv1zS6zj7nqjJ9M83g.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/198044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cT7RxGdvYkoF7t772qH1GlF9NQW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/198069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cT7RxGdvYkoF7t772qH1GlF9NQW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/198045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lekPqr9BPGcBYhQ5G8EBPkxDhWJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/198070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lekPqr9BPGcBYhQ5G8EBPkxDhWJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/198046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4cR0tB3U9kTY0Xz8u1G00XqQH5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/198071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4cR0tB3U9kTY0Xz8u1G00XqQH5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/198047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMsfwiS38OoGaG9lskyVbeBFurz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/198072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMsfwiS38OoGaG9lskyVbeBFurz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/198048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aNhqb92Jhi8edichieJaiusluC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/198073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aNhqb92Jhi8edichieJaiusluC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/198049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2UZUre18T94XJUr4GgzO17dNID.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E25
-http://apkwuv.xyz:80/series/judeva/deva10ju/198050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2UZUre18T94XJUr4GgzO17dNID.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E26
-http://apkwuv.xyz:80/series/judeva/deva10ju/198074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ9O7OGFKv1cgdT1o1sf3ygTlEB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E27
-http://apkwuv.xyz:80/series/judeva/deva10ju/198075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ9O7OGFKv1cgdT1o1sf3ygTlEB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E28
-http://apkwuv.xyz:80/series/judeva/deva10ju/198051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXXkn2Zdo8hsHEBpNEEacybvckL.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E29
-http://apkwuv.xyz:80/series/judeva/deva10ju/198052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXXkn2Zdo8hsHEBpNEEacybvckL.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E30
-http://apkwuv.xyz:80/series/judeva/deva10ju/198076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sppsgPa5jHFoqvYFK8Lhdk4a1HE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E31
-http://apkwuv.xyz:80/series/judeva/deva10ju/198053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sppsgPa5jHFoqvYFK8Lhdk4a1HE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E32
-http://apkwuv.xyz:80/series/judeva/deva10ju/198077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmK5YuTEaCnpfNkqIGuq2q49BvC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E33
-http://apkwuv.xyz:80/series/judeva/deva10ju/198054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmK5YuTEaCnpfNkqIGuq2q49BvC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E34
-http://apkwuv.xyz:80/series/judeva/deva10ju/198078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUXe4jQdzCIcHDKLfhzW3utNDrc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E35
-http://apkwuv.xyz:80/series/judeva/deva10ju/198055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUXe4jQdzCIcHDKLfhzW3utNDrc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E36
-http://apkwuv.xyz:80/series/judeva/deva10ju/198079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLR8LPI09gVLMiEncH8WZ4oZMxW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E37
-http://apkwuv.xyz:80/series/judeva/deva10ju/198080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLR8LPI09gVLMiEncH8WZ4oZMxW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E38
-http://apkwuv.xyz:80/series/judeva/deva10ju/198056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vS0NYHpekPLvcoTzHaOjZhGGnt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E39
-http://apkwuv.xyz:80/series/judeva/deva10ju/198081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vS0NYHpekPLvcoTzHaOjZhGGnt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E40
-http://apkwuv.xyz:80/series/judeva/deva10ju/198057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm1xeEtd9KVpF2JQpQKQlZi7kwP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E41
-http://apkwuv.xyz:80/series/judeva/deva10ju/198058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm1xeEtd9KVpF2JQpQKQlZi7kwP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E42
-http://apkwuv.xyz:80/series/judeva/deva10ju/198082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUeTz15Y6FbEUaBLBTb1R6thDbI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E43
-http://apkwuv.xyz:80/series/judeva/deva10ju/198083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUeTz15Y6FbEUaBLBTb1R6thDbI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E44
-http://apkwuv.xyz:80/series/judeva/deva10ju/198059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p30PD2B0aXGmitpabjpGOffOH2S.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E45
-http://apkwuv.xyz:80/series/judeva/deva10ju/198060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p30PD2B0aXGmitpabjpGOffOH2S.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E46
-http://apkwuv.xyz:80/series/judeva/deva10ju/198084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k3NEb94IrihOpZLQeOGgUheM5z.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E47
-http://apkwuv.xyz:80/series/judeva/deva10ju/198061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k3NEb94IrihOpZLQeOGgUheM5z.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E48
-http://apkwuv.xyz:80/series/judeva/deva10ju/198085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/910LwyOMd7sfnEkMHwlVYyqGpN0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/198086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oI0OZ1mCtzz94Dk70L2ffzpufZU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/198087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jQipW2Rgg3xjkMe5X9UQa6JqPN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/198088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQcEq63U8qm21dLybSGm5HBdFuW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/198089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lZzAOj1vomEhMlbHoNoNopZZfh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/198090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80S9iXwK8F53LdkGpbMD10klze.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/198091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gk02unpodzNaUjWWnk5M7pH8ChB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/198092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Dd7iuesmYj1xJEb84ph8MFWP47.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/198093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeRulwIhlijg1TlsspeqvuNCu69.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/198094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2fRYlz4Ttsf4vb8rHGsikffliA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/198095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rOHgKH1GuLGOeWEF03NZlPllok.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/198096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkNP105pRXrjJnBKVXS0cdUt1KE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/198097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3z9cOOuJvxVEs1E9eu4rT2wHEsV.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/198098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzyCE0EMorZ2WmVtvCXGgRTrlOJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/198099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSe8pVZjiq3cVxQs7fX5GUDov0S.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/198100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XvpdgFIgXWpdrBEZwWCDw8SQ1o.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/198101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VV9diNZ0eaoAe0Jgzoab0HcNG4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/198102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uENMgscW87NejwZ9xMk9eUseCNJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/198103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8whkVGxLQsjY8ky5OqtHPPauSUi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/198104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhbDQIg9y2DKWd11YmDF682wqSj.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/198105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwpxCBIF4b8Sx8iM4mH1RazNxO.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/198106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQ5BSNQj0VX2BGWK0DiGvjJWn9B.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/198107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/id1OXfnmUjifcgX1CFpynbSKSBs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/198108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvPY2q1LttmbuuVfHtio8h7G4d2.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/198109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OfDpRIiBnfdw1di5HU6Oj1hZMb.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/198110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4MTZ2trgLw5bsMMX41kyfNrbld.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/198111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AUppQ0BulJHDskuLmoTAmuto2.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/198112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuRr5jZNnceoXihlYGFAZCFq9l4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/198113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI7T9wOJCRb04tiw25CKLc7Y0NK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/198114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSCLTMw6D3Uz6miEkrmDEAySOkA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/198115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKCd4Ln79jIRHFgFjf1isDM2aqk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/198116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZjPCMqaXqvh9zWWbqZzULsXc1p.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/198117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aR0wVb6s5Umy1ivoWcimEye3fMx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/198118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1zCUimRihp6k6eqwazwwKReuQg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/198119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srgdNBJQ6zi81FWHQGNbf1y7KiU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/198120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6gj6BLyX3XFsxFWHc2ntOHmFXc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/198121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ti2pUacaNKaIAh8elHGQbhOg6Q.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/198122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xL2lFCkXkZOhYfzXb2bdXHWKeVN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/198123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRFyeJgk3Z2PuShwYAzOBPjSoYu.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/198124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUFa9SjeOz7L0Z0Hq7yRfZYZvC0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/198125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8p3S87V7sU52UzNAmZHfvLfZdh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/198126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyGzAfiKnfdfjwx9xP9RUh3uK4s.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/198127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCbR6obSUtXAED7w26wEInkrATs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/198128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoRKUGGs9LSxPHQdpgg2xJoOUGg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/198129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG8wUFXSJE19JY4rUE5g79trl7b.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/198130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPaZncGpJ1DaI6sYILLitpEiMUy.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/198131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7T5uKguGiPf93SgldUTMT6IHJs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/198132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQte0P7YJSOVo6ZV0npCifbrZeN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/198133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6r2mDLxEcViD5PhraGMrqudmJ8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/198134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJWVRdYlBR36W2LGzqTxFuSbGAp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/198135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9DIjmfR5KTYlNXa43TcIJ2HpmX.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/198136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QBC9gxrNJ8QxgK9UAb3nJXjvF5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/198137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73AKlsPjjVSFvHoJG5rpXzesVQD.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/198138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pybLwxo415qDekVrSNHwM64uI3N.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/198139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IZFtkyaHHDbAfGpbRttrmzSDeo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/198140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAXhMr6dfQziJpyde8tt5UO4jEd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/198141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB8TDOJirnaq2eARSTnZ164s7AT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/198142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYUhjpSN2VVPdwhQWJ2QgKktffA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/198143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPxECULZUpCFS32zHlMzSO6vYjp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/198144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLJZFGqfoM80T5R17L6f9qazgZq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/198145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeCA8AW3ACjev9TrYwzptpQNV0r.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/198146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw6fHV6IN4fdFp0CizDbWcpK0E.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/198147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUHEvFDuVDN2r5tM3j2Ij4FYIl2.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/198148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z64FVrRzCEcu9ricK9d6In5InWA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/198149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqdche2k66WdXb7pBUyXMqjXYLL.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/198150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSpsEE6vzUtIiC0itvSVGjmeeJ8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/198151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqSlOm6hNOnm88dinpRCynL1c5Z.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/198152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX56I2MOYijRIwhfMB4glPqcfoK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/198153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tThwJrv5oQ5Q4Qbj9WPV9EtR59C.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/198154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orcQqdzFWQw6Nfdros7TsX44ojA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/198155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QgIXFRmE7LW997e0YY2LXWn4Ez.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/198156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGGvSEAzPa6IlsM6YtC8wteZ6zw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/198157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cUFaWfvjBjRvwoFFZDpoHU11SP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/198158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0Rjvp7BSanT7hx1yh1Urgs9lAs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/198159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FKJ64wMjo7alfbuwtwlAXU1zZM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/198160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecrds5ripoy4Fq8ugdIYmLVu3Nx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/198161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvZzkwynU8m1Ot9zQhV1VOPMJxn.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/198162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJa5aLufNKU23KqFO0tNw5f7iz6.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/198163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2oC7NM05DZjt5S72Js6MQw43W2.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/198164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egQUHdbQhghtcM6bceIwu3yKtCA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/198165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f00ULeYDQK5l6OTmlhDFZp0eP2c.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/198166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43wytDdgC6fH8R5IHDcN9XCXJKh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/198167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zodGiL6FErRhLjnlQ7TQUfUDObf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/198168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AllX1J4IsSLdtEpP63SrPDRM4M6.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/198169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMobF6gFLTSj0XoVHam70imCt7w.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/198170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txdEWLibheWMEb00P8pYoNch4gz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/198171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDw3VKbxW6qr5wSwhpnA7XA7dWc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/198172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGWeW0ZChX43G0YSTtGik2jIcDi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/198173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWM780infuavHASgUW0SvZk8ptt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/198174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dghCOKSalQXeZ1ljTMPX7HgA4Z.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/198175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odILTsF052wJgdmRqOh8FOMwcj6.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/198176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2LvucMkBeGsXUTSkSzT6Vs7BtH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/198177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH3fkwOVX2Wvtj3j2LWVwoFR7T5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/198178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E10" tvg-logo="https://image.tmdb.org/t/p/w300/n22H93XEYuKmsWuIYu3OnEtP8uF.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/214677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E11" tvg-logo="https://image.tmdb.org/t/p/w300/jOQm30mvQhonTp82aINqrCBqEcT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/214678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E12" tvg-logo="https://image.tmdb.org/t/p/w300/zXsOvxGgoGdfPo1DLqpMVITxG1y.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/214679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMhS4UEdVheJ6ZKpz3hoGarIazd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/304246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xs74w6KZiIZ4yYJNGrFnCUZoQGK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/304247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPk6U7az1nF4l1xZ4dHxFwCCic5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/304248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78DXCyqNL2kXsbgzxT9BjLKAtyx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/304249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78Q89N1mg5iCcRry8pvED9mqTu4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/304250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcaT4hWlRriTxazX3rOnb3iUIaA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/304251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j32HUQ0lh5tUVRa4NWOXi4YtQoV.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/304252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Hc4Rhs64BU54YnlOusPMQZkJEV.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/304253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjH15TjIDPEWqiVQFdqauZtBHG0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/304254.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Comédia.xml"
-############## SÉRIES | Comédia ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Comédia" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFTsOVTqatG4NsdWkUM4XMyhhrg.jpg" group-title="SÉRIES | Comédia",Treta S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGyahEgRAe4Wn1rTd5xklidgA8b.jpg" group-title="SÉRIES | Comédia",Treta S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCK91yZDH06muZ2CmyY9RFyZdAy.jpg" group-title="SÉRIES | Comédia",Treta S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hv3GDBq0e4CVRtQ6tNbEmgERjPk.jpg" group-title="SÉRIES | Comédia",Treta S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4oNWU5RFH9AmZnBeSQCWvyNiHm.jpg" group-title="SÉRIES | Comédia",Treta S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bxKGbJntnCqF2TcfMY8SZUQTm.jpg" group-title="SÉRIES | Comédia",Treta S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSEgDFh1Mt7zbxDGv40cddTIFR3.jpg" group-title="SÉRIES | Comédia",Treta S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2vb8sPF9rJJBalpGWCfnpqKsoy.jpg" group-title="SÉRIES | Comédia",Treta S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6KrvoZUUinKnfP1I4pPZfSit1t.jpg" group-title="SÉRIES | Comédia",Treta S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXVwKEWWLnRJuh96T6bdEr3oP62.jpg" group-title="SÉRIES | Comédia",Treta S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285242.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6gDrSq8grmaY8TPQPKf8PCaxLC.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHmqoeOrQj9v9Zvw8QQqjFCPpaw.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK9bcv7nqIEYSiMqG8gyIycPLe3.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkcOhSQcH98aAaXurUmbXsu7Vuu.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQErfy5QuP5iQi0zCvAvM99rnbz.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWUzHOadJ3SiKDkWQjXsVhURWfX.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vizvR51nvLkGIhVKSzINgUUPly8.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285468.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Sgrqr77JdttVjmOTQoTFKuzW83.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Sgrqr77JdttVjmOTQoTFKuzW83.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6azkO6LDJrPXc7NGfVmIHLHOTot.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6azkO6LDJrPXc7NGfVmIHLHOTot.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMbT3kz4X5lGRh8B0PuKINbhXm0.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMbT3kz4X5lGRh8B0PuKINbhXm0.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkduxKcbBDKjAJNMw4YzVjuV1oX.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkduxKcbBDKjAJNMw4YzVjuV1oX.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i71ZlBZgbRb9LzACbnIflhVZcn.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i71ZlBZgbRb9LzACbnIflhVZcn.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvxTbH7NqRpqh9jCDxa5OPakFSb.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E11
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvxTbH7NqRpqh9jCDxa5OPakFSb.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E12
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b45MsfBpu1fruqz8Yf8dJDte5FQ.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E13
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b45MsfBpu1fruqz8Yf8dJDte5FQ.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E14
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E15
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E16
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E17
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E18
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285521.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Drama.xml"
-############## SÉRIES | Drama ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Drama" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/43663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/43664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/43665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/43666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/43667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/43668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/43669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/43670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/43671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/43672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/43673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/43674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/43675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/43676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/43677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/43678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/43679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/43680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/43681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/43682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/43683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/43684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/43685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/43686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E25
-http://apkwuv.xyz:80/series/judeva/deva10ju/43687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E26
-http://apkwuv.xyz:80/series/judeva/deva10ju/43688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E27
-http://apkwuv.xyz:80/series/judeva/deva10ju/43689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E28
-http://apkwuv.xyz:80/series/judeva/deva10ju/43690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E29
-http://apkwuv.xyz:80/series/judeva/deva10ju/43691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E30
-http://apkwuv.xyz:80/series/judeva/deva10ju/43692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E31
-http://apkwuv.xyz:80/series/judeva/deva10ju/43693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E32
-http://apkwuv.xyz:80/series/judeva/deva10ju/43694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E33
-http://apkwuv.xyz:80/series/judeva/deva10ju/43695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E34
-http://apkwuv.xyz:80/series/judeva/deva10ju/43696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E35
-http://apkwuv.xyz:80/series/judeva/deva10ju/43697.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDP0SSNdjDO6NANoZA8q1ps5khm.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/222896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VErwt3ZsyBjcLAXzCy1EJ39NZJ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/222897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8MoUtaLAGvVjCRSwhQQW9V9qDX.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/222898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5Cxkp7fkenZFpSSFnHvOvQbqsk.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/222899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ev5PLgm0GYT0oBZ6q0yM8yHYcEN.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/222900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qtjBaAuNxSKJXmf1vfqevdueLC.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/222901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dxFEbIYEQCxZ2j1Kjfqmx9wdyK.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/222902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oxcBt3eHyYxuabscmxU7w6r9sj.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/222903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d95FUx8IymcYgbZiMCo7kv6hYYZ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/222904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AjUXnH5WbTCKh4UakaF9irrseQ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/222905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JI3dk7lcQdejmOj7gUQODC0kTz.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/222906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRHYTu3sbY0nIjOmZjal6a9R9er.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/222907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycvYblBRPJLQodxlTOYqtmO0dtZ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/222908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TzGE8FnNKJlOvwzs9uBFXWc9pv.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/222909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilyUzTMXkS4iFuvCpApcpMrZ9YZ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/222910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g76Raxq4YwmwlGRid2NUnU8ovD.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/222911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jj36vf3eJSJNQHsOMCFDCVl9zP.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/222912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euiShFPXozStZc4Guistt7FU6yZ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/222913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ublsSLm2uOCHjXONTcegUM6NVkw.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/222914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjKhEJMHcctsQqbJFq0hMtr41oM.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/222915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXgvbiqZaYaItFA7u43XtQ5D2MH.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/222916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27KXwNAOP6sDXDXUTXmQlA8SfUd.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/222917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81IT8ypLfdYG7MvLvQ0R8619hMB.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/222918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHnMZCdgxSVAGCi1JtlsJadeahH.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/222919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfDL2jw3dXizGrcCuIZI8ckhDuX.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/222920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQzY8IRNZYkMlFcezKonKQdWaXS.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/222921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceThzYJyXXStupzS5CZK6GKIN8.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/222922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHPF974uHnxhHk7HH9vuHe0LcUs.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/222923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKJRCPj1S1DdZoW1tXn18jfKOCr.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/222924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZbIS1IAPDQVVCyYDjsiqUL7iWJ.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/222925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kj8QsrTk1bd3QUYSUlnqlM2ENgU.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/222926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Xdt4xcBy1R8UBlq6UHcmysKuew.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/222927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dUUl8CuWjZ64GkcugFS1KBlxU8.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/222928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYUFHyblV3n8pBWQOlNngiOZc6u.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/222929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMJskaF4JsnRFEDtWeTggcrFTSe.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/222930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36fXpaOd4kfqEtGEEFMBdV56ZFF.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/222931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2orh7exIgvThLSrYSEMwqnfFyRB.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/222932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af45MgqSx6fAjIz7QSMuSS1vfy.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/222933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7z5kURJX13InQZHUb6rfbz3ZGkT.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/222934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tEz5xZi964iz0N5hDCGXUesAr8.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/222935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gyNRfvwXbVaRO3ow9bywSx6fJ6.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/222936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSq7V8cF2IF2ZLJ9xJ45onasB7h.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/222937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cYpVJiWhO2w6Ba28j2qZZxkTIq.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/222938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2teZDR2OY2Xqewj0FOEk5YhRYEo.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/222939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOAmSnA98m7ixfktUAn2AosOnJk.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/222940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5cHBEDR77LMskbOWyZmKMyFeIB.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/222941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j51joTgTllOfaeO4xGrkfL9jhwj.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/222942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/te3Yhs2Yyso2N42Py1nzdSBNAIC.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/222943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GjIMGmSE2EXbfaMDS8BGhhe3JI.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/222944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97mETIrBtLSLdma6fDA0pv1Y05R.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/222945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VVqiTCHZpAoz0w7DhF0CSt4YCb.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/222946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9K5sJW6VuWoWrRLFUn3mQQ4Ebf.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/222947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8oJCkd7k0evwsR4e9UfKtjXHlP.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/222948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lF3oGXhzV3kGg5eHTHc8xBBKwAx.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/222949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akMJZOeXeKJB755F45juBmiN8b1.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/222950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7DsZKHPcXgqND14HcaDcOStOTc.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/222951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7Rf9QwKefdLf3HeUuEu1jzku5R.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/222952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qn5v3qvHqWLhQa8PMMVNVseuQP.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/222953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygTnmEdT7uApEfVEAVab60fySlk.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/222954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocfrQ83hndEa9wJJlOTIpUv9aq7.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/222955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZjwkO0Tyj75D2FiMJTUJ5qiyck.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/222956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUi4BTBehU3H62e4mShC4itwsRA.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/222957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDbk0F1QETLdHmvFNIZu7MQbury.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/222958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93pIfYcqevW99gQckDtUoT1uPam.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/222959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clVxqUvb3GhmYcaHDO74yqNdlrx.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/222960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upfF53iuG4rhHYp7OS0zZvZVvoz.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/222961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHBP3a1Ad9Z76O2ot6AjUbP7ZH.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/222962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kthKwNn416lLg6RQE3hpKNbrL8h.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/222963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgzD3RNDmfO48e0jOvkHEyP8hhc.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/222964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oME6nECiONQSAlYAuwNLpXVWX8.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/222965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtblAumVziIaRnyGYH1y3DOR7Tj.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/222966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtiyePK6mbzAbb7oTHmU3VUqEsw.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/222967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CEzdCvIG47Bz11mnqX3Uowlkaf.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/222968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI6KnDMRKaLwJoU5zxQm0ErLtfB.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/222969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH8e3oguntArfj2PSqzaTjFT1S6.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/222970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXqPEp53nRrPJz37QitMlgSwTv.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/222971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6QQSjjKucdj2OC2Va5I3c1FfC8.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/222972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afX4hCEqkmYFJwGtcofS7Q6dPOv.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/222973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypRFOEWNGZ234mtYauoXDVvVxZm.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/222974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WDulKfL74rU45UA61KBh4Z05Wk.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/222975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQTycILSEgzwYyMwemM00Z60fQL.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/222976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s54MxtKD8sxD6RduCuzQQXgjzpF.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/222977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZT1Qz6j5uOf6O8SgB3MAouVrPU.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/222978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDpRWduEBk68AU7U2wWtTNLifKr.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/222979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1gmNPFAPeBxL48OJfQlwDrPlDF.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/222980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RfhpFHLsu8Jar5BKz4R7kbJq4l.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/222981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkBo0LuQdNkLnykzWwavyz2wd2e.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/222982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4CKA1cW18ZNlQpTDIvvzjD0UXc.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/222983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cd6CNxNYf8tPVhuTyj7p8clPdJS.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/222984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rceP0pG3TdYelcWu2vUn5n0cvg.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/222985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SkQZQvsnV5mO0gDzcck4NoCBd0.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/222986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knn0FxdMscWqlgIiS4T6laoHBhX.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E23
-http://apkwuv.xyz:80/series/judeva/deva10ju/222987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bckBQLDLLMnFqN4w3RKPw4JWnom.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E24
-http://apkwuv.xyz:80/series/judeva/deva10ju/222988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxGnPnb9wzz2D8Zeu5ty837cjYG.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/222989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJISe5uemqI3FmVMlUJFCmfx0c3.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/222990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r8CqchSC1AeLv591lGyetCZ3tI.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/222991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA2xZOhD2Xf14MbLhpbSI3u5Zgl.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/222992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Er2lXBf6aISRPtoPdOuWibBvgZ.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/222993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58P1vF3eBzUPjl1wgsRQPcmz0pg.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/222994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32yoi47iX0WbUEiHhcxgkT58QP5.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/222995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTvkkG1LajiKfWAPOIarXewDq5K.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/222996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5anUmnPEnzczFTsGsUUmz21TAlC.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/222997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uc4SNoVFhX5LmvPDbN5p1I03UBy.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/222998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfncxU3dDo7Si42a2YdQO95daDX.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/222999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cMSKu5HVXHpwfe9m0uFl9p9IJS.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/223000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYIbgy1iaLi65ohOdjGxIGdnbcV.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/223001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5nVxxtmxIhLYKJs4yFHeBAvNlY.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/223002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L3YvPnk3vDpMhykEoXyA8eNnb9.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/223003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TAimSPjRLt1JTpiJz0NJAt9VcW.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/223004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4GHX9tCvwNSlAq5K6QnJZQ9mF4.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/223005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5p4M8iCHDvTrMiZDK9P4UBT9hwH.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/223006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifH4nB6JvR37GSXoUJqfIFqJags.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/223007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5LzJk5UkjIWhNnvbSHnLngi1tH.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/223008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCBML80TpuIpnnmmuePSgHu8B69.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/223009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHTVrnnUqRKAv8HA0IePqkvCmYL.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/223010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK0s7sS1OvycfixaL71tiC9vGrs.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/223011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoGSbgs2irKl9KNXYKM3COr9zbW.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/223012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2rB7S8by35A0uo2Sx0kmxDTBfM.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/223013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9zL6SjfdGpWaUMVGdLOCIE3rpE.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/223014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Any1WOHG9kYpm4zKiqZoD2dtPCd.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/223015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8h0McZ5lj7LgDQmeLgevue2bcgk.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/223016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p03unWudQBHcBXowDJSsq26kHn3.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/223017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ff9qMg56nZhjF2SwPP1g6WLQAF.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/223018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1Rz4SPntbsc57Z3GyNDnT6f4in.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/223019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K3uT9zl8jWdecfTQ7lueLDcSUR.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/223020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBeQ7xTusKNYarzvtSPGWIlD0s0.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/223021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oivMZtRI9AsZTjQ3UEfd1nmgwVV.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/223022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbdUihpnNzydeJ4VruYk2LR4HlW.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E13
-http://apkwuv.xyz:80/series/judeva/deva10ju/223023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyTRMNlqShtZ71eDflh8CWHnhzp.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E14
-http://apkwuv.xyz:80/series/judeva/deva10ju/223024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhQTfmYzrTtomZ0YceKuZGMGmM8.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E15
-http://apkwuv.xyz:80/series/judeva/deva10ju/223025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71VJBoofmW9r9AdbVki7gIamb52.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E16
-http://apkwuv.xyz:80/series/judeva/deva10ju/223026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS22t6owaLvTm20n6TqOoEZ9zZn.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E17
-http://apkwuv.xyz:80/series/judeva/deva10ju/223027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lEHTXpm95St2GWmoJXfN07xpHf.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E18
-http://apkwuv.xyz:80/series/judeva/deva10ju/223028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ElKggmklWquhHSdzGqkSAOcBKT.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E19
-http://apkwuv.xyz:80/series/judeva/deva10ju/223029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uHxhRMZ2s9lxqnkMRqF1WXdiaF.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E20
-http://apkwuv.xyz:80/series/judeva/deva10ju/223030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhlcIaP82kZLLeJkyV5G5J999cV.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E21
-http://apkwuv.xyz:80/series/judeva/deva10ju/223031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1GC0kl7MRAWP1XIGQi71qpcZDJ.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E22
-http://apkwuv.xyz:80/series/judeva/deva10ju/223032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOXSPiCbxWbXKROy5sVPVPQyls2.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E01
-http://apkwuv.xyz:80/series/judeva/deva10ju/223033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUTkKMGXqEZD21Vpk3C5zKtFwcK.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E02
-http://apkwuv.xyz:80/series/judeva/deva10ju/223034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJkqCuL3chQXbgCXGusYi3aEtS0.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E03
-http://apkwuv.xyz:80/series/judeva/deva10ju/223035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atPJKP4KVmZirGGX6ZjwVpofZlg.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E04
-http://apkwuv.xyz:80/series/judeva/deva10ju/223036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqjuGBKH7Sdetr7kHOiraZqsUa.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E05
-http://apkwuv.xyz:80/series/judeva/deva10ju/223037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeLJbMFoE5GTJVJFZR3lgFdHYtC.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E06
-http://apkwuv.xyz:80/series/judeva/deva10ju/223038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rJptgWFTE2HP0GBTeEJPZyKEzQ.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E07
-http://apkwuv.xyz:80/series/judeva/deva10ju/223039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wizJqU72PpVHV2rXj2ont3AzPKM.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E08
-http://apkwuv.xyz:80/series/judeva/deva10ju/223040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyw4C9d4I5tpBfMHiZ3myzg7Mfc.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E09
-http://apkwuv.xyz:80/series/judeva/deva10ju/223041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CCcErOPNIQjOmJtBCEB2R9EH9Y.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E10
-http://apkwuv.xyz:80/series/judeva/deva10ju/223042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyQdHBBe4yVVZsaCJMwCHFGuoUD.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E11
-http://apkwuv.xyz:80/series/judeva/deva10ju/223043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE6WZnyyS6HI39sh24wZWIeNmd5.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E12
-http://apkwuv.xyz:80/series/judeva/deva10ju/223044.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nryokBFOA7utMxVVrOuaExsmQuv.jpg" group-title="SÉRIES | Drama",Britannia S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAcwojqfR3Cw0JSYCoVv0tsW0ik.jpg" group-title="SÉRIES | Drama",Britannia S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sWe9DmTGj69Dy4QnVq0KlTNQSQ.jpg" group-title="SÉRIES | Drama",Britannia S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7yV1o4bNpbfYdwQ1bQHywPVaj4.jpg" group-title="SÉRIES | Drama",Britannia S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22pecOKd6sllL0n3tdrPCvl0lYp.jpg" group-title="SÉRIES | Drama",Britannia S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqYCHbLIbZCrZOJ8RDgual37hdZ.jpg" group-title="SÉRIES | Drama",Britannia S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvFFirtWCM1uwBV2e6m7Ko39suN.jpg" group-title="SÉRIES | Drama",Britannia S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDgaWuxxjhzwnl7a2Kg2CKDerH7.jpg" group-title="SÉRIES | Drama",Britannia S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVgkNutk1YT9Uzb3K0gq4mDwIeo.jpg" group-title="SÉRIES | Drama",Britannia S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztZbfcpQKWpi6mDwlB5TUc4aKyL.jpg" group-title="SÉRIES | Drama",Britannia S02 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCVjOUkBAxwTBiyT8A7gEW2TMWV.jpg" group-title="SÉRIES | Drama",Britannia S02 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GffyHMN6SGtzzfLWXnWzM21Kof.jpg" group-title="SÉRIES | Drama",Britannia S02 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fet2FotqoIDrNWRPgE0plBrD52b.jpg" group-title="SÉRIES | Drama",Britannia S02 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSTeLiDseB2mgLspxyjj4lg0DZ.jpg" group-title="SÉRIES | Drama",Britannia S02 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Q9pNNoIDpWsLLbYTHSoraskB9J.jpg" group-title="SÉRIES | Drama",Britannia S02 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7jiu3uSDmx0qZpmF6XjQkm7H2E.jpg" group-title="SÉRIES | Drama",Britannia S02 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7aOUZdoMheBsU6YHw6M1LAGia0.jpg" group-title="SÉRIES | Drama",Britannia S02 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eMtsr0vUXb7LnaXk8X7HbxFCoI.jpg" group-title="SÉRIES | Drama",Britannia S02 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uN5zYhYqCuwL6LHVKal7XIAzivg.jpg" group-title="SÉRIES | Drama",Britannia S02 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/170090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKXVG1p3oDo9nF97nFNTSiCYONE.jpg" group-title="SÉRIES | Drama",Britannia S03 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/212514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Britannia S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5VQTCU1Om2E9Hwf0CXr4EGdxjk.jpg" group-title="SÉRIES | Drama",Britannia S03 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/212515.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50DI9lyvuqnAmJqocrKEICOSRTo.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMpGTTZCtgzYR7iG3OlZD4AAqIw.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljkxBrCHngli3LH9Af1uOK086V2.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJjE2nTr4FIt5ses94Ykk4UZD2p.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfDLaVzQnxIWdhQKWDRctemPi3E.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYcFXPG2kMHwmMDDID9nxSFcXz9.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM7mI9hc9gjZeHMrp0G9xoLsXO6.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5HqsZvbjMSkF18EbxdZZtkFAon.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ9EIuepFvIto9OwaEc0vPT53qz.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK5QEtJ2avrs9WsTJO7UGDqywVg.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285212.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUfLd4uE8lWenHDLhV0hYaOY4Oo.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRs0VZYHJ2oP2xLVn0dEzUs5d1p.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvZZk5H1sR9J3LPgjlQ4RPJY4q4.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QLrHFocrRb1oA7MbZEN4LZd4rn.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caWOIrSCFoWOeiqh2C8GZgFh674.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RlZh65p6b0SmoO1NgAWmVaFEAb.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l81E9o6UpT1SQsORaqb3GPKluD.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/558PmIghii6y3jbkdEDWgQyPs1F.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevCPzWpFh8xJkt6a8D0cDMm21b.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NF5Qv6nrhwGdKU6sdeyEKeLEVh.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OSqtfzl0ePlY5ALt6bq3TxVPPo.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmu2KdMUxPvEpcarSbMP2erCSbI.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srJb9QfpSNPGAlOf7InyfJmHsex.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/eLMqp2OwOFi3ubSCFk1X936oDHc.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CvJgI0kwRWVFTgHKz5KqDLTSpF.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixRZkUwyRv4yJUd4B2ParqHzzJU.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkUbCOAJ8qtzYFDbVv9naFPqT3l.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yicTZ6uNtQcf753zek1GDRKT7C.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQqKw0oLVKRjZH4IiyZueztSwYU.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7Vj8g3UY6N85jrmUe46cRQARib.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5i3UgTKPrMD1EGVmRjbJ5aeE66Q.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285232.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5eJeXfhjKSWhsAXt2EhC7TGmhY.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNhQe6XFHosASjVk2Pis2IAELHS.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k3Rx2oDjrQHxbTSCuq4p2Ik5lY.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kZWm9mdz0dC3sAEQSJ5551PdtJ.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arPQolMZJqhwSQtwbqN6orKVn74.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdsj01EQjFm2HMWYGAafaxDHp4z.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/M6IcNCW3WOB3AeQvFPyvl2r412.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rJYE05C1L6ZTPO9YllqdOMwEST.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxZX0h6aV9kEWGt1cYX0jwtyxnv.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E09
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIhRoaUQbxt3DqzGDERNs1f5n2s.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E10
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289673.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GFTkeiFgE3gBx8zV6VaseyeB93.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tmXjVkqcZiAkS9U0Dooqsn1VPF.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5m4WuxFzZK1CTFDDEHphzwIPG7b.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pCrKOPcnwmOWnAnfZCuAJcud78.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVSHdRmPSMJ7IGvhlSl487qDmpF.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1v49qpNmxBWqXB9Hae0mRvJDlYU.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJTV7v8bUneAwCMrQ0HgzLEk4ol.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziarCiLW0fhJKM85YMq2AnxqiBm.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289681.mp4
 
 #EXTM3U url-tvg=" http://grade-de-Documentarios.xml "
 ############## Documentarios ################# 
@@ -10049,70 +7221,6 @@ https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
  http://5ce.co:80/live/mlindoso/qwe9673/6505.m3u8
 #EXTINF:-1 tvg-name="Prime Box Brasil SD²" tvg-logo="http://70.ms/Z1" group-title="FAX | CLIPS AO VIVO",Box Brasil SD²
  http://5ce.co:80/live/mlindoso/qwe9673/100480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 16-05-2020]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS AO VIVO",Bruno e Marrone [Live 16-05-2020]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133620
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 3 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS AO VIVO",Bruno e Marrone [Live 3 sem propagandas]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133624
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 4 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="FAX | CLIPS AO VIVO",Bruno e Marrone [Live 4 sem propagandas]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133621
-#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/156621
-#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136196
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui em Casa 1]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136201
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui em Casa 2]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136202
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui na Fazenda]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Aqui na Fazenda]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136198
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Drive-In Na Terra]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Drive-In Na Terra]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136200
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Fun Live]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Fun Live]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136199
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Maiara e Maraisa [Workshow]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136197
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Lado B]" tvg-logo="https://rd1.com.br/wp-content/uploads/2022/07/20220724-marilia-mendonca-750x422.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Lado B]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136206
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Live Local]" tvg-logo="https://s2.glbimg.com/WXdTEhT98phmn7iYZNHd63hfs7c=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_b0f0e84207c948ab8b8777be5a6a4395/internal_photos/bs/2022/C/c/B375dFTqOqIUB5z44fnQ/2020-01-22-marilia-mendonca.jpeg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Live Local]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136205
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Todos os Cantos]" tvg-logo="https://s2.glbimg.com/Uyey5sIbDtJsueoI29cAAr7vt4k=/top/e.glbimg.com/og/ed/f/original/2019/07/02/6.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Todos os Cantos]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136204
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Workshow]" tvg-logo="https://i.pinimg.com/736x/4a/12/d1/4a12d1804c7f080e0ed1d3dd2e8ac870.jpg" group-title="FAX | CLIPS AO VIVO",Marilia Mendonça [Workshow]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136203
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Eduardo Costa [Cabaré]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Eduardo Costa [Cabaré]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136589
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136592
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Zé Felipe [Pai e Filho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo e Zé Felipe [Pai e Filho]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136590
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo [Canto, Bebo e Choro]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Leonardo [Canto, Bebo e Choro]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136591
-#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Na Praia Hotel]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Na Praia Hotel]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136193
-#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Pelo Amor de Deus]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Pelo Amor de Deus]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136194
-#EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Sunset]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Jorge e Mateus [Sunset]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136195
-#EXTINF:-1 tvg-id="" tvg-name="Henrique e Juliano [Live Liberdade Provisória]" tvg-logo="https://i.imgur.com/g939zWY.png" group-title="FAX | CLIPS AO VIVO",Henrique e Juliano [Live Liberdade Provisória]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133623
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco em BH]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Buteco em BH]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136189
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Buteco Em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Buteco Em Casa 1]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136192
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Embaixador no Agronegócio]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Embaixador no Agronegócio]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136188
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Especial São João]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Especial São João]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136191
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [Festa do Peão Barretos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [Festa do Peão Barretos]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136190
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima [YouTube Music]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima [YouTube Music]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136187
-#EXTINF:-1 tvg-id="" tvg-name="Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]" tvg-logo="https://i.imgur.com/KgxuZMT.png" group-title="FAX | CLIPS AO VIVO",Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/133628
-#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Eduardo Costa [Aqui em Uberlândia]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136588
-#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Especial Dia dos Namorados]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="FAX | CLIPS AO VIVO",Eduardo Costa [Especial Dia dos Namorados]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/136587
 
 
 
@@ -10559,80 +7667,3 @@ https://stream-22.zeno.fm/ked21357trquv?zs=OqqKREW7Rh2vEp-XaNBpZw
 https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="RADIOS",Blog do Léo Lima
 https://player.painelvox.com/player-ssl/8340/;
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Nativa 94.3 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RADIOS",Rádio Nativa 94.3 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/149372
-#EXTINF:-1 tvg-id="" tvg-name="Radio Arena" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RADIOS",Radio Arena
-http://apkwuv.xyz:80/cristina2021/graniptv2005/89536
-#EXTINF:-1 tvg-id="" tvg-name="Band Vale 102.9 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RADIOS",Band Vale 102.9 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152603
-#EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi 96.5 FM RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio14215_1562877228.jpg" group-title="RADIOS",Super Rádio Tupi 96.5 FM RJ
-http://apkwuv.xyz:80/cristina2021/graniptv2005/126907
-#EXTINF:-1 tvg-id="" tvg-name="Radio 90's Alternative" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RADIOS",Radio 90's Alternative
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137147
-#EXTINF:-1 tvg-id="" tvg-name="Radio Awesome 80's" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RADIOS",Radio Awesome 80's
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137146
-#EXTINF:-1 tvg-id="" tvg-name="Radio Beatles" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RADIOS",Radio Beatles
-http://apkwuv.xyz:80/cristina2021/graniptv2005/126906
-#EXTINF:-1 tvg-id="" tvg-name="Radio Buzz" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RADIOS",Radio Buzz
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137148
-#EXTINF:-1 tvg-id="" tvg-name="Radio Classic Buzz" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RADIOS",Radio Classic Buzz
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137149
-#EXTINF:-1 tvg-id="" tvg-name="Radio Hair Bands" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RADIOS",Radio Hair Bands
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137151
-#EXTINF:-1 tvg-id="" tvg-name="Radio Hard Rock" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RADIOS",Radio Hard Rock
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137150
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Liberdade 92.9 FM BH" tvg-logo="https://img.radios.com.br/radio/lg/radio13590_1661519400.jpeg" group-title="RADIOS",Radio Liberdade 92.9 FM BH
-http://apkwuv.xyz:80/cristina2021/graniptv2005/126609
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Nova Geração FM SP" tvg-logo="https://img.radios.com.br/radio/lg/radio32447_1623949598.png" group-title="RADIOS",Radio Nova Geração FM SP
-http://apkwuv.xyz:80/cristina2021/graniptv2005/126903
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Kboing 100.3 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio29604_1653915617.jpg" group-title="RADIOS",Radio Kboing 100.3 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/126905
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Alvorada 94.9 FM BH" tvg-logo="https://img.radios.com.br/radio/lg/radio9172_1439401369.jpg" group-title="RADIOS",Radio Alvorada 94.9 FM BH
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137140
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Hits 99.7 FM Macaé RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio80135_1638811575.png" group-title="RADIOS",Radio Hits 99.7 FM Macaé RJ
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137141
-#EXTINF:-1 tvg-id="" tvg-name="Radio Antenna 1 107.1 FM Itália" tvg-logo="https://img.radios.com.br/radio/lg/radio11927_1583262188.jpg" group-title="RADIOS",Radio Antenna 1 107.1 FM Itália
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137142
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Nativa 95.3 FM SP" tvg-logo="https://img.radios.com.br/radio/lg/radio14040_1526481130.jpg" group-title="RADIOS",Radio Nativa 95.3 FM SP
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137143
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Nova Sertaneja 95.3 FM MG" tvg-logo="https://img.radios.com.br/radio/lg/radio14180_1519906564.jpg" group-title="RADIOS",Radio Nova Sertaneja 95.3 FM MG
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152599
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Canção Nova 89.1 FM SP" tvg-logo="https://img.radios.com.br/radio/lg/radio11125_1568051795.png" group-title="RADIOS",Radio Canção Nova 89.1 FM SP
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152600
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Antena 1 Lite FM 103.7 RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio15456_1610635889.png" group-title="RADIOS",Radio Antena 1 Lite FM 103.7 RJ
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162551
-
-#EXTM3U url-tvg="http://grade-de-RITMOS.xml"
-############## RITMOS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeRITMOS" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Globo RJ 98.1 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Globo RJ 98.1 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/149370
-#EXTINF:-1 tvg-id="" tvg-name="Plus Rádio Fortaleza" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Plus Rádio Fortaleza
-http://apkwuv.xyz:80/cristina2021/graniptv2005/149368
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Transamérica 100.1 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Transamérica 100.1 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/149371
-#EXTINF:-1 tvg-id="" tvg-name="Rádio FM O Dia 100.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio FM O Dia 100.5
-http://apkwuv.xyz:80/cristina2021/graniptv2005/149377
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Clube 105.5 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Clube 105.5 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/149375
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Mix 106.3 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Mix 106.3 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/149369
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Hot 107 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Hot 107 FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/149376
-#EXTINF:-1 tvg-id="" tvg-name="Terra" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Terra
-http://apkwuv.xyz:80/cristina2021/graniptv2005/126904
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Lupa 1 FM 94.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Lupa 1 FM 94.5
-http://apkwuv.xyz:80/cristina2021/graniptv2005/149378
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Fla RJ" tvg-logo="https://img.radios.com.br/radio/lg/radio195257_1644619391.jpeg" group-title="RITMOS",Rádio Fla RJ
-http://apkwuv.xyz:80/cristina2021/graniptv2005/137144
-#EXTINF:-1 tvg-id="" tvg-name="Fita Cassete" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Fita Cassete
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162553
-#EXTINF:-1 tvg-id="" tvg-name="Radio Gospel Life" tvg-logo="https://img.radios.com.br/radio/lg/radio49251_1552934266.jpg" group-title="RITMOS",Radio Gospel Life
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162552
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Sinai Web Gospel SP" tvg-logo="https://img.radios.com.br/radio/lg/radio22540_1474915941.jpg" group-title="RITMOS",Rádio Sinai Web Gospel SP
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162550
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Gospel Campinas" tvg-logo="https://img.radios.com.br/radio/lg/radio40462_1522251880.jpg" group-title="RITMOS",Rádio Gospel Campinas
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152601
-#EXTINF:-1 tvg-id="" tvg-name="Bons Tempos FM" tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RITMOS",Bons Tempos FM
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152602
